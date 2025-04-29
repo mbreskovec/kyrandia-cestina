@@ -1,0 +1,40 @@
+Mùžu si vzít tuhle lahvièku?
+Jasnì. Tady v okolí se všude válí nìjaké lahvièky.
+Klidnì si ji vem.
+Jo, jo, vem si ji.
+Díky, Zanthio.
+Nesnáším jíst poøád mouchy, vážnì.
+Už tu mám dost harampádí.
+Nemùžu uvìøit, že si opravdu koupil pytel hnoje.
+Hezká židlièka.
+Patøila našemu kámošovi...
+...než dokvákal.
+Hej, to je náš nový nábytek!
+To je ale binec!
+Co je to zaè?
+Znovu ahoj.
+Potopená.
+Nìco tam už je.
+Fuj.
+Nebojíš se bradavic?
+Jsme sice žáby, ale Herb je náš zákonný zástupce.
+-KRK-
+Ne, díky.
+Ty jseš Faunova kamarádka?
+-PRÁÁSK-
+Sušené bylinky.
+-ÈMUCH-
+To musí být hnùj.
+Neber mi svíèku proti komárùm.
+To se pìknì ohøeje.
+Nemám v úmyslu to zapálit!
+Jeho vìci nikdo neukradl!
+Nemùžu mu to mít za zlé.
+Jeho vìci nikdo neukradl...
+Sem už se nic dalšího nevejde.
+HERBMAN.WSA
+FROG_1.WSA
+FROG_2.WSA
+CANDLE.WSA
+HRBJAR.WSA
+INDOOR.WSA

@@ -1,0 +1,147 @@
+<p:11|l:9|i:0>kapitola 3
+<p:12|l:70|i:1>Ráda bych ti pomohla, ale jak se zdá, ka¾dý svoje tìlo pou¾ívá.
+<p:23|l:54|i:2>Prosím! Nemìla bys zavaøovaèku, nebo nìco, kam bych se schoval?
+<c:10|i:6>
+<p:12|l:40|i:3>Proè se prostì nerozhlédne¹ kolem sám?
+<p:23|l:30|i:4>Musím stra¹it v téhle kupce sena.
+<c:10|i:7>
+<p:12|l:38|i:5>Co je na téhle kupce tak zvlá¹tního?
+<p:23|l:65|i:6>Byl jsem pøed lety úèastníkem jedné hrozné nehody s kosou tady poblí¾.
+<c:10|i:5>
+<p:12|l:42|i:7>Tak jo, konec s tímhle bláznovstvím. Otevøete!
+<p:25|l:38|i:8>Lituju, rozèílené ¾adatele v pondìlí nepou¹tíme.
+<p:24|l:12|i:9>Vùbec ¾ádné
+<c:10|i:6>
+<p:12|l:7|i:10>Troubové!
+<c:10|i:7>
+<p:12|l:7|i:11>Pitomci!
+<c:10|i:5>
+<p:12|l:70|i:12>Nevíte náhodou, kde bych mohla najít nepou¾ívané tìlo?
+<p:26|l:64|i:13>Toto je úctyhodné spoleèenství. Takové vìci my nedìláme!
+<c:10|i:6>
+<p:12|l:83|i:14>Nechci po vás nic nechutného. Potøebuji prostì na chvíli pùjèit tìlo.
+<p:26|l:60|i:15>Jasnì, v poøádku. Tady vedle mám tøi tìla, které zrovna nepou¾ívám.
+<p:12|l:14|i:16>Vá¾nì? To je skvìlé!
+<p:26|l:44|i:17>Dìlám si srandu. To jse¹ divná a je¹tì navíc hloupá?
+<c:10|i:7>
+<p:12|l:25|i:18>Prosím. Je to naléhavé.
+<p:26|l:52|i:19>Pokud na nìjaké narazím, dám ti vìdìt.
+<c:10|i:5>
+<p:12|l:8|i:20>Hej vy!
+<c:10|i:6>
+<p:12|l:43|i:21>Hej, tohle je jen hromada starých hadrù!
+<c:10|i:7>
+<p:12|l:43|i:22>To tady nejsou ¾ádní normální lidé?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:27|i:23>Co asi dìlá Faun?
+<c:10|i:8>
+<p:12|l:45|i:24>Mo¾ná bych nemìla být na Marka tak tvrdá.
+<c:10|i:8>
+<p:12|l:45|i:25>Doufám, ¾e Faun zatím nezapálil dùm.
+<c:10|i:8>
+<p:12|l:29|i:26>Kdybych tak mìla své kouzelné zrcadlo.
+<c:10|i:8>
+<p:12|l:97|i:27>Kdy¾ mi chce Marko pomáhat, mo¾ná bych ho mìla poslat i s tou jeho pitomou Rukou do støedu zemì.
+<c:10|i:8>
+<p:12|l:51|i:28>Kdy¾ je ta Ruka tak chytrá, proè to neudìlá sama?
+<c:10|i:8>
+<p:12|l:82|i:29>Kdybych mìla své kouzelné zrcadlo, mohla bych øíct Faunovi, aby na¹el Marka a poslal ho sem.
+<c:10|i:8>
+<p:12|l:66|i:30>Marko je v¾dycky tak roztomilý. Bylo by lep¹í, kdyby tu Ruku nikdy nena¹el.
+<c:10|i:8>
+<p:12|l:90|i:31>V Kyrandii byla v¾dycky tak nízká zloèinnost. Proè nìkdo musel ukrást mé vybavení zrovna teï?
+<c:10|i:8>
+<p:12|l:65|i:32>©koda ¾e tenhle mùj cestovní kotlík je moc malý na tvorbu portálových lektvarù.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

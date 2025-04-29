@@ -1,0 +1,120 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:48|i:0>So, you guys looking for the Abominable Snowman?
+<p:58|l:9|i:1>Sure are.
+<c:10|i:6>
+<p:12|l:33|i:2>He's right inside the cave there.
+<p:58|l:33|i:3>You go in first. We'll wait here.
+<c:10|i:7>
+<p:12|l:49|i:4>Really. The Abominable Snowman is right in there!
+<p:58|l:51|i:5>Maybe it would be safer to wait until he comes out?
+<c:10|i:5>
+<p:12|l:42|i:6>You two are big brave hunters, aren't you.
+<p:59|l:35|i:7>Yep. We're crafty woodsmen alright.
+<c:10|i:6>
+<p:12|l:32|i:8>The Snowman is inside that cave.
+<p:12|l:25|i:9>Why don't you go get him?
+<p:59|l:36|i:10>Well....Maybe we needs a plan first.
+<c:10|i:7>
+<p:12|l:26|i:11>You two are afraid of him!
+<p:59|l:18|i:12>So what if we are?
+<c:10|i:5>
+<p:12|l:49|i:13>Please. I've got to get up to the Wheels of Fate.
+<p:60|l:8|i:14>Qaflemw?
+<c:10|i:6>
+<p:12|l:56|i:15>I'd love to stay and chat, but I'm in a real hurry here.
+<p:60|l:28|i:16>Njuaru, dujn ku bflo a oasu!
+<c:10|i:7>
+<p:12|l:59|i:17>Actually, I love your outfit and setup here and all, but...
+<p:60|l:9|i:18>Oaqjflcr!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:25|i:19>I do not need this delay!
+<c:10|i:8>
+<p:12|l:34|i:20>Charming fellow, but lousy timing!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:34|i:21>There has to be a way out of here.
+<c:10|i:8>
+<p:12|l:44|i:22>If only I could get someone to distract him.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:36|i:23>Aha! I know I can climb out of here!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

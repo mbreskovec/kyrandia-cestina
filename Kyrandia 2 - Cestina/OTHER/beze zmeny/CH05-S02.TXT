@@ -1,0 +1,117 @@
+<p:12|l:26|i:0>May I please get past you?
+<p:50|l:30|i:1>Sorry, I'm too scared to move.
+<c:10|i:6>
+<p:12|l:60|i:2>Do you know how I can get past that boy scout at the bridge?
+<p:50|l:44|i:3>Did you say Boy Scouts? Is it a large troop?
+<c:10|i:7>
+<p:12|l:39|i:4>Troop? That term might be streching it.
+<p:50|l:32|i:5>Termite!? Did you say TERMITE!?!
+<p:12|l:64|i:6>(Oh brother! I didn't realize trees could have earwax problems.)
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:60|i:7>Thank you, but I don't want to cross back across the bridge.
+<p:53|l:48|i:8>That's rough. We all have our jobs to do though.
+<c:10|i:6>
+<p:12|l:50|i:9>Really. I just want to walk across and keep going.
+<p:53|l:30|i:10>Boy. You're bitter aren't you?
+<c:10|i:7>
+<p:12|l:7|i:11>Please?
+<p:53|l:39|i:12>You're welcome. I'm just happy to help.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:65|i:13>Hmm. I've got to find some other pedestrian to distract this guy.
+<c:10|i:8>
+<p:12|l:45|i:14>Doesn't seem to be much local traffic though.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:55|i:15>All these mystic toll puzzles are starting to annoy me.
+<c:10|i:8>
+<p:12|l:54|i:16>I'm an Alchemist, not a Horticultural Parapsycologist!
+<c:10|i:9>
+<p:12|l:39|i:17>Maybe this twerp will listen to reason.
+<p:12|l:34|i:18>Wouldn't that be a welcome change.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:37|i:19>Nervous trees and the Highway Helper.
+<p:12|l:11|i:20>Nice world.
+<c:10|i:0>

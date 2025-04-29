@@ -1,0 +1,130 @@
+<p:12|l:54|i:0>Nevíte, jak pøimìt Veverku, aby spustil lanovku?
+<p:50|l:19|i:1>To chce klídek!
+<c:10|i:6>
+<p:12|l:25|i:2>Potøebuji jet lanovkou!
+<p:50|l:14|i:3>Chy» ten rytmus!
+<c:10|i:7>
+<p:12|l:21|i:4>Tohle je naléhavé!
+<p:50|l:23|i:5>A raz, a dva...
+<p:12|l:35|i:6>Díky. To jste mi fakt pomohli.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:42|i:7>U¾ jste nìkdy pracoval pro dopravní spoleènost?
+<p:53|l:4|i:8>Huh?
+<c:10|i:6>
+<p:12|l:38|i:9>Nemáte zájem o zmìnu kariéry?
+<p:53|l:33|i:10>Promiò. Nemohu opustit svoji pozici!
+<c:10|i:7>
+<p:12|l:34|i:11>Prosím! Musím spustit lanovku!
+<p:53|l:37|i:12>Bohu¾el tohle je Veverkova práce.
+<c:10|i:5>
+<p:12|l:27|i:13>Jak dlouhá je 'Dlouhá pauza na obìd'?
+<p:54|l:48|i:14>Nemá ¾ádný limit. V tom je její pùvab.
+<c:10|i:6>
+<p:12|l:47|i:15>Nevíte, kde je Ústøedí veverèích odborù?
+<p:54|l:26|i:16>Zkou¹elas to v lese?
+<c:10|i:7>
+<p:12|l:30|i:17>Prosím! Hodila by se mi nìjaká pomoc!
+<p:54|l:37|i:18>Mo¾ná bys tam mohla vy¹plhat?
+<p:12|l:53|i:19>Jsem docela silná, ale tohle bych asi nezvládla.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:36|i:20>Prosím. Musím se dostat nahoru.
+<p:56|l:31|i:21>Lituji, Já si teï musím dát pauzu.
+<c:10|i:6>
+<p:12|l:31|i:22>Nemù¾ete udìlat výjimku?
+<p:56|l:71|i:23>Ostatní veverky by se na¹tvaly, kdybych poru¹il na¹i odborovou politiku.
+<c:10|i:7>
+<p:12|l:37|i:24>Není nìco, co bych vám mohla nabídnout?
+<p:56|l:53|i:25>Jistì. Pøestaòte se mì pokou¹et podplatit. To bych ocenil!
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:28|i:26>Lidi, ty moje nohy mì zabijou.
+<c:10|i:8>
+<p:12|l:41|i:27>Pøála bych si mít pár Brandonových sandálù.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:30|i:28>Ta noha mi nahání husí kù¾i!
+<c:10|i:8>
+<p:12|l:39|i:29>Aspoò kdyby mìla pono¾ku...
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:38|i:30>Mo¾ná bych prostì mohla vy¹plhat po lanì.
+<c:10|i:8>
+<p:12|l:41|i:31>Jsem snad cvok? Urèitì je tu snaz¹í cesta!
+<c:10|i:8>
+<p:12|l:23|i:32>Tohle není moc pùsobivé!
+<c:10|i:8>
+<p:12|l:28|i:33>Vlastnì to ani nevypadá jako les.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

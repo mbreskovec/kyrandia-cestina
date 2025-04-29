@@ -1,0 +1,136 @@
+<p:12|l:45|i:0>Sna¾ím se najít správnou silnici. Támhle kousek jedna byla.
+<p:50|l:34|i:1>PILA? Øekla jsi pila? A jak velká?
+<c:10|i:6>
+<p:12|l:86|i:2>Hele, uklidnìte se. Neznám to tady, prostì jen hledám cestu, dobrá?
+<p:50|l:53|i:3>BOBRA? Vidìlas bobra? A je jeden, nebo je jich celá rodina?
+<c:10|i:7>
+<p:12|l:54|i:4>Hej! Nejsem ¾ádný døevorubec a nejsou tu ¾ádní bobøi!
+<p:12|l:52|i:5>Prostì jsem zabloudila v tomhle pohoøí.
+<p:50|l:28|i:6>HOØÍ?!! Kde hoøí? Je to lesní po¾ár?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:66|i:7>Ví¹ jak bych se mohla dostat pøes ty stromy tamhle na cestì?
+<p:53|l:48|i:8>Oh, ty jsou slavné. To je Zkamenìlý les.
+<c:10|i:6>
+<p:12|l:23|i:9>Jak se pøes nì dostanu?
+<p:53|l:30|i:10>Nebyli v¾dycky zkamenìlí.
+<c:10|i:7>
+<p:12|l:22|i:11>Tak¾e, jak se pøes nì dostanu?
+<p:53|l:52|i:12>Bývala to taneèní skupina. Swingující Semenáci.
+<p:53|l:29|i:13>Mo¾ná ¾es o nich sly¹ela?
+<c:10|i:5>
+<p:12|l:46|i:14>A ví¹ jak se pøes ty pitomé stromy dostat?
+<p:54|l:52|i:15>Promiò, ty u¾ jsou tam déle, ne¾ pamatuji.
+<c:10|i:6>
+<p:12|l:40|i:16>Co s tou nohou budete dìlat?
+<p:54|l:43|i:17>Ani nevím. Tøeba si ji necháme jako mazlíèka.
+<c:10|i:7>
+<p:12|l:43|i:18>Prosím! Nemìli byste nìjaké kouzlo?
+<p:12|l:31|i:19>Musím se dostat pøes ty stromy!
+<p:54|l:29|i:20>Lituji. U¾ jsi zkou¹ela sekyru?
+<c:10|i:5>
+<p:12|l:46|i:21>Ví¹ jak se dostat pøes ty pitomé stromy?
+<p:54|l:52|i:22>Promiò, ty u¾ jsou tam déle, ne¾ pamatuji.
+<c:10|i:6>
+<p:12|l:40|i:23>Co s tou nohou budete dìlat?
+<p:54|l:43|i:24>Ani nevím. Tøeba si ji necháme jako mazlíèka.
+<c:10|i:7>
+<p:12|l:43|i:25>Prosím! Nemìli byste nìjaké kouzlo?
+<p:12|l:31|i:26>Musím se dostat pøes ty stromy!
+<p:54|l:29|i:27>Lituji. U¾ jsi zkou¹ela sekyru?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:55|i:28>Jeden by myslel, ¾e rytíø bude mít sekyru nebo tak nìco.
+<c:10|i:8>
+<p:12|l:47|i:29>Mo¾ná by se ty stromy daly vydìsit.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:27|i:30>Nejdøív ruka, teï noha...
+<p:12|l:30|i:31>Jestlipak je v tom nìjaká spojitost?
+<c:10|i:8>
+<p:12|l:27|i:32>Nejdøív ruka, teï noha...
+<p:12|l:30|i:33>Jestlipak je v tom nìjaká spojitost?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:64|i:34>Tohle je nejhor¹í pøípad zahradnické neurózy, jaký jsem kdy vidìla!
+<c:10|i:8>
+<p:12|l:48|i:35>Musím vymyslet nìjaký zpùsob, jak je odtud dostat!
+<c:10|i:9>
+<p:12|l:21|i:36>Koneènì! Opravdová silnice!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:36|i:37>Je tahle noha nìjaký druh domácího zvíøete?
+<p:12|l:59|i:38>Rozhodnì si tady nedám ¾ádné produkty z mléka, pìknì dìkuji.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:44|i:39>Potøebovala bych se nìjak dostat pøes ty stromy!
+<c:10|i:0>

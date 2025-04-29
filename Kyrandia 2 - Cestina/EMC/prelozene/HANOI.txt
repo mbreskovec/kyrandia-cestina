@@ -1,0 +1,15 @@
+Cože? Zase ten klacek?
+Nikdy jsem neslyšela o chodícím klacku, který sám chodí.
+Snad je to správná èást.
+Hm. Zamèeno.
+Vypadá jako mùj kamarád Larry.
+Vypadá jako mùj kamarád Moe.
+Vypadá jako mùj kamarád Curly.
+Tohle nevypadá jako místnost mechanika.
+HANOI_1.WSA
+HANOI_2.WSA
+HANOI_3.WSA
+H_GEARS1.WSA
+H_GEARS2.WSA
+EYEOPEN.WSA
+MOUTH.WSA

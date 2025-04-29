@@ -1,0 +1,54 @@
+The valve is now open.
+The valve is now closed.
+Hey! That stick is jamming the gears.
+Strange, that looked like a piece of the fishing boat.
+Wow! That electricity looks dangerous!
+I think one magnet is enough.
+Magnetic!
+Nothing happened.
+There's some ground wheat in there...
+If only I could scoop it out.
+There's some ground radish in there...
+The grinder is pounding.
+The grinder is not grinding.
+The radish has been smashed...
+How can I scoop it out?
+The grain has been smashed...
+Now I've got ground grain.
+Now I've got ground radish.
+There is nothing to scoop out.
+I already have something in my bowl.
+I couldn't get any grain in time...
+The flask opening is too small.
+I couldn't get any ground radish in time...
+I'd hate to have this smashed.
+I don't think I want to smash that.
+I don't want to smash my stick.
+I don't want to smash poor Mr. Ghost.
+I don't want to destroy my shears.
+I'm not even going to think about destroying that!
+I'm not going to risk my potion.
+This isn't worth ruining.
+If I smash this, how can I drink more rootbeer?
+I doubt that pirate can use this now.
+The tooth was worthless anyhow.
+It was smashed!
+Beautiful countryside.
+That water looks very fresh.
+It might sink and I may never see it again.
+What a refreshing cascade.
+The water is hardly flowing.
+Now it's turning smoothly.
+Something looks wrong here.
+The gears must be stuck.
+He looks grumpy.
+But I'm not the one to cheer him up.
+Typical Kyrandia engineering.
+Why can't anything be just plain regular?
+This must be where all the water comes from.
+WHEELSTP.WSA
+WHEEL.WSA
+SHOCK.WSA
+AXLE.WSA
+TURNWHEL.WSA
+ZANSHOCK.WSA

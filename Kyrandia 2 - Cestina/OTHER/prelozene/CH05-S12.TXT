@@ -1,0 +1,107 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:19|i:0>To je ale divné místo!
+<c:10|i:8>
+<p:12|l:54|i:1>Nejsem si jistá, jestli se tento styl architektury mùže ujmout.
+<c:10|i:8>
+<p:12|l:4|i:2>Hmm?
+<c:10|i:8>
+<p:12|l:17|i:3>Co mám dìlat?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:51|i:4>Hmm. Trpìlivst je hlavní ctností bojovníka. Nejspíš.
+<c:10|i:8>
+<p:12|l:77|i:5>Úklon doleva, úklon doprava, vztyk a sed, boj, boj, boj.
+<p:12|l:41|i:6>Hmm. Co to má jako znamenat?
+<c:10|i:8>
+<p:12|l:30|i:7>Tohle mají být Vzteklojské vìže?
+<c:10|i:8>
+<p:12|l:45|i:8>Místní opraváøi musejí být placení od hodiny.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:14|i:9>To je krása!
+<c:10|i:8>
+<p:12|l:12|i:10>Ten výhled!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

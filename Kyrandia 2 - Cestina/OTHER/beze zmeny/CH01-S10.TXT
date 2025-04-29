@@ -1,0 +1,147 @@
+<p:12|l:35|i:0>Have you seen the fishermen lately?
+<p:13|l:34|i:1>They usually fish near the bridge.
+<p:12|l:22|i:2>They're not there now.
+<p:12|l:34|i:3>They caught a fish and rowed away.
+<c:10|i:6>
+<p:12|l:34|i:4>I wonder where the fishermen went?
+<p:13|l:50|i:5>Maybe they're fishing somewhere else in the swamp.
+<p:15|l:34|i:6>Or maybe they're docked somewhere.
+<c:10|i:7>
+<p:12|l:35|i:7>Have you seen the fishermen lately?
+<p:13|l:34|i:8>They usually fish near the bridge.
+<p:12|l:22|i:9>They're not there now.
+<p:12|l:34|i:10>They caught a fish and rowed away.
+<c:10|i:5>
+<p:12|l:28|i:11>Have you seen the fishermen?
+<p:18|l:23|i:12>Not since this morning.
+<p:18|l:30|i:13>I know what you're thinking...
+<p:18|l:66|i:14>...and that leaky boat of theirs couldn't make it across the lake.
+<c:10|i:6>
+<p:12|l:35|i:15>I need the fishermen's lead anchor.
+<p:18|l:48|i:16>Are you going to turn it into gold or something?
+<p:12|l:63|i:17>They don't call me a master of potions and alchemy for nothing.
+<p:18|l:19|i:18>Who calls you that?
+<c:10|i:7>
+<p:12|l:28|i:19>Have you seen the fishermen?
+<p:18|l:23|i:20>Not since this morning.
+<p:18|l:30|i:21>I know what you're thinking...
+<p:18|l:66|i:22>...and that leaky boat of theirs couldn't make it across the lake.
+<c:10|i:5>
+<p:12|l:19|i:23>I need that anchor.
+<c:10|i:6>
+<p:12|l:19|i:24>I need that anchor.
+<c:10|i:7>
+<p:12|l:19|i:25>I need that anchor.
+<c:10|i:5>
+<p:12|l:14|i:26>Big ugly weed.
+<c:10|i:6>
+<p:12|l:14|i:27>Big ugly weed.
+<c:10|i:7>
+<p:12|l:14|i:28>Big ugly weed.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:30|i:29>I need the fishermen's anchor.
+<p:22|l:12|i:30>Why tell me?
+<p:12|l:40|i:31>I thought you might know where they are.
+<p:22|l:23|i:32>Did you check the dock?
+<c:10|i:6>
+<p:12|l:19|i:33>I need that anchor.
+<p:22|l:16|i:34>I don't have it!
+<c:10|i:7>
+<p:22|l:19|i:35>Are you still here?
+<c:10|i:8>
+<p:12|l:19|i:36>I need that anchor.
+<c:10|i:8>
+<p:12|l:20|i:37>Where could they be?
+<c:10|i:8>
+<p:12|l:34|i:38>I'll bet it's right under my nose.
+<c:10|i:8>
+<p:12|l:18|i:39>Where could it be?
+<c:10|i:8>
+<p:12|l:19|i:40>I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:41>I'll turn it to gold.
+<c:10|i:8>
+<p:12|l:14|i:42>Big ugly weed.
+<c:10|i:8>
+<p:12|l:14|i:43>Big ugly weed.
+<c:10|i:8>
+<p:12|l:4|i:44>Ugh!
+<c:10|i:8>
+<p:12|l:7|i:45>Creepy.
+<c:10|i:8>
+<p:12|l:19|i:46>I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:47>I'll turn it to gold.
+<c:10|i:8>
+<p:12|l:19|i:48>I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:49>I'll turn it to gold.
+<c:10|i:8>
+<p:12|l:20|i:50> I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:51>I'll turn it to gold.
+<c:10|i:8>
+<p:12|l:19|i:52>I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:53>I'll turn it to gold.
+<c:10|i:8>
+<p:12|l:19|i:54>I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:55>I'll turn it to gold.
+<c:10|i:8>
+<p:12|l:19|i:56>I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:57>I'll turn it to gold.
+<c:10|i:8>
+<p:12|l:5|i:58>Peuw!
+<c:10|i:8>
+<p:12|l:5|i:59>Peuw!
+<c:10|i:8>
+<p:12|l:18|i:60>Where did they go?
+<c:10|i:8>
+<p:12|l:20|i:61>I need their anchor.
+<c:10|i:8>
+<p:12|l:11|i:62>Wierd bugs.
+<c:10|i:8>
+<p:12|l:35|i:63>I don't think they have the anchor.
+<c:10|i:8>
+<p:12|l:19|i:64>I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:65>I'll turn it to gold.
+<c:10|i:8>
+<p:12|l:19|i:66>I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:67>I'll turn it to gold.
+<c:10|i:8>
+<p:12|l:19|i:68>I need that anchor.
+<c:10|i:8>
+<p:12|l:21|i:69>I'll turn it to gold.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:42|i:70>Your boat doesn't have an anchor, does it?
+<p:18|l:33|i:71>No need, it's got magic steering.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

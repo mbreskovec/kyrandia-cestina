@@ -1,0 +1,65 @@
+Z_DMV.WSA
+Have a nice day.
+What a cheap door.
+That smoke stinks.
+Hot air.
+Weird fruit.
+Volcanic bonsai.
+"Department of Anchor Guidance."
+I don't want to do that.
+Wow, that's hot!
+Clear water.
+I'd wear a hat if I was you.
+It's a rough ride.
+Portals or vents, it's your choice.
+There is a charge of four seashells...
+For our pamphlet describing The Altar at the Center of the World.
+You need four seashells for the pamphlet.
+Thank you.
+You only lack three more seashells.
+You only lack two more seashells.
+You only lack one more seashell.
+Congratulations!
+A fine first step!
+Now, in order to actually register you for an Anchor Stone...
+...there is a small fee of four sand dollars.
+No, thank you.
+I'll require payment in seashells.
+You need four sand dollars for registration.
+Sorry, all registration fees must be paid to the Yellow Line clerk.
+But there's nobody there!
+She's on her break. She'll be back in three minutes.
+Where is she?
+She's on her break. She'll be back in two minutes.
+She's on her break. She'll be back in one minute.
+It's been three minutes.
+She must be running late.
+You need four starfish for insurance.
+You only lack three more starfish.
+You only lack two more starfish.
+You only lack one more starfish.
+You know, you've been a good sport, and an excellent customer!
+That's just great.
+Now tell me, how do I get down and get one of those anchor stones?
+For the actual trip down to the center of the world...
+...Most people just jump down one of the hot air vents.
+I'll require payment in starfish.
+You only lack three more sand dollars.
+You only lack two more sand dollars.
+You only lack one more sand dollars.
+Excellent!
+You are almost ready!
+All that remains is for you to pay the four starfish for the required insurance.
+I'll require payment in sand dollars.
+You need four starfish for registration.
+Sorry, all registration fees must be paid to the Green Line clerk.
+He's on his break. He'll be back in three minutes.
+Where is he?
+He's on his break. He'll be back in two minutes.
+He's on his break. He'll be back in one minute.
+He must be running late.
+Strange island.
+VJ_SMK1.WSA
+VJ_WTR1.WSA
+VJ_WTR2.WSA
+DMV.WSA

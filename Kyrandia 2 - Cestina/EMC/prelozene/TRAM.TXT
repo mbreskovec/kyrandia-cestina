@@ -1,0 +1,33 @@
+ZANJOG.WSA
+Èlovìk by neøekl, že v zaèarovaném lese budou používat takový obyèejný pohonný systém.
+TRAMJUMP.WSA
+ROLNSTON.WSA
+Jen doufám, že to funguje.
+Žaludy! Fuj!
+Tohle nesnáším!
+Fuj! Nesnáším oøíšky!
+Oh, díky!
+Borová šiška vždycky potìší.
+Super. Výplata!
+Nashle!
+...Ale jak mám použít lanovku?
+Hej! Já chtìla jet lanovkou!
+Lituju. Dnes máme prodloužený obìd.
+SNOWCAGE.WSA
+Rozhodnì se nechystám spustit lanovku pro tebe!
+Promiò, ale úplatky neberu.
+Nedostanu se tam, když ten kámen poskakuje kolem.
+Prosím, nesnažte se manipulovat s tímto drahým zaøízením.
+Hmm. Mosaz.
+Co je tohle? Úvazištì pro jednorožce?
+To by mì zajímalo, kdo tam bydlí?
+Doufám, že ty vìže nepochází od stejného dodavatele jako nástupištì.
+Vida. Alpská kvìtena...
+Už se blížíme.
+Hmm. Jak uvést lanovku do pohybu?
+To jsou jistì hory.
+Tohle tu nenechám!
+Tady není místo na snìhuláka.
+SQRLCAGE.WSA
+TRAM.WSA
+SQRLRUN.WSA

@@ -1,0 +1,141 @@
+<p:12|l:37|i:0>I think I've found the lost treasure.
+<p:14|l:7|i:1>Really?
+<p:12|l:38|i:2>I discovered a huge skull in the cave.
+<p:14|l:19|i:3>Very good, Zanthia.
+<c:10|i:6>
+<p:12|l:63|i:4>I'm sure that skull has something to do with the lost treasure.
+<p:15|l:9|i:5>Probably.
+<p:14|l:17|i:6>It must! It must!
+<c:10|i:7>
+<p:12|l:49|i:7>Do you know what unlocks the secret of the skull?
+<p:15|l:46|i:8>Maybe you have to be dressed up like a pirate.
+<p:12|l:15|i:9>I am, aren't I?
+<c:10|i:5>
+<p:12|l:56|i:10>I think I may have some gold for you in the near future.
+<p:18|l:39|i:11>I think I may have a ride for you, too.
+<c:10|i:6>
+<p:12|l:39|i:12>Take me across now, I'll pay you later?
+<p:18|l:57|i:13>How about you pay me now, and I'll take you across later?
+<c:10|i:7>
+<p:12|l:56|i:14>I think I may have some gold for you in the near future.
+<p:18|l:39|i:15>I think I may have a ride for you, too.
+<c:10|i:5>
+<p:12|l:25|i:16>I need to open the skull.
+<p:16|l:4|i:17>Huh?
+<c:10|i:6>
+<p:12|l:25|i:18>I need to open the skull.
+<p:17|l:4|i:19>Huh?
+<c:10|i:7>
+<p:12|l:25|i:20>I need to open the skull.
+<p:16|l:11|i:21>What skull?
+<p:12|l:15|i:22>Oh, never mind.
+<c:10|i:5>
+<p:12|l:12|i:23>Nasty weeds.
+<c:10|i:6>
+<p:12|l:12|i:24>Nasty weeds.
+<c:10|i:7>
+<p:12|l:12|i:25>Nasty weeds.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:25|i:26>I need to open the skull.
+<p:22|l:11|i:27>What skull?
+<p:12|l:12|i:28>In the cave.
+<c:10|i:6>
+<p:12|l:29|i:29>I think I found the treasure.
+<c:10|i:7>
+<p:12|l:30|i:30>I just need to open the skull.
+<p:22|l:25|i:31>What are you waiting for?
+<c:10|i:8>
+<p:12|l:23|i:32>I'm tired of this game.
+<c:10|i:8>
+<p:12|l:36|i:33>I just want to get out of the swamp.
+<c:10|i:8>
+<p:12|l:21|i:34>I need that treasure.
+<c:10|i:8>
+<p:12|l:28|i:35>There has to be gold inside.
+<c:10|i:8>
+<p:12|l:23|i:36>My feet are killing me.
+<c:10|i:8>
+<p:12|l:32|i:37>I've walked eight miles already!
+<c:10|i:8>
+<p:12|l:12|i:38>Nasty weeds.
+<c:10|i:8>
+<p:12|l:12|i:39>Nasty weeds.
+<c:10|i:8>
+<p:12|l:4|i:40>Ugh!
+<c:10|i:8>
+<p:12|l:7|i:41>Creepy.
+<c:10|i:8>
+<p:12|l:15|i:42>Get ready boat.
+<c:10|i:8>
+<p:12|l:37|i:43>I'll be ready in a matter of minutes.
+<c:10|i:8>
+<p:12|l:26|i:44>I need to open that skull.
+<c:10|i:8>
+<p:12|l:28|i:45>There has to be gold inside.
+<c:10|i:8>
+<p:12|l:21|i:46>I'm ready for my nap.
+<c:10|i:8>
+<p:12|l:47|i:47>All work and no play makes Zanthia a dull girl.
+<c:10|i:8>
+<p:12|l:31|i:48>These guys don't know anything.
+<c:10|i:8>
+<p:12|l:37|i:49>Actually, the toads are pretty smart.
+<c:10|i:8>
+<p:12|l:19|i:50>This is ridiculous.
+<c:10|i:8>
+<p:12|l:32|i:51>I'm wandering around in circles.
+<c:10|i:8>
+<p:12|l:48|i:52>I don't need to waste time with this croc again.
+<c:10|i:8>
+<p:12|l:18|i:53>Grr, grr yourself.
+<c:10|i:8>
+<p:12|l:5|i:54>Peuw!
+<c:10|i:8>
+<p:12|l:5|i:55>Peuw!
+<c:10|i:8>
+<p:12|l:46|i:56>Maybe their anchor could crack the skull open.
+<c:10|i:8>
+<p:12|l:34|i:57>Why do they need an anchor anyway?
+<c:10|i:8>
+<p:12|l:11|i:58>Wierd bugs.
+<c:10|i:8>
+<p:12|l:16|i:59>Wierd, but cute.
+<c:10|i:8>
+<p:12|l:18|i:60>My feet are tired.
+<c:10|i:8>
+<p:12|l:12|i:61>And so am I.
+<c:10|i:8>
+<p:12|l:26|i:62>At least that rat is gone.
+<c:10|i:8>
+<p:12|l:31|i:63>That Swampsnake was impressive.
+<c:10|i:8>
+<p:12|l:35|i:64>There must be a lever or something.
+<c:10|i:8>
+<p:12|l:20|i:65>Who built this cave?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

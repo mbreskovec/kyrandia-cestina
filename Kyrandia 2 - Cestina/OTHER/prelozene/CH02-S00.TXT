@@ -1,0 +1,166 @@
+<p:11|l:9|i:0>kapitola 3
+<p:12|l:46|i:1>Povìz, ví¹ jak se dostat dolù k oceánu?
+<p:23|l:20|i:2>Projdi bránou.
+<c:10|i:6>
+<p:12|l:16|i:3>Mù¾e¹ mi to ukázat?
+<p:23|l:52|i:4>Jasnì. Se¾eò mi tìlo a odnesu tì tam klidnì na zádech.
+<c:10|i:7>
+<p:12|l:47|i:5>Nemohl bys mi prostì jen ukázat smìr?
+<p:23|l:28|i:6>A co myslí¹, ¾e dìlám?
+<c:10|i:5>
+<p:12|l:31|i:7>Mù¾ete prosím otevøít bránu?
+<p:24|l:18|i:8>Nemù¾e¹ dovnitø.
+<p:25|l:27|i:9>V úterý není otevøeno pro chodce.
+<p:12|l:31|i:10>Myslím, ¾e dnes není úterý.
+<p:24|l:21|i:11>Bude¹ muset odejít.
+<p:25|l:23|i:12>®enám bez kozlù vstup zakázán.
+<c:10|i:6>
+<p:24|l:24|i:13>Sbohem. Je¹tì se uvidíme.
+<p:25|l:36|i:14>Dneska nesmí nikdo dovnitø. Jsme plní.
+<p:12|l:29|i:15>Leda tak plní fazolí. Otevøete!
+<p:24|l:26|i:16>Lituju. Tak je to v pokynech.
+<p:25|l:39|i:17>Zákaz pro skupiny cizincù v poètu jeden nebo tøi.
+<c:10|i:7>
+<p:12|l:27|i:18>Patøím ke královským mystikùm!
+<p:12|l:27|i:19>Jsem na naléhavé misi...
+<p:12|l:83|i:20>...a kdy¾ mì vy hlupáci nevpustíte, celá zemì zmizí!
+<p:25|l:49|i:21>Lituju, ¾ádní kouzelníci bez povolení od osla.
+<p:24|l:39|i:22>Sbohem. Hodnì ¹tìstí. Hezký den.
+<p:12|l:42|i:23>Nebudu si vymìòovat zdvoøilosti s idioty.
+<c:10|i:5>
+<p:12|l:40|i:24>Nemohl byste mì nasmìrovat k hornolunskému molu?
+<p:26|l:53|i:25>Jasnì. To je tam, kam posílají vìt¹inu mé úrody hoøèice.
+<c:10|i:6>
+<p:12|l:54|i:26>Tak¾e, staèí kdy¾ pùjdu po ¾lutì pocákané cestì, nebo tak?
+<p:26|l:35|i:27>Nedìlej si ze mì ¹oufky, mladá dámo.
+<p:12|l:125|i:28>Promiòte. Mám dneska dost ¹patný den. Jsem na téhle cestì do støedu zemì, najít kotevní kámen, kterým...
+<p:26|l:83|i:29>Dobøe, dobøe. Prostì projdìte bránou a dolù do pøístavu. Nemù¾ete to minout.
+<p:12|l:14|i:30>Díky, pane.
+<c:10|i:7>
+<p:12|l:34|i:31>Opravdu se potøebuji dostat k molu.
+<p:26|l:43|i:32>Co takhle vzít to bránou?
+<c:10|i:5>
+<p:12|l:27|i:33>Hej, ty. Kde je molo?
+<c:10|i:6>
+<p:12|l:22|i:34>Haló. Je nìkdo doma?
+<c:10|i:7>
+<p:12|l:38|i:35>No tak, kámo. Co takhle mi trochu píchnout?
+<p:12|l:39|i:36>Hmm. Tihle lidé nejsou moc spoleèen¹tí.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:69|i:37>No skvìlé. Tohle seno u¾ si budu tahat z vlasù do smrti.
+<c:10|i:8>
+<p:12|l:55|i:38>Mìstská brána musí být nìkde tady poblí¾.
+<c:10|i:8>
+<p:12|l:27|i:39>Hmm. Tohle musí být ta brána.
+<c:10|i:8>
+<p:12|l:39|i:40>Tøeba bych se s tìmi strá¾emi mohla spøátelit.
+<c:10|i:8>
+<p:12|l:45|i:41>Tohle bude ta migréna, co jsem mìla minulý týden.
+<c:10|i:8>
+<p:12|l:38|i:42>Mo¾ná by tahle ruka mohla dìlat sluhu mnì.
+<c:10|i:8>
+<p:12|l:4|i:43>Hmm.
+<c:10|i:8>
+<p:12|l:5|i:44>Vzdych.
+<c:10|i:8>
+<p:12|l:10|i:45>Hezké bahno.
+<c:10|i:8>
+<p:12|l:52|i:46>Vùbec ¾ádní ptáci. Tahle vìc asi vypla¹ila i vrabce.
+<c:10|i:8>
+<p:12|l:13|i:47>To je poøádný sklep.
+<c:10|i:8>
+<p:12|l:13|i:48>My¹í ráj.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:26|i:49>Aha! Koneènì civilizace!
+<c:10|i:9>
+<p:12|l:37|i:50>Hmm. Tohle nevypadá jako brána.
+<c:10|i:9>
+<p:12|l:39|i:51>Pìkný domek, ale tohle asi nebude mìsto.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

@@ -1,0 +1,120 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:48|i:0>Tak¾e vy, chlapi, hledáte stra¹livého snì¾ného mu¾e?
+<p:58|l:9|i:1>To si pi¹.
+<c:10|i:6>
+<p:12|l:33|i:2>Je pøímo tady v té jeskyni.
+<p:58|l:33|i:3>Bì¾ první. Poèkáme tu na tebe.
+<c:10|i:7>
+<p:12|l:49|i:4>Vá¾nì. Stra¹livý snì¾ný mu¾ je pøímo tady!
+<p:58|l:51|i:5>Mo¾ná bude bezpeènìj¹í poèkat, a¾ vyleze.
+<c:10|i:5>
+<p:12|l:42|i:6>Vy dva jste pøece velicí stateèní lovci, ne?
+<p:59|l:35|i:7>Jo. A taky jsme zku¹ení zálesáci.
+<c:10|i:6>
+<p:12|l:32|i:8>Snì¾ný mu¾ je v té jeskyni.
+<p:12|l:25|i:9>Proè ho tam nejdete chytit?
+<p:59|l:36|i:10>Tedy....Mo¾ná bychom mìli mít napøed plán.
+<c:10|i:7>
+<p:12|l:26|i:11>Vy dva se ho bojíte!
+<p:59|l:18|i:12>A kdyby, tak co?
+<c:10|i:5>
+<p:12|l:49|i:13>Prosím. Musím se dostat nahoru ke Kolùm Osudu.
+<p:60|l:8|i:14>Qaflemw?
+<c:10|i:6>
+<p:12|l:56|i:15>Ráda bych tu zùstala a pokecala si, ale mám opravdu hroznì naspìch.
+<p:60|l:28|i:16>Njuaru, dujn ku bflo a oasu!
+<c:10|i:7>
+<p:12|l:59|i:17>Vá¾nì, líbí se mi tvùj oblek a to zaøízení tady, ale...
+<p:60|l:9|i:18>Oaqjflcr!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:25|i:19>Tohle zdr¾ení se mi nehodí!
+<c:10|i:8>
+<p:12|l:34|i:20>Okouzlující chlapík, ale ¹patné naèasování!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:34|i:21>Nìkde tu musí být cesta ven.
+<c:10|i:8>
+<p:12|l:44|i:22>Kdybych tak na¹la nìkoho, kdo by ho rozptýlil.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:36|i:23>Aha! Vìdìla jsem, ¾e odtud doká¾u vy¹plhat!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

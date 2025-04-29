@@ -1,0 +1,195 @@
+<p:11|l:9|i:0>chapter 3
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:31|i:1>Any ideas how to undo a trance?
+<p:24|l:4|i:2>Huh?
+<c:10|i:6>
+<p:12|l:33|i:3>Do you know how to undo a trance?
+<p:25|l:4|i:4>Huh?
+<c:10|i:7>
+<p:12|l:44|i:5>Are you two the largest morons in the world?
+<p:25|l:30|i:6>This is our sandwich. Beat it.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:40|i:7>Any ideas on how to undo a Trance Spell?
+<p:28|l:28|i:8>I usually just pinch myself.
+<c:10|i:6>
+<p:12|l:54|i:9>Did you happen to see somebody casting a trance spell?
+<p:28|l:40|i:10>Lester's poetry is sometimes entrancing.
+<c:10|i:7>
+<p:12|l:61|i:11>Look buddy, there's people standing in a stupor in your town.
+<p:28|l:11|i:12>Sorry lady.
+<c:10|i:5>
+<p:12|l:41|i:13>Do you know anything about trance spells?
+<p:29|l:21|i:14>Sorry, I'm a Skeptic.
+<c:10|i:6>
+<p:12|l:17|i:15>What's a Skeptic?
+<p:29|l:26|i:16>We don't believe in magic.
+<c:10|i:7>
+<p:12|l:3|i:17>So?
+<p:29|l:9|i:18>So, what?
+<c:10|i:5>
+<p:12|l:28|i:19>Know anything about trances?
+<p:30|l:5|i:20>Nope.
+<c:10|i:6>
+<p:12|l:56|i:21>I need to undo a trance that has been placed on someone.
+<p:30|l:12|i:22>Love potion?
+<c:10|i:7>
+<p:12|l:38|i:23>Please! I need to undo a trance spell!
+<p:30|l:61|i:24>Aren't you the same woman who was in here looking for a boat?
+<c:10|i:5>
+<p:12|l:35|i:25>Do you know anything about trances?
+<p:31|l:3|i:26>No.
+<c:10|i:6>
+<p:12|l:24|i:27>I need to undo a trance.
+<p:31|l:5|i:28>What?
+<c:10|i:7>
+<p:12|l:51|i:29>I thought someone in here might be able to help me.
+<p:31|l:44|i:30>Try getting in touch with the Royal Mystics.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:35|i:31>Do you know anything about trances?
+<p:36|l:29|i:32>My favorite kind of customer.
+<c:10|i:6>
+<p:12|l:5|i:33>What?
+<p:36|l:41|i:34>Gamblers who disregard actual statistics.
+<c:10|i:7>
+<p:12|l:4|i:35>Huh?
+<p:36|l:17|i:36>It's free advice.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:35|i:37>Do you know anything about trances?
+<p:40|l:35|i:38>Sorry, no more spiritualism for me.
+<c:10|i:6>
+<p:12|l:49|i:39>Well, I just thought you being a recent ghost....
+<p:40|l:6|i:40>Sorry.
+<c:10|i:7>
+<p:12|l:51|i:41>Couldn't you try for me? As sort of a return favor?
+<p:40|l:65|i:42>Are you going to hold this gratitude thing over my head for ever?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:35|i:43>I've got to find a way to Volcania.
+<c:10|i:8>
+<p:12|l:42|i:44>There has to be a boat that could take me.
+<c:10|i:8>
+<p:12|l:47|i:45>I doubt there are any boats here in the meadow.
+<c:10|i:8>
+<p:12|l:77|i:46>Actually though, anything could happen I suppose. This is Kyrandia after all.
+<c:10|i:8>
+<p:12|l:52|i:47>I'm sure there are no boats bound for Volcania here.
+<c:10|i:8>
+<p:12|l:37|i:48>Maybe this aqueduct goes to Volcania.
+<c:10|i:8>
+<p:12|l:63|i:49>I really should go back to Highmoon and arrange transportation.
+<c:10|i:8>
+<p:12|l:26|i:50>Volcania won't come to me.
+<c:10|i:8>
+<p:12|l:29|i:51>Why am I here in this garden?
+<c:10|i:8>
+<p:12|l:58|i:52>I should get back to finding a ride to Volcania I suppose.
+<c:10|i:8>
+<p:12|l:53|i:53>I doubt there is a direct tunnel to Volcania in here.
+<c:10|i:8>
+<p:12|l:106|i:54>If the truth be told though, there are certain parts of Kyrandia that I wouldn't mind if they disappeared.
+<c:10|i:8>
+<p:12|l:46|i:55>I can't believe these jerks don't have a boat.
+<c:10|i:8>
+<p:12|l:19|i:56>What sissy pirates.
+<c:10|i:8>
+<p:12|l:34|i:57>I've got to find a boat somewhere.
+<c:10|i:8>
+<p:12|l:77|i:58>I'd ride Malcom's boat from the Fountain of Eternal Magic if I could find it.
+<c:10|i:8>
+<p:12|l:62|i:59>I didn't realize the mustard industry was this well developed.
+<c:10|i:8>
+<p:12|l:79|i:60>You don't see the ketchup or pickle relish people putting on this kind of show.
+<c:10|i:8>
+<p:12|l:52|i:61>This will look good on my record at the next review.
+<c:10|i:8>
+<p:12|l:22|i:62>Zanthia: Mystic felon.
+<c:10|i:8>
+<p:12|l:49|i:63>I have got to find a boat to take me to Volcania!
+<c:10|i:8>
+<p:12|l:57|i:64>There has to be a nautical patriot around here somewhere.
+<c:10|i:8>
+<p:12|l:67|i:65>That is certainly one of the most unusual buildings I've ever seen.
+<c:10|i:8>
+<p:12|l:38|i:66>Is that a fish head and a bird's tail?
+<c:10|i:8>
+<p:12|l:38|i:67>I am getting tired of all this hiking.
+<c:10|i:8>
+<p:12|l:98|i:68>A mystic without portals is like... well I don't know what it's like, but it sure is inconvenient!
+<c:10|i:8>
+<p:12|l:27|i:69>I never did like gym class.
+<c:10|i:8>
+<p:12|l:34|i:70>I'm more of the intellectual type.
+<c:10|i:8>
+<p:12|l:36|i:71>I wonder if this is the right place?
+<c:10|i:8>
+<p:12|l:5|i:72>Hmmm?
+<c:10|i:8>
+<p:12|l:50|i:73>This boat here has to be the answer to my problem.
+<c:10|i:8>
+<p:12|l:92|i:74>If the crew is squeamish about Volcania, maybe I could divert the boat once we're under way.
+<c:10|i:8>
+<p:12|l:44|i:75>Seems like a big boat just to carry mustard.
+<c:10|i:8>
+<p:12|l:23|i:76>Who's steering, anyway?
+<c:10|i:8>
+<p:12|l:20|i:77>This isn't Volcania.
+<c:10|i:8>
+<p:12|l:38|i:78>Even the sand here looks like mustard.
+<c:10|i:8>
+<p:11|l:39|i:79>This is not how I envisaged my funeral.
+<c:10|i:8>
+<p:11|l:60|i:80>I like to think I'm more than just somebody's hors d'oeuvre.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

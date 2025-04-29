@@ -1,0 +1,43 @@
+I'm not going in there without my Alchemist's Magnet.
+Aha. Now to investigate.
+Keep out of my cellar.
+What pretty vinegar.
+I'm not leaving unless that scarecrow runs past me. Ha!
+Are you Farmer Greenberry?
+That's me.
+Thanks for the letter.
+Aren't you the Mustard King?
+I'd love to get your secret recipe.
+The Greenberry recipe is:
+Mix ground radish with vinegar.
+The recipe's been in our family for generations.
+Sorry.
+Dragon tears.
+He's going to grow up to be huge...
+Look at the size of his feet.
+He's just a puppy.
+I'll give this back...
+He only eats cats.
+SCRW
+Look! I'm free!
+Get back to work!
+You haven't fulfilled your contractual obligation.
+No way, Fatso!
+I'm not working that garden again!
+See ya!
+Beautiful countryside.
+OUTFARM
+This aqueduct goes everywhere!
+Eew! What bad taste!
+He must be a bachelor.
+He was picking up another shipment of mustard.
+ 
+_MEANWIL.COL
+_MNWHILG.CPS
+_MNWHILF.CPS
+_MNWHILE.CPS
+FARMER.WSA
+DRAGON.WSA
+SC_ENTER.WSA
+ZANDOWN.WSA
+PICKUPMU.WSA

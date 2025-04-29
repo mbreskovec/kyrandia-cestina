@@ -1,0 +1,115 @@
+<p:12|l:34|i:0>Tak¾e, jak se teï odtud dostaneme?
+<p:43|l:33|i:1>Otvírám portál do Miltonie.
+<p:43|l:23|i:2>Klidnì se pøidej.
+<c:10|i:6>
+<p:12|l:41|i:3>Nemohla bys mi otevøít portál do Kyrandie?
+<p:43|l:27|i:4>Promiò, tohle byl poslední.
+<c:10|i:7>
+<p:12|l:60|i:5>Jak se mám odtud dostat ke Kolùm osudu?
+<p:43|l:72|i:6>Tam jsem byla. Vezmi to pøes Duhový most z Létajícího lesa.
+<p:11|l:17|i:7>Díky, musím bì¾et.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:40|i:8>Nu¾e, mìla bych si pospí¹it ke Kolùm!
+<c:10|i:8>
+<p:12|l:34|i:9>Vìdìla jsem, ¾e ta vìc s Oltáøem je nìjaká podezøelá!
+<c:10|i:8>
+<p:12|l:27|i:10>Celý tenhle systém je zmatený!
+<c:10|i:8>
+<p:12|l:30|i:11>Proè tu prostì nemù¾e být schodi¹tì?
+<c:10|i:8>
+<p:12|l:53|i:12>Mo¾ná by mì nìkterý z tìch gejzírù vynesl na øímsu.
+<c:10|i:8>
+<p:12|l:36|i:13>Teï by se mi hodily ty létající støevíèky!
+<c:10|i:8>
+<p:12|l:30|i:14>Musí tu být cesta zpátky.
+<c:10|i:8>
+<p:12|l:51|i:15>Nejsem pøece jediný mystik bez portálového lektvaru.
+<c:10|i:8>
+<p:12|l:26|i:16>Teï bych chtìla, aby tu byl Marko.
+<c:10|i:8>
+<p:12|l:40|i:17>Mohl by mi odnést pár tìch kamenù.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:34|i:18>Odpovìdí jsou urèitì tyhle prùduchy.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

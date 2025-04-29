@@ -1,0 +1,40 @@
+Can I have this flask?
+Sure. There's flasks lying all over this country.
+Go ahead, take it.
+Yeah, yeah, take it.
+Thank you, Zanthia.
+I can't stand eating flies, really.
+I've got enough junk in here already.
+I can't believe he actually bought a bag of manure.
+A tiny stool.
+It belonged to our buddy...
+...before he croaked.
+Hey, that's our new furniture!
+What a mess!
+What is that stuff?
+Hello again.
+It sunk.
+There's already something in there.
+Yuck.
+Aren't you afraid of warts?
+Actually, we're frogs, but Herb is our legal guardian.
+-BURP-
+No thank you.
+Aren't you Faun's friend?
+-BRAAAP-
+Dried herbs.
+-SNIFF-
+Must be manure.
+Don't take my mosquito candle.
+That heated it up.
+I don't want to burn that!
+Nobody stole any of HIS stuff!
+I can't blame them.
+Nobody stole any of his stuff...
+There's hardly any place to set anything down.
+HERBMAN.WSA
+FROG_1.WSA
+FROG_2.WSA
+CANDLE.WSA
+HRBJAR.WSA
+INDOOR.WSA

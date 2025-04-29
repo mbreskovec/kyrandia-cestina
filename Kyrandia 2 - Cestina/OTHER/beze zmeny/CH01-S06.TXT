@@ -1,0 +1,140 @@
+<p:13|l:30|i:0>Any sign of the lost treasure?
+<p:12|l:9|i:1>None yet.
+<p:12|l:38|i:2>I've got to get rid of that rat first.
+<c:10|i:6>
+<p:12|l:47|i:3>I'd like to mix up a potion that would fix him!
+<p:13|l:5|i:4>Sure.
+<c:10|i:7>
+<p:13|l:35|i:5>What kind of potion could you make?
+<p:12|l:17|i:6>I'm not sure yet.
+<p:12|l:47|i:7>All I have is my old magician's school recipes.
+<c:10|i:5>
+<p:12|l:30|i:8>Why don't you paint that junk?
+<p:18|l:42|i:9>Why don't you find someone else to bother?
+<c:10|i:6>
+<p:12|l:32|i:10>Have you relaxed your rules yet?
+<p:18|l:28|i:11>You'll be the first to know.
+<c:10|i:7>
+<p:12|l:46|i:12>Has anyone ever mentioned what a jerk you are?
+<p:18|l:32|i:13>No, but they all talk about you.
+<c:10|i:5>
+<p:12|l:9|i:14>Any luck?
+<c:10|i:6>
+<p:12|l:8|i:15>Nothing?
+<c:10|i:7>
+<p:12|l:16|i:16>Not even a bite?
+<p:16|l:35|i:17>Why the heck are you so interested?
+<p:12|l:29|i:18>I'm just trying to be polite.
+<c:10|i:5>
+<p:12|l:12|i:19>Nasty weeds.
+<c:10|i:6>
+<p:12|l:12|i:20>Nasty weeds.
+<c:10|i:7>
+<p:12|l:12|i:21>Nasty weeds.
+<c:10|i:5>
+<p:12|l:21|i:22>You're asking for it!
+<c:10|i:6>
+<p:12|l:10|i:23>I mean it!
+<c:10|i:7>
+<p:12|l:16|i:24>I'm not kidding!
+<p:20|l:22|i:25>Are you talking to me?
+<c:10|i:5>
+<p:12|l:42|i:26>I need to make the snake to scare the rat.
+<c:10|i:6>
+<p:12|l:42|i:27>I need to make the snake to scare the rat.
+<c:10|i:7>
+<p:12|l:42|i:28>I need to make the snake to scare the rat.
+<c:10|i:5>
+<p:12|l:38|i:29>Do we have any rat poison around here?
+<p:22|l:47|i:30>Why would we? Some of my best friends are rats.
+<c:10|i:6>
+<p:12|l:30|i:31>I've got to get past that rat!
+<c:10|i:7>
+<p:12|l:20|i:32>He just won't leave!
+<c:10|i:8>
+<p:12|l:23|i:33>My feet are killing me.
+<c:10|i:8>
+<p:12|l:41|i:34>I wish I had a pair of Brandon's Sandals.
+<c:10|i:8>
+<p:12|l:10|i:35>Hot today.
+<c:10|i:8>
+<p:12|l:10|i:36>Humid too.
+<c:10|i:8>
+<p:12|l:26|i:37>Maybe I could swim across.
+<c:10|i:8>
+<p:12|l:22|i:38>But not in that water!
+<c:10|i:8>
+<p:12|l:12|i:39>Nasty weeds.
+<c:10|i:8>
+<p:12|l:12|i:40>Nasty weeds.
+<c:10|i:8>
+<p:12|l:4|i:41>Ugh!
+<c:10|i:8>
+<p:12|l:7|i:42>Creepy.
+<c:10|i:8>
+<p:12|l:27|i:43>That is a long way to swim.
+<c:10|i:8>
+<p:12|l:5|i:44>Hmmm.
+<c:10|i:8>
+<p:12|l:44|i:45>Hurry, hurry, why do I always have to hurry?
+<c:10|i:8>
+<p:12|l:32|i:46>Crisis, crisis, always a crisis.
+<c:10|i:8>
+<p:12|l:16|i:47>I need to relax.
+<c:10|i:8>
+<p:12|l:42|i:48>This stress is not good for my complexion.
+<c:10|i:8>
+<p:12|l:31|i:49>These guys don't know anything.
+<c:10|i:8>
+<p:12|l:27|i:50>I might as well ask myself.
+<c:10|i:8>
+<p:12|l:39|i:51>I'd expect more quicksand in the swamp.
+<c:10|i:8>
+<p:12|l:50|i:52>Maybe the thief threw my things in some other bog.
+<c:10|i:8>
+<p:12|l:30|i:53>That croc needs a breath mint.
+<c:10|i:8>
+<p:12|l:32|i:54>I'll bet he brushes irregularly.
+<c:10|i:8>
+<p:12|l:5|i:55>Peuw!
+<c:10|i:8>
+<p:12|l:5|i:56>Peuw!
+<c:10|i:8>
+<p:12|l:33|i:57>These guys are diligent at least.
+<c:10|i:8>
+<p:12|l:30|i:58>This must be their first time.
+<c:10|i:8>
+<p:12|l:11|i:59>Wierd bugs.
+<c:10|i:8>
+<p:12|l:11|i:60>Wierd bugs.
+<c:10|i:8>
+<p:12|l:29|i:61>I'm not in the mood for this.
+<c:10|i:8>
+<p:12|l:27|i:62>Why can't Darm do all this?
+<c:10|i:8>
+<p:12|l:23|i:63>Why won't he let be by?
+<c:10|i:8>
+<p:12|l:20|i:64>What is he guarding?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

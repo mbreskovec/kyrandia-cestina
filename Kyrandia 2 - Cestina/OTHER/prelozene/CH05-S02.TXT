@@ -1,0 +1,117 @@
+<p:12|l:26|i:0>Mohla bych prosím projít?
+<p:50|l:30|i:1>Promiò, strachy se nemù¾u ani hnout.
+<c:10|i:6>
+<p:12|l:60|i:2>Nevíte, jak bych se mohla dostat pøes toho skauta na mostì?
+<p:50|l:44|i:3>Øíká¹ skauti? A je to velký oddíl?
+<c:10|i:7>
+<p:12|l:39|i:4>Oddíl? To by se musel ten termín trochu natáhnout.
+<p:50|l:32|i:5>Termit!? Øekla jsi TERMIT!?!
+<p:12|l:64|i:6>(Lidièky! Nikdy by mì nenapadlo, ¾e strom mù¾e mít potí¾e s u¹ima.)
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:60|i:7>Díky, ale já nechci pøejít zpátky pøes most.
+<p:53|l:48|i:8>To bylo hrubé. V¹ichni musíme dìlat svou práci.
+<c:10|i:6>
+<p:12|l:50|i:9>Vá¾nì. Ráda bych prostì pøe¹la most a ¹la dál.
+<p:53|l:30|i:10>Páni. Jsi nìjaká zahoøklá, ne?
+<c:10|i:7>
+<p:12|l:7|i:11>Prosím?
+<p:53|l:39|i:12>Není zaè. Rád pomù¾u.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:65|i:13>Hmm. Budu muset najít jiného pocestného, aby toho chlapa rozptýlil.
+<c:10|i:8>
+<p:12|l:45|i:14>Nevypadá to, ¾e by tu byl zrovna nával.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:55|i:15>V¹echny tyhle mystické spletité pøeká¾ky u¾ mì zaèínají unavovat.
+<c:10|i:8>
+<p:12|l:54|i:16>Jsem alchymistka a ne zahradní parapsycholo¾ka!
+<c:10|i:9>
+<p:12|l:39|i:17>Mo¾ná tenhle òouma vyslechne racionální argumenty.
+<p:12|l:34|i:18>To by byla pøekvapivá zmìna.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:37|i:19>Nervózní stromy a horský prùvodce.
+<p:12|l:11|i:20>Bájeèný svìt.
+<c:10|i:0>

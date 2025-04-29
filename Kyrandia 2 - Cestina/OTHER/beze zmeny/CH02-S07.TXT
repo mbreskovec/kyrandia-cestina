@@ -1,0 +1,224 @@
+<p:11|l:9|i:0>chapter 3
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:29|i:1>Do you fellows have any lead?
+<p:24|l:9|i:2>What for?
+<p:25|l:61|i:3>Sorry. Why don't you just collect the dead fish on the beach?
+<p:25|l:25|i:4>That's what we always do.
+<c:10|i:6>
+<p:12|l:35|i:5>Are you going to eat that sandwich?
+<p:25|l:15|i:6>I saw it first.
+<c:10|i:7>
+<p:12|l:46|i:7>Why don't you just split the sandwich in half?
+<p:24|l:33|i:8>We already figured out that part.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:64|i:9>You don't happen to have three gold coins I could borrow do you?
+<p:28|l:10|i:10>Sorry, no.
+<c:10|i:6>
+<p:12|l:47|i:11>Well then, do you know where there is any gold?
+<p:28|l:122|i:12>My friend Bobby over there in the striped shirt has several gold teeth, but you don't look strong enough to take them out.
+<c:10|i:7>
+<p:12|l:39|i:13>How about lead? Any lead stuff in here?
+<p:28|l:32|i:14>Hmm, sorry, none that I know of.
+<c:10|i:5>
+<p:12|l:28|i:15>How about you? Got any gold?
+<p:29|l:48|i:16>I don't appreciate your crass commercialization.
+<c:10|i:6>
+<p:12|l:34|i:17>My, what beautiful teeth you have.
+<p:29|l:34|i:18>Please, don't look at me that way.
+<c:10|i:7>
+<p:12|l:28|i:19>Which dentist did your work?
+<p:29|l:46|i:20>I had the blacksmith in Miltonia put these in.
+<c:10|i:5>
+<p:12|l:33|i:21>Do you have any spare gold coins?
+<p:30|l:33|i:22>Hey lady, no panhandling in here.
+<c:10|i:6>
+<p:12|l:21|i:23>This is an emergency!
+<p:30|l:6|i:24>Sorry.
+<c:10|i:7>
+<p:12|l:19|i:25>This is ridiculous!
+<p:30|l:28|i:26>Actually, it's self imposed.
+<c:10|i:5>
+<p:12|l:22|i:27>Why are they fighting?
+<p:31|l:48|i:28>As if you didn't know, little miss troublemaker!
+<p:31|l:34|i:29>They're arguing about your poetry.
+<c:10|i:6>
+<p:12|l:10|i:30>My poetry?
+<p:31|l:82|i:31>Sure, Jimmy really liked it, but Bobby thought it was childish, derivitive drivel.
+<c:10|i:7>
+<p:12|l:51|i:32>Any chance you have three gold coins you'd lend me?
+<p:31|l:3|i:33>Ha.
+<c:10|i:5>
+<p:12|l:51|i:34>Couldn't you put this on the Royal Mystics account?
+<p:32|l:31|i:35>Oh, are you one of the Mystics?
+<p:12|l:36|i:36>Yes sir. I'm Zanthia, the Alchemist.
+<p:32|l:6|i:37>Sorry.
+<c:10|i:6>
+<p:12|l:7|i:38>Please?
+<p:32|l:5|i:39>Nope.
+<c:10|i:7>
+<p:12|l:112|i:40>Look, there's been some trouble, and all my equipment has been stolen, and I have to get to Volcania right away!
+<p:32|l:45|i:41>Our mustard cruise does not include Volcania.
+<c:10|i:5>
+<p:12|l:26|i:42>I need to get to Volcania.
+<p:33|l:28|i:43>Sorry, we don't go that way.
+<c:10|i:6>
+<p:12|l:73|i:44>It's a matter of national security! Can't you make a patriotic exception?
+<p:33|l:92|i:45>Get a voucher, and I'll let you ride to Mustard Island and back. Otherwise, don't bother us.
+<c:10|i:7>
+<p:12|l:103|i:46>I don't have time to go get a voucher. Please can't you put it on the Royal Kyrandian Mystic's account?
+<p:33|l:73|i:47>You'll have to talk to the clerk if you want to arrange a group discount.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:40|i:48>Do you know how I could get to Volcania?
+<p:36|l:33|i:49>Sure, I was over there last week.
+<c:10|i:6>
+<p:12|l:37|i:50>What were you doing down in Volcania?
+<p:36|l:62|i:51>Oh, I don't go down below. I just work the crowd on the beach.
+<c:10|i:7>
+<p:12|l:28|i:52>Work the crowd on the beach?
+<p:36|l:80|i:53>Sure. Anyone who still believes in those anchor stones is a natural born sucker.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:21|i:54>Do you have any gold?
+<p:40|l:6|i:55>Sorry.
+<c:10|i:6>
+<p:12|l:44|i:56>Do you know anybody who does have some gold?
+<p:40|l:6|i:57>Sorry.
+<c:10|i:7>
+<p:12|l:67|i:58>You've pretty much worked through that gratitude thing haven't you?
+<p:40|l:6|i:59>Sorry.
+<c:10|i:5>
+<p:12|l:36|i:60>Do you have any gold I could borrow?
+<p:41|l:42|i:61>I'm the sheriff, not the bank, young lady.
+<c:10|i:6>
+<p:12|l:21|i:62>This is an emergency!
+<p:41|l:43|i:63>You young folks are always in such a hurry!
+<c:10|i:7>
+<p:12|l:49|i:64>Surely you realize that Kyrandia is disappearing?
+<p:41|l:32|i:65>Sorry, that's not my department.
+<c:10|i:5>
+<p:12|l:27|i:66>Do you have any gold Marko?
+<p:42|l:29|i:67>Sorry, the Hand has my purse.
+<c:10|i:6>
+<p:12|l:33|i:68>Well, where is your lumpy friend?
+<p:42|l:59|i:69>That's a good question. I hope nothing has happened to him.
+<c:10|i:7>
+<p:12|l:36|i:70>That Hand thing gives me the creeps.
+<p:42|l:112|i:71>Well, I don't like that big slimy frog outside your house, but you don't see me making a federal case out of it!
+<c:10|i:8>
+<p:12|l:35|i:72>I've got to find a way to Volcania.
+<c:10|i:8>
+<p:12|l:42|i:73>There has to be a boat that could take me.
+<c:10|i:8>
+<p:12|l:45|i:74>I doubt there are any boats here by the gate.
+<c:10|i:8>
+<p:12|l:33|i:75>Why do these things happen to me?
+<c:10|i:8>
+<p:12|l:14|i:76>No boats here.
+<c:10|i:8>
+<p:12|l:40|i:77>I wonder if these two hands are related?
+<c:10|i:8>
+<p:12|l:41|i:78>What an idylic lifestyle that farmer has.
+<c:10|i:8>
+<p:12|l:35|i:79>I'd grow peanuts if I was a farmer.
+<c:10|i:8>
+<p:12|l:46|i:80>Who was that scarecrow supposed to scare away?
+<c:10|i:8>
+<p:12|l:40|i:81>That doesn't look like a Roman aqueduct.
+<c:10|i:8>
+<p:12|l:29|i:82>There are no boats down here.
+<c:10|i:8>
+<p:12|l:50|i:83>I wonder if this cheesemaker can make other kinds?
+<c:10|i:8>
+<p:12|l:9|i:84>Yo ho ho.
+<c:10|i:8>
+<p:12|l:32|i:85>Maybe I should get an eye patch.
+<c:10|i:8>
+<p:12|l:34|i:86>I've got to find a boat somewhere.
+<c:10|i:8>
+<p:12|l:24|i:87>Maybe I'll have to swim.
+<c:10|i:8>
+<p:12|l:49|i:88>There's something odd about this mustard company.
+<c:10|i:8>
+<p:12|l:53|i:89>You'd think they would sell other condiments as well.
+<c:10|i:8>
+<p:12|l:31|i:90>Why does this town need a jail?
+<c:10|i:8>
+<p:12|l:39|i:91>The sheriff must be somebody's brother.
+<c:10|i:8>
+<p:12|l:38|i:92>Who is that wall supposed to keep out?
+<c:10|i:8>
+<p:12|l:51|i:93>Maybe it's supposed to keep the Highmoon idiots in.
+<c:10|i:8>
+<p:12|l:59|i:94>The architect responsible for that building should be shot.
+<c:10|i:8>
+<p:12|l:49|i:95>I suppose incompetence is it's own reward though.
+<c:10|i:8>
+<p:12|l:49|i:96>That bunny looks like it's trying to trip people.
+<c:10|i:8>
+<p:12|l:52|i:97>Please! I'm going nuts! I've got to get to Volcania!
+<c:10|i:8>
+<p:12|l:41|i:98>Why couldn't someone build a bridge here?
+<c:10|i:8>
+<p:12|l:28|i:99>Herman probably already did.
+<c:10|i:8>
+<p:12|l:36|i:100>I wonder if this is the right place?
+<c:10|i:8>
+<p:12|l:4|i:101>Hmm?
+<c:10|i:8>
+<p:12|l:46|i:102>This boat has to be the answer to my problems.
+<c:10|i:8>
+<p:12|l:30|i:103>Maybe I could hijack this tub.
+<c:10|i:8>
+<p:12|l:44|i:104>Seems like a big boat just to carry mustard.
+<c:10|i:8>
+<p:12|l:42|i:105>Is this boat steered by a magic autopilot?
+<c:10|i:8>
+<p:12|l:20|i:106>This isn't Volcania.
+<c:10|i:8>
+<p:12|l:33|i:107>Even the sand looks like mustard.
+<c:10|i:8>
+<p:11|l:7|i:108>Uh, oh.
+<c:10|i:8>
+<p:11|l:5|i:109>Oops.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

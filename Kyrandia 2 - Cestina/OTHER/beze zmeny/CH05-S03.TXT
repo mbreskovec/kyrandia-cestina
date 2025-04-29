@@ -1,0 +1,130 @@
+<p:12|l:54|i:0>Do you know how to get the squirrel to start the tram?
+<p:50|l:19|i:1>Hey man, loosen up!
+<c:10|i:6>
+<p:12|l:25|i:2>I have to ride that tram!
+<p:50|l:14|i:3>Dig that beat!
+<c:10|i:7>
+<p:12|l:21|i:4>This is an emergency!
+<p:50|l:23|i:5>And a one, and a two...
+<p:12|l:35|i:6>Thanks for your help. Thanks loads.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:42|i:7>Have you ever worked for the tram company?
+<p:53|l:4|i:8>Huh?
+<c:10|i:6>
+<p:12|l:38|i:9>Are you interested in a career change?
+<p:53|l:33|i:10>Sorry. I couldn't desert my post!
+<c:10|i:7>
+<p:12|l:34|i:11>Please! I_have to start that tram!
+<p:53|l:37|i:12>I'm afraid that's the Squirrel's job.
+<c:10|i:5>
+<p:12|l:27|i:13>How long is a 'Long Lunch'?
+<p:54|l:48|i:14>No time limit actually. That's the beauty of it.
+<c:10|i:6>
+<p:12|l:47|i:15>Do you know where the Squirrel's Union Hall is?
+<p:54|l:26|i:16>Did you look in the trees?
+<c:10|i:7>
+<p:12|l:30|i:17>Please! I need some help here!
+<p:54|l:37|i:18>Maybe you could climb up by yourself?
+<p:12|l:53|i:19>I'm pretty strong, but I don't think I could do that.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:36|i:20>Please. I have to get up to the top.
+<p:56|l:31|i:21>Sorry, I have to take my break.
+<c:10|i:6>
+<p:12|l:31|i:22>Couldn't you make an exception?
+<p:56|l:71|i:23>The other squirrels would be upset if I deviated from our union policy.
+<c:10|i:7>
+<p:12|l:37|i:24>Is there something I could offer you?
+<p:56|l:53|i:25>Sure. Stop trying to corrupt me. I'd appreciate THAT!
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:28|i:26>Boy, my feet are killing me.
+<c:10|i:8>
+<p:12|l:41|i:27>I wish I had a pair of Brandon's Sandals.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:30|i:28>That foot gives me the creeps!
+<c:10|i:8>
+<p:12|l:39|i:29>I wish it would at least put a sock on.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:38|i:30>Maybe I could just climb up the cable.
+<c:10|i:8>
+<p:12|l:41|i:31>Am I nuts? There has to be an easier way!
+<c:10|i:8>
+<p:12|l:23|i:32>This is not enchanting!
+<c:10|i:8>
+<p:12|l:28|i:33>Not much of a forest either.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

@@ -1,0 +1,224 @@
+<p:11|l:9|i:0>kapitola 3
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:29|i:1>Nemáte, chlapi, nìjaké olovo?
+<p:24|l:9|i:2>Na co?
+<p:25|l:61|i:3>Promiò. Proè si prostì nejde¹ nasbírat na plá¾ nìjaké mrtvé ryby?
+<p:25|l:25|i:4>To my dìláme v¾dycky.
+<c:10|i:6>
+<p:12|l:35|i:5>Budete jíst ten sendviè?
+<p:25|l:15|i:6>Já ho vidìl první.
+<c:10|i:7>
+<p:12|l:46|i:7>Proè prostì ten sendviè nerozøíznete napùl?
+<p:24|l:33|i:8>To u¾ nás taky napadlo.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:64|i:9>Náhodou bys asi nemìl tøi zlaté mince, které bych si mohla pùjèit?
+<p:28|l:10|i:10>Promiò, ne.
+<c:10|i:6>
+<p:12|l:47|i:11>No dobøe, a neví¹, kde by se tu sehnalo nìjaké zlato?
+<p:28|l:122|i:12>Mùj kámo¹ Bobby, tamhle v tom pruhovaném trièku, má zlaté zuby, ale ty nevypadá¹ na to, ¾e bys mu je vzala.
+<c:10|i:7>
+<p:12|l:39|i:13>Co takhle olovo? Je tu nìco z olova?
+<p:28|l:32|i:14>Hmm, co já vím, tak ne.
+<c:10|i:5>
+<p:12|l:28|i:15>A co ty? Má¹ zlato?
+<p:29|l:48|i:16>Tvoje bohapustá komercializace se mi nezamlouvá.
+<c:10|i:6>
+<p:12|l:34|i:17>Ó, ty má¹ krásné zuby.
+<p:29|l:34|i:18>Prosím, takhle se na mì nedívej.
+<c:10|i:7>
+<p:12|l:28|i:19>Dá¹ mi kontakt na svého zubaøe?
+<p:29|l:46|i:20>Tyhle mi dìlal kováø v Miltonii.
+<c:10|i:5>
+<p:12|l:33|i:21>Nemìl bys pár zlatých mincí nazbyt?
+<p:30|l:33|i:22>Hele, dámo, tady se ne¾ebrá.
+<c:10|i:6>
+<p:12|l:21|i:23>Tohle je stav nouze!
+<p:30|l:6|i:24>Smùla.
+<c:10|i:7>
+<p:12|l:19|i:25>Tohle je k smíchu!
+<p:30|l:28|i:26>Vlastnì se to samo vnucuje.
+<c:10|i:5>
+<p:12|l:22|i:27>Proè se perou?
+<p:31|l:48|i:28>Jako bys to nevìdìla, ty malá rozvraceèko!
+<p:31|l:34|i:29>Diskutují o tvé poezii.
+<c:10|i:6>
+<p:12|l:10|i:30>Mé poezii?
+<p:31|l:82|i:31>Jasnì, Jimmymu se líbila, ale Bobby tvrdí, ¾e to byla dìtinská nepùvodní slátanina.
+<c:10|i:7>
+<p:12|l:51|i:32>Nìjaká ¹ance, ¾e bys mìl tøi zlaté mince a pùjèil mi je?
+<p:31|l:3|i:33>Ha.
+<c:10|i:5>
+<p:12|l:51|i:34>Nemù¾ete to dát na úèet královských mystikù?
+<p:32|l:31|i:35>Co, ty patøí¹ k mystikùm?
+<p:12|l:36|i:36>Ano, pane. Jsem Zanthia, alchymistka.
+<p:32|l:6|i:37>Lituju.
+<c:10|i:6>
+<p:12|l:7|i:38>Prosím?
+<p:32|l:5|i:39>Ne.
+<c:10|i:7>
+<p:12|l:112|i:40>Podívejte, do¹lo k potí¾ím a mnì ukradli v¹echno vybavení. A já se musím ihned dostat do Vulkánie!
+<p:32|l:45|i:41>Ná¹ hoøèicový ¹kuner nezají¾dí do Vulkánie.
+<c:10|i:5>
+<p:12|l:26|i:42>Musím se dostat do Vulkánie.
+<p:33|l:28|i:43>Promiò, tam nejedeme.
+<c:10|i:6>
+<p:12|l:73|i:44>Je to otázka národní bezpeènosti! Nemù¾ete udìlat vlasteneckou výjimku?
+<p:33|l:92|i:45>Se¾eò si lístek a já tì zavezu na Hoøèicový ostrov a zpìt. S nièím dal¹ím nás neotravuj.
+<c:10|i:7>
+<p:12|l:103|i:46>Nemám èas shánìt lístek. Nemù¾ete to pøipsat na úèet kyrandijských královských mystikù?
+<p:33|l:73|i:47>Pokud chce¹ skupinovou slevu, musí¹ to vyøídit u pøepá¾ky.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:40|i:48>Ví¹, jak bych se dostala do Vulkánie?
+<p:36|l:33|i:49>Jasnì, byl jsem tam minulý týden.
+<c:10|i:6>
+<p:12|l:37|i:50>Co jsi dìlal dole ve Vulkánii?
+<p:36|l:62|i:51>Eh, já ne¹el a¾ dolù. Jen jsem vítal náv¹tìvníky na plá¾i.
+<c:10|i:7>
+<p:12|l:28|i:52>Vítal náv¹tìvníky na plá¾i?
+<p:36|l:80|i:53>Jasnì. Ka¾dý, kdo je¹tì vìøí na ty kotevní kameny, je pìkná naivka.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:21|i:54>Nemá¹ nìjaké zlato?
+<p:40|l:6|i:55>Lituju.
+<c:10|i:6>
+<p:12|l:44|i:56>Nezná¹ nìkoho, kdo by mìl nìjaké zlato?
+<p:40|l:6|i:57>Lituju.
+<c:10|i:7>
+<p:12|l:67|i:58>To jsi dost zapracoval na té vìci s vdìèností, ¾e?
+<p:40|l:6|i:59>Lituju.
+<c:10|i:5>
+<p:12|l:36|i:60>Nemìl byste nìjaké zlato, co bych si mohla pùjèit?
+<p:41|l:42|i:61>Jsem ¹erif a ne banka, mladá dámo.
+<c:10|i:6>
+<p:12|l:21|i:62>Tohle je stav nouze!
+<p:41|l:43|i:63>Vy mladí se v¾dycky poøád za nìèím honíte!
+<c:10|i:7>
+<p:12|l:49|i:64>Jistì jste si v¹iml, ¾e se Kyrandie ztrácí?
+<p:41|l:32|i:65>To není moje jurisdikce.
+<c:10|i:5>
+<p:12|l:27|i:66>Nemá¹ nìjaké zlato, Marko?
+<p:42|l:29|i:67>Promiò, penì¾enku mi nosí Ruka.
+<c:10|i:6>
+<p:12|l:33|i:68>No a kde je ten tvùj pajdavý kámo¹?
+<p:42|l:59|i:69>Dobrá otázka. Doufám, ¾e se mu nic nestalo.
+<c:10|i:7>
+<p:12|l:36|i:70>Z té tvojí Ruky mi bìhá mráz po zádech.
+<p:42|l:112|i:71>Nu, mnì se zase nelíbí ta velká slizká ¾ába pøed tvým domkem, ale jak vidí¹, nedìlám z toho vìdu!
+<c:10|i:8>
+<p:12|l:35|i:72>Musím najít cestu do Vulkánie.
+<c:10|i:8>
+<p:12|l:42|i:73>Musí tu nìkde být èlun, který by mì vzal.
+<c:10|i:8>
+<p:12|l:45|i:74>Pochybuji, ¾e tady u brány budou nìjaké èluny.
+<c:10|i:8>
+<p:12|l:33|i:75>Proè se mi tyhle vìci stávají?
+<c:10|i:8>
+<p:12|l:14|i:76>Tady nejsou ¾ádné èluny.
+<c:10|i:8>
+<p:12|l:40|i:77>Jestlipak tyhle dvì ruce patøí k sobì?
+<c:10|i:8>
+<p:12|l:41|i:78>Ten farmáø tu má ale idylický ¾ivot.
+<c:10|i:8>
+<p:12|l:35|i:79>Kdybych byla farmáø, pìstovala bych buráky.
+<c:10|i:8>
+<p:12|l:46|i:80>Koho tu mìl vlastnì ten stra¹ák stra¹it?
+<c:10|i:8>
+<p:12|l:40|i:81>Na øímský akvadukt to zrovna nevypadá.
+<c:10|i:8>
+<p:12|l:29|i:82>Tady dole nejsou ¾ádné èluny.
+<c:10|i:8>
+<p:12|l:50|i:83>Jestlipak by tenhle sýrostroj zvládl i jiné druhy?
+<c:10|i:8>
+<p:12|l:9|i:84>Jo ho ho.
+<c:10|i:8>
+<p:12|l:32|i:85>Mo¾ná bych si mìla dát pásku pøes oko.
+<c:10|i:8>
+<p:12|l:34|i:86>Musím nìkde sehnat èlun.
+<c:10|i:8>
+<p:12|l:24|i:87>Mo¾ná budu muset plavat.
+<c:10|i:8>
+<p:12|l:49|i:88>Na tìch obchodnících s hoøèicí je nìco divného.
+<c:10|i:8>
+<p:12|l:53|i:89>Jeden by myslel, ¾e budou prodávat i jiná ochucovadla.
+<c:10|i:8>
+<p:12|l:31|i:90>K èemu tohle mìsto potøebuje vìzení?
+<c:10|i:8>
+<p:12|l:39|i:91>©erif je urèitì nìèí brácha.
+<c:10|i:8>
+<p:12|l:38|i:92>Koho má tahle zeï zadr¾et?
+<c:10|i:8>
+<p:12|l:51|i:93>Mo¾ná má udr¾et uvnitø zdej¹í blbeèky.
+<c:10|i:8>
+<p:12|l:59|i:94>Toho architekta, co tohle postavil, by mìli zastøelit.
+<c:10|i:8>
+<p:12|l:49|i:95>Mo¾ná je nekompetentnost dostateènou odmìnou.
+<c:10|i:8>
+<p:12|l:49|i:96>Ten králík vypadá, ¾e chce nìkoho nakopnout.
+<c:10|i:8>
+<p:12|l:52|i:97>Prosím! U¾ zaèínám bláznit! Musím se dostat do Vulkánie!
+<c:10|i:8>
+<p:12|l:41|i:98>Proè tady nemohl nìkdo postavit most?
+<c:10|i:8>
+<p:12|l:28|i:99>Herman u¾ to nejspí¹ udìlal.
+<c:10|i:8>
+<p:12|l:36|i:100>Jestlipak je tohle to správné místo?
+<c:10|i:8>
+<p:12|l:4|i:101>Hmm?
+<c:10|i:8>
+<p:12|l:46|i:102>Tenhle èlun musí být odpovìï na moje problémy.
+<c:10|i:8>
+<p:12|l:30|i:103>Mo¾ná bych tu kocábku mohla unést.
+<c:10|i:8>
+<p:12|l:44|i:104>To je velký èlun na to, ¾e vozí jen hoøèici.
+<c:10|i:8>
+<p:12|l:42|i:105>Tenhle èlun kormidluje zázraèný autopilot?
+<c:10|i:8>
+<p:12|l:20|i:106>Tohle není Vulkánie.
+<c:10|i:8>
+<p:12|l:33|i:107>I písek tady vypadá jako hoøèice.
+<c:10|i:8>
+<p:11|l:7|i:108>Ajaj.
+<c:10|i:8>
+<p:11|l:5|i:109>Hups.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

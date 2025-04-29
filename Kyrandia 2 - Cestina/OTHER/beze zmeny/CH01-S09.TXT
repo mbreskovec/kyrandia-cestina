@@ -1,0 +1,143 @@
+<p:12|l:21|i:0>I found the treasure.
+<p:15|l:18|i:1>WOW! Are you rich?
+<p:12|l:12|i:2>Not quite...
+<p:12|l:43|i:3>...but I do have an old Alchemist's Magnet.
+<p:14|l:10|i:4>Excellent!
+<p:12|l:42|i:5>Too bad there's not much lead around here.
+<p:13|l:34|i:6>I don't own anything made of lead.
+<c:10|i:6>
+<p:12|l:45|i:7>Do you guys know anyone who'd have some lead?
+<p:13|l:39|i:8>Maybe the local fishermen know someone.
+<c:10|i:7>
+<p:12|l:54|i:9>Why couldn't that chest just have had some gold in it?
+<p:14|l:51|i:10>Maybe the pirates buried their gold somewhere else!
+<p:12|l:5|i:11>Hmmm.
+<c:10|i:5>
+<p:12|l:42|i:12>Breuth, do you have anything made of lead?
+<p:18|l:18|i:13>Not at the moment.
+<c:10|i:6>
+<p:12|l:39|i:14>Do you know where I can find some lead?
+<p:18|l:23|i:15>I don't know. Ask Herb.
+<c:10|i:7>
+<p:12|l:42|i:16>Breuth, do you have anything made of lead?
+<p:18|l:26|i:17>Didn't you already ask me?
+<c:10|i:5>
+<p:12|l:17|i:18>I need some lead.
+<p:16|l:32|i:19>Well, you can't have our anchor.
+<c:10|i:6>
+<p:12|l:17|i:20>I really need it.
+<p:17|l:41|i:21>We're staying here until we catch a fish.
+<c:10|i:7>
+<p:12|l:32|i:22>I really, really need some lead!
+<p:16|l:59|i:23>If you'd stop bothering us, maybe we could catch something.
+<c:10|i:5>
+<p:12|l:14|i:24>Big ugly weed.
+<c:10|i:6>
+<p:12|l:14|i:25>Big ugly weed.
+<c:10|i:7>
+<p:12|l:14|i:26>Big ugly weed.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:17|i:27>I need some lead.
+<p:12|l:43|i:28>I found an Alchemist's Magnet in the chest.
+<p:22|l:51|i:29>That must be the one those pirates stole years ago.
+<c:10|i:6>
+<p:12|l:21|i:30>Now I need some lead.
+<p:22|l:7|i:31>Hmmm..?
+<c:10|i:7>
+<p:12|l:10|i:32>Any ideas?
+<p:22|l:7|i:33>Hmm....
+<c:10|i:8>
+<p:12|l:17|i:34>I need some lead.
+<c:10|i:8>
+<p:12|l:40|i:35>Where is all that lead when you need it?
+<c:10|i:8>
+<p:12|l:4|i:36>Hot.
+<c:10|i:8>
+<p:12|l:6|i:37>Muggy.
+<c:10|i:8>
+<p:12|l:9|i:38>Very hot.
+<c:10|i:8>
+<p:12|l:11|i:39>Very muggy.
+<c:10|i:8>
+<p:12|l:14|i:40>Big ugly weed.
+<c:10|i:8>
+<p:12|l:14|i:41>Big ugly weed.
+<c:10|i:8>
+<p:12|l:4|i:42>Ugh!
+<c:10|i:8>
+<p:12|l:7|i:43>Creepy.
+<c:10|i:8>
+<p:12|l:15|i:44>Get ready boat.
+<c:10|i:8>
+<p:12|l:12|i:45>Here I come.
+<c:10|i:8>
+<p:12|l:30|i:46>These shoes are getting soggy.
+<c:10|i:8>
+<p:12|l:36|i:47>I'll bet Brynn doesn't get blisters.
+<c:10|i:8>
+<p:12|l:36|i:48>This is really getting on my nerves.
+<c:10|i:8>
+<p:12|l:35|i:49>Why is it always MY responsibility?
+<c:10|i:8>
+<p:12|l:31|i:50>These guys don't know anything.
+<c:10|i:8>
+<p:12|l:47|i:51>Why do I keep asking them to solve my problems?
+<c:10|i:8>
+<p:12|l:10|i:52>Wierd mud.
+<c:10|i:8>
+<p:12|l:32|i:53>Must have swamp oil mixed in it.
+<c:10|i:8>
+<p:12|l:10|i:54>I'm tired.
+<c:10|i:8>
+<p:12|l:46|i:55>This quest is fun in a strange, patriotic way.
+<c:10|i:8>
+<p:12|l:5|i:56>Peuw!
+<c:10|i:8>
+<p:12|l:5|i:57>Peuw!
+<c:10|i:8>
+<p:12|l:20|i:58>I need their anchor.
+<c:10|i:8>
+<p:12|l:28|i:59>Maybe I could distract them.
+<c:10|i:8>
+<p:12|l:6|i:60>Wierd.
+<c:10|i:8>
+<p:12|l:20|i:61>Musical pirate bugs.
+<c:10|i:8>
+<p:12|l:22|i:62>I've been here before.
+<c:10|i:8>
+<p:12|l:45|i:63>Carrying all Kyrandia on my skinny shoulders.
+<c:10|i:8>
+<p:12|l:36|i:64>This would make a good storage room.
+<c:10|i:8>
+<p:12|l:39|i:65>If I ever have anything to store again.
+<c:10|i:8>
+<p:12|l:25|i:66>This was well engineered.
+<c:10|i:8>
+<p:12|l:30|i:67>Must have taken ages to build.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

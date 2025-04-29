@@ -1,0 +1,236 @@
+<p:11|l:9|i:0>kapitola 3
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:43|i:1>Ví¹ nìco o...ech, zapomeò na to.
+<c:10|i:6>
+<p:12|l:31|i:2>Tvoje máma nosí zápasnické døeváky.
+<c:10|i:7>
+<p:12|l:33|i:3>Hej ty. Tátùv kluèina je trouba.
+<p:12|l:31|i:4>Tihle chlapi jsou ale natvrdlí.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:56|i:5>Ví¹ jak na hoøèicovém èlunu funguje kormidlo?
+<p:28|l:23|i:6>Myslím, ¾e je automatické.
+<c:10|i:6>
+<p:12|l:53|i:7>Ví¹ jistì, ¾e tady v Hornoluní nejsou jiná plavidla?
+<p:28|l:30|i:8>Tohle je jediné, o kterém vím.
+<c:10|i:7>
+<p:12|l:32|i:9>A na èem se tedy plavíte vy?
+<p:28|l:33|i:10>Vlastnì jsme teï pozemní piráti.
+<c:10|i:5>
+<p:12|l:50|i:11>Proè mì hoøèicový kapitán nechce zavézt na Vulkánii?
+<p:29|l:23|i:12>Nejspí¹ firemní naøízení.
+<c:10|i:6>
+<p:12|l:71|i:13>Kdy¾ se na Vulkánii brzy nedostanu, tak u¾ nebude ¾ádná firma!
+<p:29|l:39|i:14>Mo¾ná je to jistý druh pojistného podvodu.
+<c:10|i:7>
+<p:12|l:36|i:15>Ten tlak mì nièí.
+<p:29|l:23|i:16>Dej si je¹tì jedno koøenové pivo.
+<c:10|i:5>
+<p:12|l:36|i:17>Ví¹ nìco o kormidlování?
+<p:30|l:44|i:18>Já jsem se nikdy kór nemydlil.
+<c:10|i:6>
+<p:12|l:42|i:19>Ví¹ nìco o kormidlování èlunù?
+<p:30|l:18|i:20>Myslí¹ lodí?
+<c:10|i:7>
+<p:12|l:42|i:21>Ví¹ nìco o kormidlování lodí?
+<p:30|l:28|i:22>Promiò, já jen uklízím kajuty.
+<c:10|i:5>
+<p:12|l:32|i:23>Co ví¹ o kormidlování?
+<p:31|l:32|i:24>Není to nìjaká znaèka polívky?
+<c:10|i:6>
+<p:12|l:40|i:25>To jste tu v¹ichni totální ¹a¹ci?
+<p:31|l:37|i:26>Musí¹ si u¾ít legraci, kde to jen jde.
+<c:10|i:7>
+<p:12|l:35|i:27>U¾ jsi nìkdy sly¹el o papou¹èím ragú?
+<p:31|l:27|i:28>Tohle je tvoje pøedstava humoru?
+<c:10|i:5>
+<p:12|l:39|i:29>Proè mì ten èlun nedoveze do Vulkánie?
+<p:32|l:28|i:30>Proto¾e tam nepluje.
+<c:10|i:6>
+<p:12|l:53|i:31>Ten èlun by jistì mohl jet do Vulkánie, kdyby chtìl.
+<p:32|l:52|i:32>Vulkánie nekupuje ¾ádný z na¹ich hoøèicových produktù...
+<p:32|l:66|i:33>...a proto do té prokleté vyprahlé pustiny nejezdíme.
+<c:10|i:7>
+<p:12|l:53|i:34>Co kdybyste mì vyslali do Vulkánie jako obchodního cestujícího?
+<p:32|l:49|i:35>Chytré, ale o tom já nerozhoduji.
+<c:10|i:5>
+<p:12|l:30|i:36>Prosím! Musím se dostat do Vulkánie!
+<p:33|l:37|i:37>To sis asi vybrala ¹patný smìr.
+<c:10|i:6>
+<p:12|l:25|i:38>V¹ichni jsme ve velkém prù¹vihu!
+<p:33|l:24|i:39>Mnì se ani nezdá.
+<c:10|i:7>
+<p:12|l:57|i:40>Kyrandie mizí, kámen po kameni, strom za stromem!
+<p:33|l:58|i:41>To bys mìla probrat s královskými mystiky.
+<p:12|l:8|i:42>ARRGH!!!
+<c:10|i:5>
+<p:34|l:33|i:43>Pardon, nemám dovoleno klábosit.
+<c:10|i:6>
+<p:34|l:32|i:44>Ne, dìkuji, jsem zaneprázdnìn.
+<c:10|i:7>
+<p:34|l:19|i:45>Nejsi mùj typ.
+<c:10|i:5>
+<p:35|l:25|i:46>Teï na to není èas, sleèno.
+<c:10|i:6>
+<p:35|l:31|i:47>Prosím, to je u¾ trochu trapné!
+<c:10|i:7>
+<p:35|l:14|i:48>Nech mì být!
+<c:10|i:5>
+<p:12|l:40|i:49>Ví¹, jak bych se dostala do Vulkánie?
+<p:36|l:33|i:50>Jasnì, byl jsem tam minulý týden.
+<c:10|i:6>
+<p:12|l:37|i:51>Co jsi dìlal dole ve Vulkánii?
+<p:36|l:62|i:52>Eh, já ne¹el a¾ dolù. Jen jsem vítal náv¹tìvníky na plá¾i.
+<c:10|i:7>
+<p:12|l:28|i:53>Vítal náv¹tìvníky na plá¾i?
+<p:36|l:80|i:54>Jasnì. Ka¾dý, kdo je¹tì vìøí na ty kotevní kameny, je pìkná naivka.
+<c:10|i:5>
+<p:11|l:4|i:55>Ugh.
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:30|i:56>Tak¾e, kde je farmáø Greenberry?
+<p:40|l:35|i:57>Ztratil jsem ho nìkde v p¹enièném poli.
+<c:10|i:6>
+<p:12|l:41|i:58>Nevìdìla jsem, ¾e opustí¹ svou práci!
+<p:40|l:43|i:59>Nepotøebuji morální ponauèení, dìkuji pìknì.
+<c:10|i:7>
+<p:12|l:44|i:60>Nìjaký nápad, kde bych mohla chytit èlun do Vulkánie?
+<p:40|l:6|i:61>Lituji.
+<c:10|i:5>
+<p:41|l:28|i:62>Mám moc práce na pokec, dámo.
+<c:10|i:6>
+<p:41|l:15|i:63>Pøestaò do mì strkat!
+<c:10|i:7>
+<p:41|l:48|i:64>Dìlání nových pøátel ti moc nejde, ¾e ano?
+<c:10|i:5>
+<p:42|l:35|i:65>Tak¾e, jak se ti zatím líbí moje pomoc?
+<c:10|i:6>
+<p:12|l:29|i:66>Jak ses sem dostal, Marko?
+<p:42|l:119|i:67>Moje Ruka a já jsme ti pøi¹li na pomoc, kdy¾ tu najednou mì nìco pra¹tilo do hlavy a pak u¾ nevím. Kdy¾ jsem se probral, byl jsem tady.
+<c:10|i:7>
+<p:42|l:136|i:68>Podívej se do vody, jestli tam není klíè od cely. ©erif rád hází klíèe do vody. Je to úplný magor.
+<p:12|l:5|i:69>Co¾e?
+<p:42|l:90|i:70>Kdy¾ se rozèílí, hází klíèe do vody. Bude to nìjaký druh hranièáøského práva.
+<c:10|i:8>
+<p:12|l:35|i:71>Musím najít cestu do Vulkánie.
+<c:10|i:8>
+<p:12|l:42|i:72>Musí tu být nìkde èlun, který by mì tam dovezl.
+<c:10|i:8>
+<p:12|l:47|i:73>Pochybuji, ¾e tady na louce jsou nìjaké èluny.
+<c:10|i:8>
+<p:12|l:77|i:74>Ve skuteènosti si myslím, ¾e se mù¾e stát cokoliv. To u¾ je zkrátka Kyrandie.
+<c:10|i:8>
+<p:12|l:52|i:75>Vím jistì, ¾e tady nekotví ¾ádné èluny do Vulkánie.
+<c:10|i:8>
+<p:12|l:37|i:76>Mo¾ná tenhle akvadukt míøí do Vulkánie.
+<c:10|i:8>
+<p:12|l:63|i:77>Rozhodnì bych se mìla vrátit do Hornoluní a sehnat dopravu.
+<c:10|i:8>
+<p:12|l:26|i:78>Vulkánie ke mnì sama nepøijde.
+<c:10|i:8>
+<p:12|l:29|i:79>Co dìlám tady v zahradì?
+<c:10|i:8>
+<p:12|l:58|i:80>Asi bych se mìla vrátit a najít cestu do Vulkánie.
+<c:10|i:8>
+<p:12|l:53|i:81>Pochybuji, ¾e tu nìkde je pøímý tunel do Vulkánie.
+<c:10|i:8>
+<p:12|l:106|i:82>Abych pravdu øekla, jsou urèité èásti Kyrandie, u kterých mi nebude vadit, kdy¾ zmizí.
+<c:10|i:8>
+<p:12|l:46|i:83>Nechce se mi vìøit, ¾e tihle troubové nemají èlun.
+<c:10|i:8>
+<p:12|l:19|i:84>To jsou ale zmìkèilí piráti.
+<c:10|i:8>
+<p:12|l:34|i:85>Musím nìkde najít èlun.
+<c:10|i:8>
+<p:12|l:77|i:86>Klidnì bych øídila Malcolmùv èlun z Fontány vìèné magie, kdybych ho mìla.
+<c:10|i:8>
+<p:12|l:62|i:87>Nenapadlo mì, ¾e je hoøèièný prùmysl v této oblasti tak rozvinutý.
+<c:10|i:8>
+<p:12|l:79|i:88>Podobné pøedstavení tøeba u lidí od keèupu nebo pikantní èalamády neuvidíte.
+<c:10|i:8>
+<p:12|l:52|i:89>Tohle bude vypadat dobøe v mém záznamu pro pøí¹tí odvolání.
+<c:10|i:8>
+<p:12|l:22|i:90>Zanthia: Mystik-zloèinec.
+<c:10|i:8>
+<p:12|l:49|i:91>Musím najít èlun, který by mì vzal do Vulkánie!
+<c:10|i:8>
+<p:12|l:48|i:92>Nìkde tu musí být nìjaký vlastenec.
+<c:10|i:8>
+<p:12|l:67|i:93>Tohle je rozhodnì jedna z nejdivnìj¹ích staveb, co jsem kdy vidìla.
+<c:10|i:8>
+<p:12|l:37|i:94>Je to rybí hlava, nebo ptaèí ocas?
+<c:10|i:8>
+<p:12|l:38|i:95>U¾ jsem z toho putování unavená.
+<c:10|i:8>
+<p:12|l:98|i:96>Mystik bez portálù je jako... no, já vlastnì nevím, jako co je, ale urèitì je to nìco nepatøièného!
+<c:10|i:8>
+<p:12|l:27|i:97>Nikdy jsem nemìla ráda tìlocvik.
+<c:10|i:8>
+<p:12|l:34|i:98>Jsem spí¹e intelektuální typ.
+<c:10|i:8>
+<p:12|l:36|i:99>Jestlipak je tohle to správné místo?
+<c:10|i:8>
+<p:12|l:5|i:100>Hmmm?
+<c:10|i:8>
+<p:12|l:50|i:101>Tenhle èlun musí být odpovìï na mùj problém.
+<c:10|i:8>
+<p:12|l:92|i:102>Pokud je posádka tak háklivá ohlednì Vulkánie, mo¾ná bych mohla odklonit èlun, a¾ budeme na cestì.
+<c:10|i:8>
+<p:12|l:44|i:103>Ten èlun vypadá a¾ pøíli¹ velký na to, aby vozil jen hoøèici.
+<c:10|i:8>
+<p:12|l:23|i:104>Kdo to vlastnì kormidluje?
+<c:10|i:8>
+<p:12|l:20|i:105>Tohle není Vulkánie.
+<c:10|i:8>
+<p:12|l:38|i:106>I písek tady vypadá jako hoøèice.
+<c:10|i:8>
+<p:11|l:39|i:107>Takhle jsem si svùj pohøeb nepøedstavovala.
+<c:10|i:8>
+<p:11|l:60|i:108>Ráda bych si myslela, ¾e jsem nìèím víc ne¾ jen pøedkrmem.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:11|l:35|i:109>Ajaj, tohle místo vypadá nebezpeènì.
+<c:10|i:9>
+<p:11|l:45|i:110>Nìkde tady musí být èlun.
+<c:10|i:9>
+<p:11|l:37|i:111>Tak¾e, kde je v¹echna ta hoøèice na prodej?
+<c:10|i:9>
+<p:11|l:6|i:112>Marko!
+<c:10|i:9>
+<p:11|l:75|i:113>Tyhle strá¾e jsou nejspí¹ je¹tì hloupìj¹í ne¾ pøíslovìèná bedna kamení.
+<c:10|i:9>
+<p:11|l:22|i:114>Co to k èertu je?
+<c:10|i:9>
+<p:11|l:27|i:115>Co asi dìlá Faun?
+<c:10|i:9>
+<p:11|l:31|i:116>Roztomilé! Houpaèka pro dìti.
+<c:10|i:9>
+<p:11|l:50|i:117>Nejsem si jistá, ¾e tohle je oltáø, který hledám.
+<c:10|i:9>
+<p:11|l:24|i:118>Ty ryby snad spí?
+<c:10|i:9>
+<p:11|l:71|i:119>Hmm. Mo¾ná bych mohla odvést kapitánovu pozornost a obrátit kormidlo k Vulkánii.
+<c:10|i:9>
+<p:11|l:79|i:120>Hoøèièný ostrov. Èím to, ¾e o nìm není zmínka v ¾ádném cestovním prùvodci?
+<c:10|i:9>
+<p:11|l:5|i:121>Hups.
+<c:10|i:0>

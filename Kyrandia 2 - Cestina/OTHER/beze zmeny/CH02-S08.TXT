@@ -1,0 +1,236 @@
+<p:11|l:9|i:0>chapter 3
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:43|i:1>Do you know anything about...oh, forget it.
+<c:10|i:6>
+<p:12|l:31|i:2>Your mother wears combat clogs.
+<c:10|i:7>
+<p:12|l:33|i:3>Hey you. Daddy's boy is an idiot.
+<p:12|l:31|i:4>These guys are unusually dense.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:56|i:5>Do you know how the steering works on that mustard boat?
+<p:28|l:23|i:6>I think it's automatic.
+<c:10|i:6>
+<p:12|l:53|i:7>Are you sure there's no other boats here in Highmoon?
+<p:28|l:30|i:8>That's the only one I know of.
+<c:10|i:7>
+<p:12|l:32|i:9>What do you guys sail around in?
+<p:28|l:33|i:10>Actually, we're land pirates now.
+<c:10|i:5>
+<p:12|l:50|i:11>Why won't the mustard captain take me to Volcania?
+<p:29|l:23|i:12>Company rules, I guess.
+<c:10|i:6>
+<p:12|l:71|i:13>If I don't get down to Volcania soon, there won't be a Mustard company!
+<p:29|l:39|i:14>Maybe it's some sort of insurance scam.
+<c:10|i:7>
+<p:12|l:36|i:15>The tension is really getting to me.
+<p:29|l:23|i:16>Have another root beer.
+<c:10|i:5>
+<p:12|l:36|i:17>Do you know anything about steering?
+<p:30|l:44|i:18>Do you mean like changing bulls into steers?
+<c:10|i:6>
+<p:12|l:42|i:19>Do you know anything about steering Boats?
+<p:30|l:18|i:20>Do you mean ships?
+<c:10|i:7>
+<p:12|l:42|i:21>Do you know anything about steering ships?
+<p:30|l:28|i:22>Sorry, I'm just a cabin boy.
+<c:10|i:5>
+<p:12|l:32|i:23>What do you know about steering?
+<p:31|l:32|i:24>I think it's a bouillon company.
+<c:10|i:6>
+<p:12|l:40|i:25>Is everybody here an obstinate comedian?
+<p:31|l:37|i:26>You gotta have fun where you find it.
+<c:10|i:7>
+<p:12|l:35|i:27>Have you ever heard of Parrot Stew?
+<p:31|l:27|i:28>Is that your idea of humor?
+<c:10|i:5>
+<p:12|l:39|i:29>Why won't the boat take me to Volcania?
+<p:32|l:28|i:30>Because it doesn't go there.
+<c:10|i:6>
+<p:12|l:53|i:31>Surely the boat could go to Volcania if it wanted to.
+<p:32|l:52|i:32>Volcania does not buy any of our mustard products...
+<p:32|l:66|i:33>...And therefore we do no visit that accursed cinder of an island.
+<c:10|i:7>
+<p:12|l:53|i:34>How about if you send me to Volcania on a sales trip?
+<p:32|l:49|i:35>Clever thought, but it's not my decision to make.
+<c:10|i:5>
+<p:12|l:30|i:36>Please! I must reach Volcania!
+<p:33|l:37|i:37>I guess you took the wrong tour then.
+<c:10|i:6>
+<p:12|l:25|i:38>We're all in big trouble!
+<p:33|l:24|i:39>I don't see the problem.
+<c:10|i:7>
+<p:12|l:57|i:40>Rock by rock, and tree by tree, Kyrandia is disappearing!
+<p:33|l:58|i:41>Sorry, you'll have to take that up with the Royal Mystics.
+<p:12|l:8|i:42>ARRGH!!!
+<c:10|i:5>
+<p:34|l:33|i:43>Sorry, I'm not allowed to mingle.
+<c:10|i:6>
+<p:34|l:32|i:44>No thank you, I'm busy on watch.
+<c:10|i:7>
+<p:34|l:19|i:45>You're not my type.
+<c:10|i:5>
+<p:35|l:25|i:46>Now is not the time miss.
+<c:10|i:6>
+<p:35|l:31|i:47>Please, you're embarrassing me!
+<c:10|i:7>
+<p:35|l:14|i:48>Don't poke me!
+<c:10|i:5>
+<p:12|l:40|i:49>Do you know how I could get to Volcania?
+<p:36|l:33|i:50>Sure, I was over there last week.
+<c:10|i:6>
+<p:12|l:37|i:51>What were you doing down in Volcania?
+<p:36|l:62|i:52>Oh, I don't go down below. I just work the crowd on the beach.
+<c:10|i:7>
+<p:12|l:28|i:53>Work the crowd on the beach?
+<p:36|l:80|i:54>Sure. Anyone who still believes in those anchor stones is a natural born sucker.
+<c:10|i:5>
+<p:11|l:4|i:55>Ugh.
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:30|i:56>So, where's Farmer Greenberry?
+<p:40|l:35|i:57>I lost him out in the wheat fields.
+<c:10|i:6>
+<p:12|l:41|i:58>I didn't know you would desert your post!
+<p:40|l:43|i:59>I don't need a morality lecture, thank you.
+<c:10|i:7>
+<p:12|l:44|i:60>Any idea how I could get a boat to Volcania?
+<p:40|l:6|i:61>Sorry.
+<c:10|i:5>
+<p:41|l:28|i:62>I'm too busy to chat, missy.
+<c:10|i:6>
+<p:41|l:15|i:63>Quit poking me!
+<c:10|i:7>
+<p:41|l:48|i:64>You're not very good at making friends, are you?
+<c:10|i:5>
+<p:42|l:35|i:65>So, how do you like my help so far?
+<c:10|i:6>
+<p:12|l:29|i:66>How'd you get in there Marko?
+<p:42|l:119|i:67>My hand and I were coming to help you when something hit me on the head and knocked me out. When i woke up, here I was.
+<c:10|i:7>
+<p:42|l:136|i:68>Look around in the water for the key to the cell here. The sheriff is famous for throwing the keys into the water. He's a real crackpot.
+<p:12|l:5|i:69>What?
+<p:42|l:90|i:70>He throws the keys in the water when he gets upset. Some sort of frontier justice I guess.
+<c:10|i:8>
+<p:12|l:35|i:71>I've got to find a way to Volcania.
+<c:10|i:8>
+<p:12|l:42|i:72>There has to be a boat that could take me.
+<c:10|i:8>
+<p:12|l:47|i:73>I doubt there are any boats here in the meadow.
+<c:10|i:8>
+<p:12|l:77|i:74>Actually though, anything could happen I suppose. This is Kyrandia after all.
+<c:10|i:8>
+<p:12|l:52|i:75>I'm sure there are no boats bound for Volcania here.
+<c:10|i:8>
+<p:12|l:37|i:76>Maybe this aqueduct goes to Volcania.
+<c:10|i:8>
+<p:12|l:63|i:77>I really should go back to Highmoon and arrange transportation.
+<c:10|i:8>
+<p:12|l:26|i:78>Volcania won't come to me.
+<c:10|i:8>
+<p:12|l:29|i:79>Why am I here in this garden?
+<c:10|i:8>
+<p:12|l:58|i:80>I should get back to finding a ride to Volcania I suppose.
+<c:10|i:8>
+<p:12|l:53|i:81>I doubt there is a direct tunnel to Volcania in here.
+<c:10|i:8>
+<p:12|l:106|i:82>If the truth be told though, there are certain parts of Kyrandia that I wouldn't mind if they disappeared.
+<c:10|i:8>
+<p:12|l:46|i:83>I can't believe these jerks don't have a boat.
+<c:10|i:8>
+<p:12|l:19|i:84>What sissy pirates.
+<c:10|i:8>
+<p:12|l:34|i:85>I've got to find a boat somewhere.
+<c:10|i:8>
+<p:12|l:77|i:86>I'd ride Malcom's boat from the Fountain of Eternal Magic if I could find it.
+<c:10|i:8>
+<p:12|l:62|i:87>I didn't realize the mustard industry was this well developed.
+<c:10|i:8>
+<p:12|l:79|i:88>You don't see the ketchup or pickle relish people putting on this kind of show.
+<c:10|i:8>
+<p:12|l:52|i:89>This will look good on my record at the next review.
+<c:10|i:8>
+<p:12|l:22|i:90>Zanthia: Mystic felon.
+<c:10|i:8>
+<p:12|l:49|i:91>I have got to find a boat to take me to Volcania!
+<c:10|i:8>
+<p:12|l:48|i:92>There has to be a patriot around here somewhere.
+<c:10|i:8>
+<p:12|l:67|i:93>That is certainly one of the most unusual buildings I've ever seen.
+<c:10|i:8>
+<p:12|l:37|i:94>Is that a fish head or a bird's tail?
+<c:10|i:8>
+<p:12|l:38|i:95>I am getting tired of all this hiking.
+<c:10|i:8>
+<p:12|l:98|i:96>A mystic without portals is like... well I don't know what it's like, but it sure is inconvenient!
+<c:10|i:8>
+<p:12|l:27|i:97>I never did like gym class.
+<c:10|i:8>
+<p:12|l:34|i:98>I'm more of the intellectual type.
+<c:10|i:8>
+<p:12|l:36|i:99>I wonder if this is the right place?
+<c:10|i:8>
+<p:12|l:5|i:100>Hmmm?
+<c:10|i:8>
+<p:12|l:50|i:101>This boat here has to be the answer to my problem.
+<c:10|i:8>
+<p:12|l:92|i:102>If the crew is squeamish about Volcania, maybe I could divert the boat once we're under way.
+<c:10|i:8>
+<p:12|l:44|i:103>Seems like a big boat just to carry mustard.
+<c:10|i:8>
+<p:12|l:23|i:104>Who's steering, anyway?
+<c:10|i:8>
+<p:12|l:20|i:105>This isn't Volcania.
+<c:10|i:8>
+<p:12|l:38|i:106>Even the sand here looks like mustard.
+<c:10|i:8>
+<p:11|l:39|i:107>This is not how I envisaged my funeral.
+<c:10|i:8>
+<p:11|l:60|i:108>I like to think I'm more than just somebody's hors d'oeuvre.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:11|l:35|i:109>Uh, oh, this place looks dangerous.
+<c:10|i:9>
+<p:11|l:45|i:110>There has to be a boat around here somewhere.
+<c:10|i:9>
+<p:11|l:37|i:111>So, where's all the mustard for sale?
+<c:10|i:9>
+<p:11|l:6|i:112>Marko!
+<c:10|i:9>
+<p:11|l:75|i:113>I think those guards actually were dumber than the proverbial box of rocks.
+<c:10|i:9>
+<p:11|l:22|i:114>What the heck is that?
+<c:10|i:9>
+<p:11|l:27|i:115>I wonder how Faun is doing?
+<c:10|i:9>
+<p:11|l:31|i:116>How cute! A swing for the kids.
+<c:10|i:9>
+<p:11|l:50|i:117>I'm not sure if this is the altar I'm looking for.
+<c:10|i:9>
+<p:11|l:24|i:118>Are those fish sleeping?
+<c:10|i:9>
+<p:11|l:71|i:119>Hmm. Maybe I could distract the captain and steer this tub to Volcania.
+<c:10|i:9>
+<p:11|l:79|i:120>Mustard Island. I wonder why it isn't mentioned in any of the travel brochures?
+<c:10|i:9>
+<p:11|l:5|i:121>Oops.
+<c:10|i:0>

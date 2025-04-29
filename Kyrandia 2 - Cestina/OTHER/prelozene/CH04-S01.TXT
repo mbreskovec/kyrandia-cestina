@@ -1,0 +1,110 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:45|i:0>Nemù¾u uvìøit, ¾e cesta je tak ¹patnì znaèená.
+<c:10|i:8>
+<p:12|l:33|i:1>Proè tu nepovìsí nìjaké cedule?
+<c:10|i:8>
+<p:12|l:28|i:2>Mìla bych ochoèit toho dinosaura.
+<c:10|i:8>
+<p:12|l:37|i:3>Svezla bych se na nìm po zbytek cesty.
+<c:10|i:8>
+<p:12|l:30|i:4>Ten dinosaurus se chová jako pes.
+<c:10|i:8>
+<p:12|l:33|i:5>Vsadím se, ¾e by aportoval.
+<c:10|i:8>
+<p:12|l:24|i:6>Kouknìte na tu lávovou øeku!
+<c:10|i:8>
+<p:12|l:54|i:7>Nemìla by tu být kovárna nebo tak nìco?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<p:11|l:44|i:8>Tenhle výlet je dosti nároèný na garderóbu!
+<c:10|i:9>
+<p:12|l:31|i:9>Fíha! Tohle místo je velkolepé!
+<c:10|i:9>
+<p:12|l:34|i:10>Hmm. Èerné oblázky na stropì.
+<p:12|l:66|i:11>Proè jen mám takový pocit, ¾e musím vyrobit medvídka...
+<p:12|l:29|i:12>...a pou¾ít ho jako návnadu?
+<c:10|i:9>
+<p:12|l:40|i:13>Hele! Tohle musí být dveøe k Oltáøi
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

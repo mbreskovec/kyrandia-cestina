@@ -1,0 +1,20 @@
+Tohle bude ono...
+Ten paprsek je moc horký, než aby se dalo projít.
+Tohle nevypadá správnì umístìné...
+Ruka ho urèitì schválnì ohnula.
+Nechci to promìnit zpátky na zlato.
+Vypadá to jako mìdìný reflektor.
+Mám ráda sochaøení v montérkách.
+Jau! Moc horké.
+Už mì nebudeš otravovat.
+Že by to byl Otec Èas?
+Není tu nìkde Kaèer Šikula?
+Je to atom, nebo planeta?
+CLIMB.WSA
+ATOM1.WSA
+ATOM2.WSA
+DORGEAR1.WSA
+DORGEAR2.WSA
+BEAM.WSA
+SMOKE.WSA
+DOOROPEN.WSA

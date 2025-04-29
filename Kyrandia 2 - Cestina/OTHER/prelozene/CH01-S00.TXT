@@ -1,0 +1,166 @@
+<p:12|l:26|i:0>Je èas vyrazit do Volcanie.
+<p:12|l:34|i:1>Nìkdo mi ukradl v¹echno vybavení...
+<p:12|l:51|i:2>...tak¾e se tam budu muset dostat starým dobrým zpùsobem.
+<p:12|l:25|i:3>Nemù¾u otevøít ¾ádný portál.
+<p:13|l:11|i:4>Bez portálù?
+<p:13|l:31|i:5>To chce¹ jít celou cestu pì¹ky?
+<p:12|l:9|i:6>Brnkaèka, ne?
+<c:10|i:6>
+<p:12|l:32|i:7>Tak¾e... Uvidíme se, a¾ se vrátím.
+<p:13|l:5|i:8>Oukej.
+<c:10|i:7>
+<p:12|l:28|i:9>Mù¾e¹ dohlédnout na Fauna?
+<p:13|l:11|i:10>Jasnaèka.
+<c:10|i:5>
+<p:12|l:40|i:11>Èau Bruethe. Kdy tvoje bárka vyrá¾í?
+<p:12|l:29|i:12>Musím se dostat do Mlhova.
+<p:18|l:38|i:13>Vyrazíme hned, jak zaplatí¹ jízdné.
+<p:12|l:60|i:14>Hele! V¹echno mi ukradli, nemám teï ani vindru.
+<p:18|l:37|i:15>Jse¹ alchymistka. Vyrob si zlato.
+<c:4|i:1>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:12|i:16>Promiòte...
+<p:12|l:37|i:17>Tenhle èlun, to není nová pøevozní loï, ¾e?
+<p:16|l:20|i:18>P¹t! U¾ mi zabírá!
+<c:10|i:6>
+<p:17|l:16|i:19>P¹t! U¾ bere!
+<c:10|i:7>
+<p:16|l:36|i:20>P¹t! Myslím, ¾e okusuje návnadu.
+<c:10|i:5>
+<p:12|l:44|i:21>Hmm, asi se jí nelíbí moje voòavka.
+<c:10|i:6>
+<p:12|l:47|i:22>Vá¾nì bych mìla tuhle cestu nìkdy trochu prosekat.
+<c:10|i:7>
+<p:12|l:39|i:23>Aspoò to trochu redukuje poèty veverek.
+<c:10|i:5>
+<p:20|l:32|i:24>Kam si myslí¹, ¾e jde¹?
+<p:12|l:52|i:25>Ztra» se, sýro¾route. Na tohle nemám èas.
+<p:20|l:34|i:26>Kolem mì neprojde¹, ségra!
+<c:10|i:6>
+<p:12|l:34|i:27>Cítím syreèky, nebo jse¹ to ty?
+<p:20|l:38|i:28>Nev¹im jsem si, ne¾ ses tu objevila.
+<c:10|i:7>
+<p:20|l:16|i:29>Vzdej to, bloncko!
+<p:12|l:3|i:30>Uch!
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:19|i:31>Ty zùstaò tady, Faune.
+<p:22|l:5|i:32>Oukej.
+<c:10|i:6>
+<p:12|l:40|i:33>A nehrab se v mých vìcech, kdy¾ tu nebudu!
+<p:22|l:8|i:34>Kdo, já?
+<c:10|i:7>
+<p:12|l:10|i:35>Myslím to vá¾nì.
+<p:12|l:40|i:36>Nehrab se v mých vìcech, kdy¾ tu nebudu!
+<p:22|l:30|i:37>V¹echny tvoje vìci jsou pryè!
+<c:10|i:8>
+<p:12|l:34|i:38>Proè se tohle musí stát v¾dycky mnì?
+<p:12|l:57|i:39>To nemù¾ou ostatní mystikové taky pro jednou udìlat nìco sami?
+<c:10|i:8>
+<p:12|l:34|i:40>Asi bych mìla co nejdøív vyrazit.
+<c:10|i:8>
+<p:12|l:19|i:41>Dr¾ mi palce, Faune.
+<c:10|i:8>
+<p:12|l:18|i:42>Nic se tu nedìje.
+<c:10|i:8>
+<p:12|l:35|i:43>Doufám, ¾e Faun zatím nezboøil dùm.
+<c:10|i:8>
+<p:12|l:38|i:44>Tady pøece v¾dycky bývá malý èlun, ne?
+<c:10|i:8>
+<p:12|l:40|i:45>Proè tohle místo mì nedìlá Darm?
+<c:10|i:8>
+<p:12|l:49|i:46>Stejnì si tu cestu do Ml¾ného údolí u¾iju.
+<c:10|i:8>
+<p:12|l:21|i:47>Tak TOHLE je pìkné místo.
+<c:10|i:8>
+<p:12|l:33|i:48>Na pøí¹tí piknik pùjdu urèitì sem.
+<c:10|i:8>
+<p:12|l:26|i:49>(Má tohle vùbec povolení k vyplutí?)
+<p:18|l:14|i:50>Hej, pozor na pusu!
+<p:12|l:22|i:51>Ty mi ète¹ my¹lenky?
+<p:18|l:32|i:52>No, jsem skøítek! Máme svoje schopnosti!
+<c:10|i:8>
+<p:12|l:34|i:53>(Ten Breuth je ale super chlápek.)
+<p:18|l:9|i:54>Hezkej pokus.
+<c:10|i:8>
+<p:12|l:41|i:55>Mo¾ná bych mohla pøesvìdèit Breutha, aby mì vzal na projí¾ïku.
+<c:10|i:8>
+<p:12|l:26|i:56>Tak proè stojím tady?
+<c:10|i:8>
+<p:12|l:42|i:57>Kdy¾ u¾ jsem tady, asi pùjdu dovnitø...
+<p:12|l:50|i:58>...ale vá¾nì bych se mìla co nejdøív vrátit na loï.
+<c:10|i:8>
+<p:12|l:34|i:59>Skvìlé, myslím ¾e dostávám vyrá¾ku.
+<c:10|i:8>
+<p:12|l:44|i:60>(Tak tenhle chlap je na tom s úklidem hùø ne¾ já.)
+<c:10|i:8>
+<p:12|l:36|i:61>Aspoò je tady teplo a útulno.
+<c:10|i:8>
+<p:12|l:37|i:62>Vá¾nì bych se mìla vrátit na loï.
+<c:10|i:8>
+<p:12|l:32|i:63>...Nebo si tady mù¾u udìlat piknik.
+<c:10|i:8>
+<p:12|l:45|i:64>Mìla bych se co nejdøív vrátit k lodi.
+<c:10|i:8>
+<p:12|l:34|i:65>Musím vyrazit na cestu k údolí!
+<c:10|i:8>
+<p:12|l:5|i:66>Pfuj!
+<c:10|i:8>
+<p:12|l:28|i:67>U¾ nikdy nebudu jíst ¾ádné vejce.
+<c:10|i:8>
+<p:12|l:40|i:68>Mohli by mì tihle chlapi zavézt do Mlhova?
+<c:10|i:8>
+<p:12|l:35|i:69>Tak vedle tohohle èlunu vypadá ten Bruethùv ú¾asnì.
+<c:10|i:8>
+<p:12|l:49|i:70>Hej! Tady jsou v¹ude malé svìtlu¹ky.
+<c:10|i:8>
+<p:12|l:36|i:71>To by mì zajímalo, proè jsou tak potichu?
+<c:10|i:8>
+<p:12|l:37|i:72>Vá¾nì bych se mìla vrátit k lodi.
+<c:10|i:8>
+<p:12|l:34|i:73>Tahle díra vypadá jako bezpeèné místo.
+<c:10|i:8>
+<p:12|l:19|i:74>Co to tu tak smrdí?
+<c:10|i:8>
+<p:12|l:28|i:75>Proè nejedu lodí?
+<c:10|i:8>
+<p:12|l:42|i:76>Tak tohle asi bude ta proslulá pirátská jeskynì.
+<c:10|i:8>
+<p:12|l:23|i:77>Brr! Tady je ale zima!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<p:11|l:10|i:78>Horký den.
+<c:10|i:9>
+<p:11|l:32|i:79>Kdyby tak pøevoz vyjí¾dìl odtud.
+<c:10|i:9>
+<p:12|l:4|i:80>Uch!
+<c:10|i:9>
+<p:12|l:55|i:81>Kde je ten pøevozník? Myslela jsem, ¾e bývá nìkde tady.
+<c:10|i:9>
+<p:12|l:38|i:82>Koneènì! U¾ jsem myslela, ¾e se sem nedostanu!
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:21|i:83>To je Herbùv dùm.
+<c:10|i:9>
+<p:12|l:11|i:84>Nazdar, Herbe.
+<p:13|l:14|i:85>Zdravím tì, Zanthio.
+<c:10|i:9>
+<c:10|i:9>
+<p:11|l:45|i:86>Grr, grr, grr. To u¾ v¹echno znám, kámo.
+<c:10|i:9>
+<p:12|l:39|i:87>Pfuj! Je nìco shnilého v Kyrandii!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:18|i:88>Tady to ale smrdí.
+<c:10|i:9>
+<p:12|l:19|i:89>Pùsobivé!
+<c:10|i:9>
+<c:10|i:0>

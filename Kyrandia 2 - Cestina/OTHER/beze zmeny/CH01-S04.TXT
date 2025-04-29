@@ -1,0 +1,138 @@
+<p:13|l:29|i:0>Have you gotten past the rat?
+<p:12|l:8|i:1>Not yet.
+<c:10|i:6>
+<p:13|l:15|i:2>You still here?
+<p:12|l:20|i:3>Not my choice, Herb.
+<c:10|i:7>
+<p:13|l:15|i:4>You still here?
+<p:12|l:25|i:5>I'm leaving, I'm leaving!
+<c:10|i:5>
+<p:12|l:15|i:6>How's business?
+<p:18|l:40|i:7>I haven't had a PAYING customer all day.
+<c:10|i:6>
+<p:12|l:17|i:8>You look thirsty.
+<p:12|l:27|i:9>Why don't you take a break?
+<p:18|l:19|i:10>You can't trick me.
+<c:10|i:7>
+<p:12|l:37|i:11>Have you always been so unreasonable?
+<p:18|l:20|i:12>Pay me. I'll behave.
+<c:10|i:5>
+<p:12|l:8|i:13>No luck?
+<p:16|l:4|i:14>Shh!
+<c:10|i:6>
+<p:12|l:8|i:15>Nothing?
+<c:10|i:7>
+<p:12|l:33|i:16>Have you tried using cheese bait?
+<p:17|l:15|i:17>Don't have any.
+<c:10|i:5>
+<p:12|l:12|i:18>Nasty weeds.
+<c:10|i:6>
+<p:12|l:12|i:19>Nasty weeds.
+<c:10|i:7>
+<p:12|l:12|i:20>Nasty weeds.
+<c:10|i:5>
+<p:12|l:18|i:21>Move aside, fuzzy.
+<p:20|l:18|i:22>You and what army?
+<c:10|i:6>
+<p:12|l:14|i:23>Pretty please?
+<p:20|l:8|i:24>Beat it.
+<c:10|i:7>
+<p:12|l:14|i:25>You're a jerk!
+<p:20|l:15|i:26>Ooh, that hurt.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:22|l:15|i:27>You still here?
+<c:10|i:6>
+<p:22|l:28|i:28>When are you really leaving?
+<p:12|l:30|i:29>Why, are you planning a party?
+<c:10|i:7>
+<p:22|l:20|i:30>Are you leaving now?
+<c:10|i:8>
+<p:12|l:37|i:31>Why would someone steal my equipment?
+<c:10|i:8>
+<p:12|l:19|i:32>Very inconsiderate.
+<c:10|i:8>
+<p:12|l:32|i:33>I'm sure this will all work out.
+<c:10|i:8>
+<p:12|l:57|i:34>I suppose the questing is less painful than paying taxes.
+<c:10|i:8>
+<p:12|l:32|i:35>I wish the ferry left from here.
+<c:10|i:8>
+<p:12|l:22|i:36>I'd ride anything now.
+<c:10|i:8>
+<p:12|l:12|i:37>Nasty weeds.
+<c:10|i:8>
+<p:12|l:12|i:38>Nasty weeds.
+<c:10|i:8>
+<p:12|l:23|i:39>I've walked far enough.
+<c:10|i:8>
+<p:12|l:26|i:40>I should be there already.
+<c:10|i:8>
+<p:12|l:23|i:41>This guy is too strict!
+<c:10|i:8>
+<p:12|l:19|i:42>Why can't he relax?
+<c:10|i:8>
+<p:12|l:30|i:43>This swamp is full of corners.
+<c:10|i:8>
+<p:12|l:17|i:44>Easy to get lost.
+<c:10|i:8>
+<p:12|l:26|i:45>Those berries really glow.
+<c:10|i:8>
+<p:12|l:30|i:46>Probably comes from swamp gas.
+<c:10|i:8>
+<p:12|l:27|i:47>Boy he's got a lot of junk.
+<c:10|i:8>
+<p:12|l:22|i:48>Nothing useful though.
+<c:10|i:8>
+<p:12|l:21|i:49>Where is that beaver?
+<c:10|i:8>
+<p:12|l:45|i:50>He hasn't chewed any other trees around here.
+<c:10|i:8>
+<p:12|l:34|i:51>Maybe the crocodile ate the thief.
+<c:10|i:8>
+<p:12|l:29|i:52>So, where's all my equipment?
+<c:10|i:8>
+<p:12|l:5|i:53>Peuw!
+<c:10|i:8>
+<p:12|l:5|i:54>Peuw!
+<c:10|i:8>
+<p:12|l:29|i:55>That looks like a big anchor.
+<c:10|i:8>
+<p:12|l:40|i:56>They don't need all that weight do they?
+<c:10|i:8>
+<p:12|l:16|i:57>Wierd, but cute.
+<c:10|i:8>
+<p:12|l:16|i:58>Wierd cute bugs.
+<c:10|i:8>
+<p:12|l:23|i:59>The swamp is beautiful.
+<c:10|i:8>
+<p:12|l:14|i:60>Rustic though.
+<c:10|i:8>
+<p:12|l:44|i:61>This rat must be guarding something special.
+<c:10|i:8>
+<p:12|l:27|i:62>Probably his cheese supply.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

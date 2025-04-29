@@ -1,0 +1,34 @@
+SNOWMAN1.WSA
+TREE
+Položím to na paøez.
+Možná je tohle uvolní.
+Jek! Potøebuji mystika kaskadéra.
+Tohle obleèení je trochu chatrné do tìžkého terénu.
+Ne bez mého alchymistického magnetu!
+Urèitì pískovec.
+S tímhle køemenem bych mohla rozdìlat oheò.
+Aha! Uhlí!
+Hmm. Køemen.
+Prosím nedìlej to!
+Snad to bude fungovat!
+Je to žula?
+Ha. Koèièí zlato.
+Nìjaký drvoštìp tu mìl napilno.
+Z toho bouchání mì bolí hlava.
+Není to zrovna nejmìkèí pøistávací plocha na svìtì.
+Hm. Další lahvièka.
+Páni! Musela jsem padat rychleji, než bych myslela.
+Bude lepší tohle neházet do díry.
+Tenhle by vypadal dobøe u mì na zahrádce.
+Co takhle si zase zatancovat?
+Chceš nás napálit?
+Ta cesta musí nìkam vést.
+Mládenci, tohle je vaše šiška?
+Klidnì si ji nech.
+Vyrobíme si jiné.
+TREE2.WSA
+TREE3.WSA
+TREE1.WSA
+TWIG2COL.WSA
+ZCRASH.WSA
+DRUM.WSA

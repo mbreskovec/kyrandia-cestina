@@ -1,0 +1,118 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:38|i:0>Proè jsem si jen nevzala nìjaké rampouchy?
+<c:10|i:8>
+<p:12|l:19|i:1>Jsem to ale trouba!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:38|i:2>Musím najít kola Kyrandie.
+<c:10|i:8>
+<p:12|l:67|i:3>Jestlipak je budu muset roztoèit obrácenì, abych všechno napravila?
+<c:10|i:8>
+<p:12|l:49|i:4>Nebylo by to krásné, kdyby to všechno byl jenom sen?
+<c:10|i:8>
+<p:12|l:57|i:5>Klidnì bych se navždycky zøekla borùvek, kdyby to pomohlo.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:47|i:6>Kola Kyrandie tady nìkde musí být.
+<c:10|i:8>
+<p:12|l:37|i:7>Urèitì je mám nìkde pøímo pod nosem.
+<c:10|i:8>
+<p:12|l:62|i:8>Proè prostì nemùžou nachat náhradní díly nìkde tady na polièce?
+<c:10|i:8>
+<p:12|l:56|i:9>Všechny tyhle úžasné zabezpeèovací hádanky Ruku nezastavily.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:39|i:10>Z téhle místnosti nemohu nic odnést.
+<c:10|i:8>
+<p:12|l:20|i:11>Takže proè tu vlastnì jsem?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:57|i:12>Pøichystám Ruce takovou zádìru, že na ni do smrti nezapomene!
+<c:10|i:8>
+<p:12|l:19|i:13>Už mi to leze na mozek!
+<c:10|i:8>
+<p:12|l:67|i:14>Kola osudu, která patøí Kyrandii, musí být nìkde tady.
+<c:10|i:8>
+<p:12|l:24|i:15>Doufám, že nejdu moc pozdì!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:16|i:16>To musí být ono!
+<c:10|i:9>
+<p:12|l:50|i:17>Kola Kyrandie...Kola Kyrandie...Kde jste?
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:54|i:18>Koneènì! Moje ženská intuice, moje pøedvídavost mystika,...
+<p:12|l:26|i:19>a ta cedule na dveøích...
+<p:12|l:59|i:20>mi øíkají, že Kola Kyrandie musí být v této místnosti!
+<c:10|i:9>
+<p:12|l:28|i:21>Je tohle pokoj velkého Mechanika?
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

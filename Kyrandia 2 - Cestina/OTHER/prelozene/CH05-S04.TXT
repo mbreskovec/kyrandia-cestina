@@ -1,0 +1,126 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:32|i:0>Vy máte ale pìkné dì»átko.
+<p:57|l:48|i:1>Nemluvíme s cizími lidmi, dìkuji pìknì.
+<c:10|i:6>
+<p:12|l:30|i:2>Uji¹»uji vás, ¾e nejsem cizí.
+<p:57|l:6|i:3>Mmmph!
+<c:10|i:7>
+<p:12|l:76|i:4>Nevíte, kde by mohl být Duhový most, který vede ke Kolùm osudu?
+<p:57|l:8|i:5>Jdìte pryè!
+<c:10|i:5>
+<p:12|l:43|i:6>Mohu u vás nakoupit nìjaké lezecké vybavení?
+<p:58|l:66|i:7>He he, na co by taková malá ¾abka potøebovala takové vìci?
+<c:10|i:6>
+<p:12|l:41|i:8>Potøebuji vy¹plhat ke Kolùm osudu.
+<p:58|l:42|i:9>Lituju. My sami chceme ka¾dou chvíli vyrazit na lov.
+<c:10|i:7>
+<p:12|l:46|i:10>Prosím! Nutnì potøebuji nìjaké lezecké vybavení!
+<p:58|l:52|i:11>Smùla. My vyrá¾íme po stopách stra¹livého snì¾ného mu¾e.
+<c:10|i:5>
+<p:12|l:25|i:12>Mù¾u si vypùjèit tamto lano?
+<p:59|l:39|i:13>He,he,he. To jsou vìci pro chlapy, zlato!
+<c:10|i:6>
+<p:12|l:43|i:14>Urèitì byste neodmítli pomoc cestovatelce?
+<p:59|l:64|i:15>To lano potøebujeme na svázání stra¹livého snì¾ného mu¾e.
+<p:59|l:44|i:16>Je to mocné a nebezpeèné stvoøení, co jsem sly¹el.
+<c:10|i:7>
+<p:12|l:29|i:17>Prosím. Tohle je stav nouze!
+<p:12|l:31|i:18>Nutnì potøebuji lezecké vybavení!
+<p:59|l:47|i:19>Jenom co si malinko dodáme odvahy...
+<p:59|l:42|i:20>Vyrazíme a dostaneme toho podlého zloøáda...
+<p:59|l:41|i:21>A potom si mo¾ná bude¹ moct puèit lano.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:48|i:22>Tihle chlápci vypadají jako vícenásobní bratranci.
+<c:10|i:8>
+<p:12|l:36|i:23>Snad bych je mohla nìjak rozptýlit.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:36|i:24>Kruci! Vypadá to, ¾e tady cesta konèí.
+<c:10|i:8>
+<p:12|l:40|i:25>Nahoru, dolù, nahoru, dolù. Cítím se jak jojo.
+<c:10|i:8>
+<p:12|l:26|i:26>Snad se tam brzy dostanu.
+<c:10|i:8>
+<p:12|l:34|i:27>Moje ¹atníkové kouzlo je skoro vyèerpané.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:59|i:28>Výbornì. Tady snad se¾enu nìjaké horolezecké vybavení.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:43|i:29>Hmm. Tohle by mohla být cesta ke Kolùm.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

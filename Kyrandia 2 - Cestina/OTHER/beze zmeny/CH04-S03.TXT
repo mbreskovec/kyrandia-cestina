@@ -1,0 +1,115 @@
+<p:12|l:34|i:0>So, how do we get out of here now?
+<p:43|l:33|i:1>I'm opening a portal to Miltonia.
+<p:43|l:23|i:2>You're welcome to come.
+<c:10|i:6>
+<p:12|l:41|i:3>Can you open a portal to Kyrandia for me?
+<p:43|l:27|i:4>Sorry, this is my last one.
+<c:10|i:7>
+<p:12|l:60|i:5>How am I supposed to get up to the Wheels of Fate from here?
+<p:43|l:72|i:6>I've been there. Just take the Rainbow Bridge up from the Flying Forest.
+<p:11|l:17|i:7>Ta ta, gotta run.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:40|i:8>Well, I'd better hurry up to the Wheels!
+<c:10|i:8>
+<p:12|l:34|i:9>I knew this Altar thing was fishy!
+<c:10|i:8>
+<p:12|l:27|i:10>This whole system is crazy!
+<c:10|i:8>
+<p:12|l:30|i:11>Why can't there be a stairway?
+<c:10|i:8>
+<p:12|l:53|i:12>Maybe one of those vents could blow me up to a ledge.
+<c:10|i:8>
+<p:12|l:36|i:13>I wish I had those flying shoes now!
+<c:10|i:8>
+<p:12|l:30|i:14>There has to be a way back up.
+<c:10|i:8>
+<p:12|l:51|i:15>I can't be the only Mystic without a portal Potion.
+<c:10|i:8>
+<p:12|l:26|i:16>Now I wish Marko was here.
+<c:10|i:8>
+<p:12|l:40|i:17>He could help carry some of those rocks.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:34|i:18>Those vents have to be the answer.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

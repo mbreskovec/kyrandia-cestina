@@ -1,0 +1,138 @@
+<p:13|l:29|i:0>U¾ ses dostala pøes tu krysu?
+<p:12|l:8|i:1>Je¹tì ne.
+<c:10|i:6>
+<p:13|l:15|i:2>Ty jsi je¹tì tady?
+<p:12|l:20|i:3>Ne ¾e bych chtìla, Herbe.
+<c:10|i:7>
+<p:13|l:15|i:4>Ty jsi je¹tì tady?
+<p:12|l:25|i:5>No jo, v¾dy» u¾ jdu!
+<c:10|i:5>
+<p:12|l:15|i:6>Jak jdou obchody?
+<p:18|l:40|i:7>Za celý den ani jeden PLATÍCÍ zákazník.
+<c:10|i:6>
+<p:12|l:17|i:8>Nemá¹ ¾ízeò?
+<p:12|l:27|i:9>Co takhle si udìlat pøestávku?
+<p:18|l:19|i:10>Mì nenachytá¹.
+<c:10|i:7>
+<p:12|l:37|i:11>To jsi v¾dycky tak nepøístupný?
+<p:18|l:20|i:12>Zapla» a mù¾e¹ pøistoupit.
+<c:10|i:5>
+<p:12|l:8|i:13>®ádný úspìch?
+<p:16|l:4|i:14>P¹t!
+<c:10|i:6>
+<p:12|l:8|i:15>Nic?
+<c:10|i:7>
+<p:12|l:33|i:16>Nezkou¹eli jste sýrovou návnadu?
+<p:17|l:15|i:17>®ádnou nemáme.
+<c:10|i:5>
+<p:12|l:12|i:18>O¹klivý plevel.
+<c:10|i:6>
+<p:12|l:12|i:19>O¹klivý plevel.
+<c:10|i:7>
+<p:12|l:12|i:20>O¹klivý plevel.
+<c:10|i:5>
+<p:12|l:18|i:21>Pohni se, chlupáèi.
+<p:20|l:18|i:22>A kdo mì donutí?
+<c:10|i:6>
+<p:12|l:14|i:23>Pìknì prosím?
+<p:20|l:8|i:24>Zapomeò.
+<c:10|i:7>
+<p:12|l:14|i:25>Ty jsi ale mizera!
+<p:20|l:15|i:26>Au, to bolelo.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:22|l:15|i:27>Ty jsi je¹tì tady?
+<c:10|i:6>
+<p:22|l:28|i:28>Kdy doopravdy vyrazí¹?
+<p:12|l:30|i:29>Proè, plánuje¹ tu veèírek?
+<c:10|i:7>
+<p:22|l:20|i:30>U¾ bude¹ vyrá¾et?
+<c:10|i:8>
+<p:12|l:37|i:31>Proè by nìkdo kradl moje vybavení?
+<c:10|i:8>
+<p:12|l:19|i:32>To je tak bezohledné.
+<c:10|i:8>
+<p:12|l:32|i:33>Tohle urèitì zabere.
+<c:10|i:8>
+<p:12|l:57|i:34>Ptát se je jistì pøíjemnìj¹í ne¾ platit danì.
+<c:10|i:8>
+<p:12|l:32|i:35>Kdyby tak pøevozník vyplouval odtud.
+<c:10|i:8>
+<p:12|l:22|i:36>V této chvíli pojedu na èemkoliv.
+<c:10|i:8>
+<p:12|l:12|i:37>O¹klivý plevel.
+<c:10|i:8>
+<p:12|l:12|i:38>O¹klivý plevel.
+<c:10|i:8>
+<p:12|l:23|i:39>U¾ jsem ¹la dost dlouho.
+<c:10|i:8>
+<p:12|l:26|i:40>U¾ bych tam mìla být.
+<c:10|i:8>
+<p:12|l:23|i:41>Ten chlap je neoblomný!
+<c:10|i:8>
+<p:12|l:19|i:42>Proè si nemù¾e dát pauzu?
+<c:10|i:8>
+<p:12|l:30|i:43>Ten moèál je bludi¹tì.
+<c:10|i:8>
+<p:12|l:17|i:44>Snadno se ztratí¹.
+<c:10|i:8>
+<p:12|l:26|i:45>Ty bobule záøí.
+<c:10|i:8>
+<p:12|l:30|i:46>Nejspí¹ to je bahenním plynem.
+<c:10|i:8>
+<p:12|l:27|i:47>Lidi, ten má ale krámù.
+<c:10|i:8>
+<p:12|l:22|i:48>Ale nic u¾iteèného.
+<c:10|i:8>
+<p:12|l:21|i:49>Kde je ten bobr?
+<c:10|i:8>
+<p:12|l:45|i:50>®ádný jiný strom tu neokousal.
+<c:10|i:8>
+<p:12|l:34|i:51>Mo¾ná toho zlodìje se¾ral krokodýl.
+<c:10|i:8>
+<p:12|l:29|i:52>Tak¾e, kde je moje vybavení?
+<c:10|i:8>
+<p:12|l:5|i:53>Pfuj!
+<c:10|i:8>
+<p:12|l:5|i:54>Pfuj!
+<c:10|i:8>
+<p:12|l:29|i:55>To je pìknì velká kotva.
+<c:10|i:8>
+<p:12|l:40|i:56>Nepotøebují takovou zátì¾, ne?
+<c:10|i:8>
+<p:12|l:16|i:57>Divné, ale roztomilé.
+<c:10|i:8>
+<p:12|l:16|i:58>Divní roztomilí brouci.
+<c:10|i:8>
+<p:12|l:23|i:59>Ten moèál je moc pìkný.
+<c:10|i:8>
+<p:12|l:14|i:60>Takový rustikální.
+<c:10|i:8>
+<p:12|l:44|i:61>Ten krysák musí hlídat nìco mimoøádného.
+<c:10|i:8>
+<p:12|l:27|i:62>Nejspí¹ zásoby sýra.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

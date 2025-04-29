@@ -1,0 +1,43 @@
+Nepùjdu tam bez svého alchymistického magnetu.
+Aha. A jdeme to prozkoumat.
+Dr se dál od mého sklepa.
+To je pìknı ocet.
+Nehnu se odtud, leda by kolem bìel mùj strašák. Ha!
+Vy jste farmáø Greenberry?
+To jsem já.
+Díky za dopis.
+Nejste vy Král hoøèice?
+Pøála bych si znát váš tajnı recept.
+Recept Greenberryù zní:
+Smíchej drcené øedkvièky s octem.
+Ten recept se dìdí v naší rodinì po generace.
+Lituju.
+Draèí slzy.
+Ten ještì poroste...
+Koukni se na velikost tlap.
+Je to jenom štìnì.
+Tohle radši vrátím...
+On jí jenom koèky.
+SCRW
+Koukej! Jsem volnı!
+Vra se do práce!
+Ještì jsi nesplnil všechny smluvní povinnosti.
+Na to zapomeò, Buøte!
+Na zahradì u nepracuji!
+Páèko!
+Krásná venkovská krajina.
+OUTFARM
+Tenhle akvadukt vede úplnì všude!
+To je ale strašnı vkus!
+Urèitì je svobodnı.
+Šel vyzvednout další zásilku hoøèice.
+ 
+_MEANWIL.COL
+_MNWHILG.CPS
+_MNWHILF.CPS
+_MNWHILE.CPS
+FARMER.WSA
+DRAGON.WSA
+SC_ENTER.WSA
+ZANDOWN.WSA
+PICKUPMU.WSA

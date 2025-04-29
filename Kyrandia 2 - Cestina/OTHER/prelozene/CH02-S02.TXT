@@ -1,0 +1,162 @@
+<p:11|l:9|i:0>kapitola 3
+<p:12|l:47|i:1>Ví¹ jak se dá dostat do farmáøova sklepa?
+<p:23|l:23|i:2>On si ho dost hlídá.
+<c:10|i:6>
+<p:12|l:39|i:3>Je tam nìco, co bych mohla vyu¾ít?
+<p:23|l:50|i:4>Ve sklepì se v¾dycky najdou zajímavé vìci, no ne?
+<c:10|i:7>
+<p:12|l:48|i:5>Nemohl by ses dostat dovnitø a pøinést mi páèidlo?
+<p:23|l:30|i:6>A jak bych ho asi tak zvednul?
+<c:10|i:5>
+<p:12|l:37|i:7>Pánové, zaèínáte mì trochu ¹tvát.
+<p:25|l:54|i:8>Lituju. Nemáme povolení ¹tvát lidi bez klobouku.
+<p:24|l:33|i:9>Ty by ses opravdu chtìla dostat dovnitø?
+<p:12|l:16|i:10>Bylo na èase.
+<p:24|l:20|i:11>Promiò. Jen ¾ertuju.
+<c:10|i:6>
+<p:24|l:29|i:12>Proè nás poøád otravuje¹?
+<p:25|l:26|i:13>Jo, co jsi zaè, nìjaký cvok?
+<c:10|i:7>
+<p:12|l:35|i:14>Prosím. Na tohle nemám èas.
+<p:25|l:22|i:15>Lituju. ®ádné úplatky.
+<p:12|l:5|i:16>Co¾e?
+<p:24|l:21|i:17>Nebereme ani èas.
+<p:12|l:6|i:18>Arrgh!
+<p:25|l:43|i:19>Promiò. Nemù¾e¹ míchat hru¹ky s jabkama.
+<p:12|l:47|i:20>Nemù¾e¹ ani spoèítat hrozinky v ovocném koláèi.
+<p:24|l:52|i:21>Oooh! Ú¾asné pravidlo. To zavedeme.
+<p:25|l:10|i:22>Díky.
+<c:10|i:5>
+<p:12|l:36|i:23>Prosím, mohla bych se podívat do va¹eho sklepa...
+<p:12|l:80|i:24>...abych se podívala, jestli tam není nìco, co by mi pomohlo dostat se pøes bránu?
+<p:26|l:50|i:25>Kdybych chtìl, aby si lidi pùjèovali moje vìci...
+<p:26|l:53|i:26>...tak u¾ bych se rovnou mohl pøestìhovat do mìsta.
+<c:10|i:6>
+<p:12|l:43|i:27>Prosím! Je to otázka bezpeènosti zemì!
+<p:26|l:67|i:28>To vypadá, ¾e mùj sklípek je bezpeènìj¹í ne¾ celá ta va¹e zemì.
+<p:12|l:29|i:29>Kyrandie je i va¹e zemì!
+<p:26|l:33|i:30>Vlastnì, já pocházím z Miltonie.
+<c:10|i:7>
+<p:12|l:16|i:31>Malomìstský trouba!
+<p:26|l:6|i:32>Co to?
+<c:10|i:5>
+<p:12|l:6|i:33>Haló?
+<c:10|i:6>
+<p:12|l:13|i:34>Je nìkdo doma?
+<c:10|i:7>
+<p:12|l:59|i:35>Tichý, ale zatím je to nejvýraznìj¹í osobnost v údolí.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:46|i:36>Proè nemohla jít Markova Ruka, kdy¾ je tak chytrá?
+<c:10|i:8>
+<p:12|l:57|i:37>Pøedev¹ím, ten pitomý Kotevní kámen byl její nápad!
+<c:10|i:8>
+<p:12|l:51|i:38>Mo¾ná bych prostì mohla skoèit do Bezedné propasti.
+<c:10|i:8>
+<p:12|l:4|i:39>Hmm.
+<c:10|i:8>
+<p:12|l:4|i:40>Hmm.
+<c:10|i:8>
+<p:12|l:4|i:41>Hmm.
+<c:10|i:8>
+<p:12|l:4|i:42>Hmm.
+<c:10|i:8>
+<p:12|l:21|i:43>Mysli Zanthio, mysli!
+<c:10|i:8>
+<p:12|l:22|i:44>Musí to nìjak jít.
+<c:10|i:8>
+<p:12|l:45|i:45>Mo¾ná by Markova Ruka dokázala prorazit bránu.
+<c:10|i:8>
+<p:12|l:46|i:46>Mo¾ná bych nemìla být na Marka tak tvrdá.
+<c:10|i:8>
+<p:12|l:37|i:47>Vsadím se, ¾e ta Ruka by mi teï mohla pomoct.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

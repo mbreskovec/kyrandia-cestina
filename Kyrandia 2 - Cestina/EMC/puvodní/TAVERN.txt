@@ -1,0 +1,79 @@
+ALLEY
+TAVERN
+Nobody leaves without reciting a poem.
+_ZPOUR.EMC
+Nice keg.
+What rustic furniture.
+My dentist would have loads of fun with these.
+Looks like Brandon's picture.
+Is it getting dark out, or is it just me?
+Isn't that Kallak's?
+Nobody seems to be using this.
+-Ahem-
+Excuse me...
+HEY!
+Thank you.
+Nobody barfs,
+Much on the wharfs,
+But rub a dub dub,
+And most lose their grub.
+Heave, heave,
+Ho, ho,
+Over the rail your biscuits go.
+Is that a toad stool?
+Or maybe a toad podium?
+I don't think I need any more taffy.
+I wonder if this taffy is safe to eat?
+It was bad for my teeth, anyway.
+The barrel is already full of some sweet-smelling, goopy mass.
+Rustic furniture must be back in style.
+Hey! These pirates aren't afraid of me!
+What would I need with that?
+He's getting ready.
+Don't break his concentration.
+I miss my Mommy.
+Is that stolen?
+I miss my Daddy.
+Hey, watch it.
+I miss my Teddy Bear.
+No, thank you.
+*SQUAWK!*
+Everyone has to recite a poem before they can leave.
+I lost the leg going after some cheese in a mousetrap.
+Do I look like I need that?
+It's Pirate Poetry Night.
+Hey! Get out of my way wench!
+Hush! He's about to begin!
+Thirsty Dick RichardWent down to the water,
+His momma said 'Dickey, don't wade,
+In over your knees.'
+But alas, for her pleas,Went unheeded, and most unobeyed.
+For young Rick was quick,To dive in, and stick,
+In the mud,Headlong and headfirst.
+And as much as he'd squirm,And gyrate like a worm,
+His problem was breathing, not thirst.
+Do wah, de water,Dickey, Dickey don't wade.
+Do wah, de water,Do what your mom said.
+Dip de dip,But don't slip,
+Won't you please try,To keep your knees dry?
+You wouldn't recognize iambic pentameter if it bit you on the butt.
+Oh? And I suppose you're a Haiku expert!
+Don't touch me!
+Stay out of this, Lady!
+I mean it!
+Get that away from me!
+I'm busy!
+Get out you illiterate cretin!
+Interfere and I'll slit yer gizzard!
+You stay out of this!
+Hey! Thats MY gold tooth!
+Who built this?
+PIRATE_1.WSA
+PIRATE_2.WSA
+PIRATE_3.WSA
+SCTAVIDL.WSA
+FIGHT_1.WSA
+FIGHT_2.WSA
+PARROT.WSA
+TAVERN.WSA
+ZPUKE.WSA

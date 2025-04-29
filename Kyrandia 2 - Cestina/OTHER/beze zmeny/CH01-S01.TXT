@@ -1,0 +1,146 @@
+<p:12|l:21|i:0>Do you have any gold?
+<p:13|l:15|i:1>Why do you ask?
+<p:12|l:40|i:2>I have to pay Brueth for the ferry ride.
+<p:13|l:17|i:3>I don't have any.
+<p:14|l:41|i:4>Why don't you dig up the pirate treasure?
+<p:15|l:30|i:5>Yeah, yeah, the Lost Treasure!
+<c:4|i:2>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:18|l:29|i:6>Well, did you make some gold?
+<p:12|l:25|i:7>I'll find some somewhere.
+<c:10|i:6>
+<p:12|l:27|i:8>Can't I just ride for free?
+<p:18|l:21|i:9>Sorry. No exceptions.
+<c:10|i:7>
+<p:12|l:37|i:10>Can't I just pay you when I get back?
+<p:18|l:32|i:11>Pay in advance. That's the rule.
+<c:10|i:5>
+<p:12|l:19|i:12>Catch anything yet?
+<p:16|l:8|i:13>Not yet.
+<c:10|i:6>
+<p:12|l:26|i:14>Do you guys have any gold?
+<p:17|l:3|i:15>No.
+<c:10|i:7>
+<p:12|l:17|i:16>I need some GOLD!
+<p:16|l:6|i:17>Sorry.
+<c:10|i:5>
+<p:12|l:13|i:18>Looks hungry.
+<c:10|i:6>
+<p:12|l:10|i:19>Big teeth.
+<c:10|i:7>
+<p:12|l:56|i:20>How many flies does it take to feed one of these things?
+<c:10|i:5>
+<p:20|l:32|i:21>Where do you think you're going?
+<p:12|l:52|i:22>Move over cheese breath. I don't have time for this.
+<p:20|l:34|i:23>You're not getting past me sister!
+<c:10|i:6>
+<p:12|l:34|i:24>Do I smell cheese, or is that you?
+<p:20|l:38|i:25>I didn't notice it until you got here.
+<c:10|i:7>
+<p:20|l:16|i:26>Beat it Blondie!
+<p:12|l:19|i:27>What's in the cave?
+<p:20|l:22|i:28>None of your business!
+<c:4|i:3>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:22|l:20|i:29>Aren't you gone yet?
+<c:10|i:6>
+<p:22|l:9|i:30>Hurry up!
+<c:10|i:7>
+<p:22|l:42|i:31>Are you going to hang around here forever?
+<c:10|i:8>
+<p:12|l:31|i:32>I know there's no gold in here.
+<c:10|i:8>
+<p:12|l:35|i:33>I should be looking somewhere else.
+<c:10|i:8>
+<p:12|l:16|i:34>Home sweet home.
+<c:10|i:8>
+<p:12|l:12|i:35>It WAS cozy.
+<c:10|i:8>
+<p:12|l:14|i:36>Any gold here?
+<c:10|i:8>
+<p:12|l:17|i:37>Cute little dock.
+<c:10|i:8>
+<p:12|l:15|i:38>Any gold teeth?
+<c:10|i:8>
+<p:12|l:15|i:39>Any gold teeth?
+<c:10|i:8>
+<p:12|l:4|i:40>Ugh!
+<c:10|i:8>
+<p:12|l:7|i:41>Creepy!
+<c:10|i:8>
+<p:12|l:31|i:42>Maybe I could hijack the ferry.
+<c:10|i:8>
+<p:12|l:16|i:43>Too far to swim.
+<c:10|i:8>
+<p:12|l:29|i:44>Any golden eggs in that nest?
+<c:10|i:8>
+<p:12|l:4|i:45>Hmm.
+<c:10|i:8>
+<p:12|l:10|i:46>I'm tired.
+<c:10|i:8>
+<p:11|l:21|i:47>I'm ready for my nap.
+<c:10|i:8>
+<p:12|l:26|i:48>Why couldn't Darm do this?
+<c:10|i:8>
+<p:12|l:26|i:49>I have other things to do.
+<c:10|i:8>
+<p:12|l:31|i:50>I suppose I am the best choice.
+<c:10|i:8>
+<p:12|l:27|i:51>Brynn wouldn't have a clue.
+<c:10|i:8>
+<p:12|l:24|i:52>Ho hum. Another monster.
+<c:10|i:8>
+<p:12|l:31|i:53>I guess they scare some people.
+<c:10|i:8>
+<p:12|l:5|i:54>Peuw!
+<c:10|i:8>
+<p:12|l:25|i:55>Beautiful, but it stinks!
+<c:10|i:8>
+<p:12|l:19|i:56>Maybe I COULD swim.
+<c:10|i:8>
+<p:12|l:13|i:57>Nah, too far.
+<c:10|i:8>
+<p:12|l:13|i:58>Musical bugs.
+<c:10|i:8>
+<p:12|l:29|i:59>Are there singing snails too?
+<c:10|i:8>
+<p:12|l:18|i:60>I'm tired already.
+<c:10|i:8>
+<p:12|l:21|i:61>I'm ready for my nap.
+<c:10|i:8>
+<p:12|l:19|i:62>What is that smell?
+<c:10|i:8>
+<p:12|l:28|i:63>I don't think it's MY shoes!
+<c:10|i:8>
+<p:12|l:42|i:64>I guess this is the legendary pirate cave.
+<c:10|i:8>
+<p:12|l:23|i:65>Boy, it's cold in here.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:49|i:66>This doesn't seem fair! I'm on official business!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:44|i:67>I wonder if a golden rock would fool Brueth?
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:34|i:68>There has to be some gold in here!
+<c:10|i:9>
+<c:10|i:0>

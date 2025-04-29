@@ -1,0 +1,50 @@
+To je ale krásné obilí.
+Nikdy jsem se nepovažovala za polní žínku.
+Tahle pšenice vypadá zdravì.
+Tahle pšenice vypadá zdravì.
+Je tam nìco?
+_ZHAYBAL.EMC
+Moje stará kniha kouzel z kouzelnické školy!
+Hele! Kdo vytrhl všechny stránky?
+Nic tam nemùžu najít.
+Teï mì všechno svìdí.
+Není tam ani jehla.
+Nic dalšího tam není.
+Hm. Jedna z mých lahvièek.
+Tahle nová vizáž se mi líbí.
+Možná bych ji mohla ostøíhat tak, aby vypadala jako koza.
+Krásná vlna.
+Už jsem ji ostøíhala dost.
+Nìjakou vlnu už mám.
+Nìjakou vlnu jsem tu už nìkde nechala.
+Hups.
+Kdo øíkal, že dojení ovcí je tìžké?
+Na tohle bude lepší lahvièka.
+K èemu by ovce potøebovala tohle?
+Vlastnì se mi strašení lidí docela líbí.
+_ZGHOST1.EMC
+_ZGHOST2.EMC
+Ne, díky.
+LETTER.WSA
+Ííííííík!
+HAYBAIL.WSA
+_ZSNAPDN.EMC
+Mnohem lepší!
+Hele, všechno mi vypadalo z tlumoku.
+Kyrandie je pøekrásná.
+Nikdy jsem nemyslela, že zemìdìlství mùže být tak nebezpeèné.
+Nechci se k té vìci vùbec pøibližovat.
+To je Stonehenge?
+Tohle musí být ten slavný Mlhovský akvadukt.
+MEADOW
+Hej! Co jsi zaè?
+Co bys tak myslela?
+Jsem duch!
+GHOST.WSA
+SHEEPA.WSA
+SHEEPAA.WSA
+SHEEPB.WSA
+SHEEPBB.WSA
+SHEEPC.WSA
+SHEEPCC.WSA
+WHEATRUN.WSA

@@ -1,0 +1,57 @@
+Z_POP.WSA
+O obchody se stará mamka.
+To je výtah?
+Tohle nechci.
+Fíha, to je horké!
+Èistá voda.
+Tohle jim dávat nechci!
+Víte, jak bych se mohla dostat dolù do støedu zemì?
+Pøišla jste na správné místo, má drahá.
+Vezmìte si toto propagaèní pero.
+Ne, díky.
+Hlavní jsou prùduchy a kameny, má drahá.
+Za pouhých šest píseèných dolarù si mùžete koupit kopii...
+...naší mapy k Oltáøi ve støedu zemì.
+Brožura stojí šest píseèných dolarù.
+Dìkuji.
+Už zbývá jen pìt píseèných dolarù.
+Už zbývají jen ètyøi píseèné dolary.
+Už zbývají jen tøi píseèné dolary.
+Už zbývají jen dva píseèné dolary.
+Už zbývá jen jeden píseèný dolar.
+Gratulujeme!
+Skvìlý první krok!
+Nyní, pro patøiènou registraci k získání Kotevního kamene...
+...je tu malý poplatek šesti hvìzdic.
+Ne, díky.
+Vyžaduji poplatek v píseèných dolarech.
+Za listiny musíte uhradit šest hvìzdic.
+Už zbývá jen pìt hvìzdic.
+Už zbývají jen ètyøi hvìzdice.
+Už zbývají jen tøi hvìzdice.
+Už zbývají jen dvì hvìzdice.
+Už zbývá jen jedna hvìzdice.
+Znamenitì!
+Jste témìø pøipravena!
+Teï už vám jen zbývá uhradit šest škeblí za nezbytné formuláøe k pojištìní.
+Vyžaduji platbu v hvìzdicích.
+Listiny stojí šest škeblí.
+Už zbývá jen pìt škeblí.
+Už zbývají jen ètyøi škeble.
+Už zbývají jen tøi škeble.
+Už zbývají jen dvì škeble.
+Už zbývá jen jedna škeble.
+Musím uznat, že jste skvìlá sportovkynì a vynikající zákazník!
+No to je skvìlé.
+Teï mi øeknìte, jak se dostanu dolù a získám kotevní kámen?
+Pro okamžitou cestu dolù do støedu svìta...
+...vìtšina lidí prostì skoèí do nìkterého z tìch prùduchù.
+Vyžaduji poplatek ve škeblích.
+Pøeji hezký den.
+Divný ostrov.
+VO_LAV.WSA
+VO_SMK.WSA
+VO_WTR1.WSA
+VO_WTR2.WSA
+POP.WSA
+MOM.WSA

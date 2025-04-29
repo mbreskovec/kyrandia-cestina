@@ -1,0 +1,50 @@
+My, what beautiful wheat.
+I've never thought of my self as a harvester.
+This wheat looks healthy.
+That wheat looks healthy.
+Anything in here?
+_ZHAYBAL.EMC
+My old magician's school spellbook!
+Hey! Who ripped out all the pages?
+I can't find anything in there.
+Now I feel itchy.
+There's not even a needle in there.
+There's nothing else in there.
+Hmm. One of my flasks.
+I like the new look.
+Maybe I could shave this to look like a goat.
+What beautiful wool.
+I think I've already sheared off enough.
+I already have some wool.
+I left some wool around here somewhere.
+Oops.
+Who says milking a sheep is hard?
+I'll bet a flask would work better for this.
+Now what would a sheep want with that?
+Actually, I do enjoy scaring people.
+_ZGHOST1.EMC
+_ZGHOST2.EMC
+No thank you.
+LETTER.WSA
+Aieeeeee!
+HAYBAIL.WSA
+_ZSNAPDN.EMC
+Much better!
+Hey, everything has fallen out of my knapsack.
+Kyrandia is beautiful.
+I didn't know agriculture could be that dangerous.
+I don't want to get anywhere near that thing.
+Is that Stonehenge?
+That must be the famous Morningmist Aqueduct.
+MEADOW
+Hey! What are you?
+What does it look like?
+I'm a ghost!
+GHOST.WSA
+SHEEPA.WSA
+SHEEPAA.WSA
+SHEEPB.WSA
+SHEEPBB.WSA
+SHEEPC.WSA
+SHEEPCC.WSA
+WHEATRUN.WSA

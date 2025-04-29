@@ -1,0 +1,38 @@
+Vypadá lákavì.
+XXXX
+Hej Zanthio!
+Ahoj, Zanthio, poèkej až uvidíš moje nové provazové kouzlo.
+Stává se ze mì docela dobrý kouzelník.
+Jsem si jistá, že to dìti na tvé pøíští narozeninové oslavì ocení.
+Ale Zanthio, ty mi prostì jen závidíš mého nového asistenta.
+Jo jo, Marko, tím to bude.
+Kde je vlastnì ta tvoje Ruka?
+No, nìkde tady jistì bude.
+Má moc ráda procházky po bažinì.
+Tady je.
+Zdravím, pane Ruko.
+Byla to dobrá procházka?
+Ráda bych zùstala a povídala si...
+...ale nìkdo mi ukradl vybavení.
+Musím se vydat do støedu zemì...
+...a získat jeden z Kotevních kamenù.
+Co? Kdo by nìco takového dìlal?
+To nevím, ale mám pøíliš práce, než abych tu jen tak postávala!
+MAR2
+FLYTRAP
+Mùžeme pomoct?
+Nemáš nìjaké zlato?
+Ne. Promiò.
+Prosím, dovol nám pomáhat.
+Já to zvládnu sama, ale díky.
+Divná bažina.
+HOLEGLOW.WSA
+Kytièky.
+Bahnitá voda.
+To je ale podivný úkaz!
+Kyrandie mizí pøímo pøed oèima!
+HOLEA.WSA
+HOLEB.WSA
+HOLEC.WSA
+MARCHOLE.WSA
+HANDHOLE.WSA

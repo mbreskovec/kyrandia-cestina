@@ -1,0 +1,167 @@
+<p:12|l:43|i:0>My name is Zanthia. I'm here from Kyrandia.
+<p:43|l:66|i:1>Pleased to meet you. I'm Jessica, apprentice wizard from Miltonia.
+<c:10|i:6>
+<p:12|l:40|i:2>So, what calamity has befallen Miltonia?
+<p:43|l:56|i:3>Rain of Frogs. Happens every summer. Disgusting, really.
+<p:12|l:6|i:4>Yeech!
+<c:10|i:7>
+<p:12|l:19|i:5>Found the path yet?
+<p:43|l:22|i:6>Would I still be here?
+<c:10|i:5>
+<p:12|l:34|i:7>What do you want the starfish for?
+<p:44|l:58|i:8>I actually work for the Seaside Novelty Compny in Luxlund.
+<c:10|i:6>
+<p:12|l:60|i:9>Unusual office. Was your transfer a promotion or punishment?
+<p:44|l:18|i:10>Ha ha. Very funny!
+<c:10|i:7>
+<p:12|l:43|i:11>Are you sure you know the way to the Altar?
+<p:12|l:29|i:12>You don't seem too spiritual.
+<p:44|l:51|i:13>Hey, Business is business. I just sell the service.
+<c:10|i:5>
+<p:45|l:50|i:14>There is a charge of 4 seashells for our pamphlet.
+<p:45|l:29|i:15>It tells all about the Altar.
+<c:10|i:6>
+<p:12|l:28|i:16>Is this a government agency?
+<p:45|l:41|i:17>We are officially sanctioned guides, yes.
+<c:10|i:7>
+<p:12|l:47|i:18>Do all you salespeople live here on the island?
+<p:45|l:29|i:19>Is that any of your business?
+<c:10|i:5>
+<p:12|l:40|i:20>Finally, I thought you'd never get back.
+<p:46|l:33|i:21>Our union has strict break rules.
+<c:10|i:6>
+<p:12|l:39|i:22>Is there actually a union for this job?
+<p:46|l:49|i:23>The meetings are on Tuesdays if you want to come.
+<c:10|i:7>
+<p:12|l:46|i:24>Isn't there a shortcut? I'm really in a hurry.
+<p:46|l:33|i:25>Sorry. We're not allowed to care.
+<c:10|i:5>
+<p:47|l:59|i:26>Yep. 33 years ago we got married. Right here on the island.
+<p:12|l:16|i:27>Congratulations.
+<c:10|i:6>
+<p:47|l:50|i:28>Pop used to work for the Seaside Novelty booth....
+<p:47|l:37|i:29>And I was a clerk over at the agency.
+<p:12|l:13|i:30>How charming.
+<c:10|i:7>
+<p:47|l:56|i:31>We opened this place after George got back from the war.
+<p:12|l:34|i:32>Great. So, how am I supposed to...
+<p:47|l:24|i:33>We've never looked back.
+<p:12|l:6|i:34>Swell.
+<c:10|i:5>
+<p:48|l:36|i:35>Sorry. Mom handles all the business.
+<c:10|i:6>
+<p:48|l:35|i:36>Sorry. You'll need to speak to Mom.
+<c:10|i:7>
+<p:48|l:28|i:37>Mom! We got a customer here!
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:22|i:38>What a lousy knapsack.
+<c:10|i:8>
+<p:12|l:44|i:39>Perhaps I could exchange it when I get back.
+<c:10|i:8>
+<p:12|l:36|i:40>I'd better find a path leading down.
+<c:10|i:8>
+<p:12|l:25|i:41>Maybe the sign burned up.
+<c:10|i:8>
+<p:12|l:30|i:42>I guess this place is popular.
+<c:10|i:8>
+<p:12|l:32|i:43>Surely there's a sign somewhere.
+<c:10|i:8>
+<p:12|l:34|i:44>I wonder if this guy has a permit?
+<c:10|i:8>
+<p:12|l:37|i:45>This door can't be the only way down.
+<c:10|i:8>
+<p:12|l:19|i:46>Where is that path?
+<c:10|i:8>
+<p:12|l:27|i:47>I know it's here somewhere.
+<c:10|i:8>
+<p:12|l:53|i:48>I don't need to be strolling along a beach right now.
+<c:10|i:8>
+<p:12|l:15|i:49>I'm in a hurry!
+<c:10|i:8>
+<p:12|l:24|i:50>At least I got this far.
+<c:10|i:8>
+<p:12|l:61|i:51>Brandon wouldn't have figured out that trick with the magnet.
+<c:10|i:8>
+<p:12|l:32|i:52>Somehow this doesn't feel right.
+<c:10|i:8>
+<p:12|l:30|i:53>I've always heard it was easy.
+<c:10|i:8>
+<p:12|l:42|i:54>This is the most fun I've ever had... NOT!
+<c:10|i:8>
+<p:12|l:56|i:55>Why couldn't there be a service altar here on the beach?
+<c:10|i:8>
+<p:12|l:25|i:56>What a depressing office.
+<c:10|i:8>
+<p:12|l:25|i:57>Even the clerk looks ill.
+<c:10|i:8>
+<p:12|l:21|i:58>If I was in charge...
+<c:10|i:8>
+<p:12|l:26|i:59>I'd do things differently!
+<c:10|i:8>
+<p:12|l:40|i:60>All this sweaty hiking could be painful.
+<c:10|i:8>
+<p:12|l:31|i:61>Thank goodness for corn starch.
+<c:10|i:8>
+<p:12|l:45|i:62>I'll call Faun as soon as I get to the Altar.
+<c:10|i:8>
+<p:12|l:32|i:63>Maybe he'll have some good news.
+<c:10|i:8>
+<p:12|l:26|i:64>If I didn't know better...
+<c:10|i:8>
+<p:12|l:37|i:65>I'd swear this is a wild goose chase.
+<c:10|i:8>
+<p:12|l:53|i:66>Why don't we keep a couple of Anchor stones around...
+<p:12|l:31|i:67>Just for emergencies like this?
+<c:10|i:8>
+<p:12|l:40|i:68>Oh well, I always have been perseverent.
+<c:10|i:8>
+<p:12|l:27|i:69>I'd kill for some lemonade.
+<c:10|i:8>
+<p:12|l:33|i:70>I wish I had a pair of icy-socks.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

@@ -1,0 +1,127 @@
+<p:12|l:43|i:0>Excuse me, can you give me some directions?
+<p:50|l:34|i:1>Yikes! Are you the new lumberjack?
+<p:12|l:5|i:2>What?
+<c:10|i:6>
+<p:12|l:51|i:3>Do you know how I can get up to the Wheels of Fate?
+<p:50|l:17|i:4>Where's your axe?
+<p:12|l:28|i:5>I am NOT the new lumberjack!
+<c:10|i:7>
+<p:12|l:93|i:6>Say, if the new lumberjack wanted to get up to the Wheels which direction would you send him?
+<p:50|l:34|i:7>Oh, so you're a sneaky lumberjack!
+<p:12|l:56|i:8>(Sheesh, and I thought the Highmoon guards were stupid!)
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:47|i:9>Hello. Can you direct me to the Wheels of Fate?
+<p:53|l:15|i:10>I'd be glad to.
+<c:10|i:6>
+<p:12|l:21|i:11>Well? Where are they?
+<p:53|l:79|i:12>You looked like you were going the right way, so I felt no need to correct you.
+<c:10|i:7>
+<p:12|l:64|i:13>So, you're saying that if I go the wrong way, you'll correct me?
+<p:53|l:27|i:14>Beautiful system, isn't it?
+<c:10|i:5>
+<p:12|l:32|i:15>Can you give me some directions?
+<p:54|l:35|i:16>Sorry, we've got an emergency here.
+<c:10|i:6>
+<p:12|l:43|i:17>Please. I'm going up to the Wheels of Fate.
+<p:54|l:14|i:18>Take the Tram.
+<c:10|i:7>
+<p:12|l:44|i:19>Do you know anything about a Rainbow Bridge?
+<p:54|l:24|i:20>Please miss, we're busy!
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:29|i:21>I knew that Hand was no good!
+<c:10|i:8>
+<p:12|l:38|i:22>Poor Marko. He must be so embarrassed!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:72|i:23>I've always heard there was a magic Rainbow Bridge or something up here.
+<c:10|i:8>
+<p:12|l:73|i:24>Maybe I should look for a pot of gold, or a huge jewel in a eagle's nest.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:26|i:25>This has to be the way up.
+<c:10|i:8>
+<p:12|l:32|i:26>Maybe I could climb up the rope?
+<c:10|i:8>
+<p:12|l:33|i:27>I've got to get up to the Wheels!
+<c:10|i:8>
+<p:12|l:49|i:28>All these cute little delays are driving me nuts!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:42|i:29>Excellent! This tram will work out nicely!
+<c:10|i:9>
+<p:11|l:47|i:30>I knew it! This knapsack is absolutely no good!
+<c:10|i:0>

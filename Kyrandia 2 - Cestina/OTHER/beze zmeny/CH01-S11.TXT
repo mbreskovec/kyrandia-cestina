@@ -1,0 +1,101 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:17|i:0>I got the anchor!
+<c:10|i:6>
+<p:12|l:17|i:1>I got the anchor!
+<c:10|i:7>
+<p:12|l:17|i:2>I got the anchor!
+<c:10|i:5>
+<p:12|l:14|i:3>Big ugly weed.
+<c:10|i:6>
+<p:12|l:14|i:4>Big ugly weed.
+<c:10|i:7>
+<p:12|l:14|i:5>Big ugly weed.
+<c:10|i:5>
+<p:12|l:17|i:6>I got the anchor!
+<c:10|i:6>
+<p:12|l:17|i:7>I got the anchor!
+<c:10|i:7>
+<p:12|l:17|i:8>I got the anchor!
+<c:10|i:5>
+<p:12|l:32|i:9>Hey. What happened to the ferry?
+<c:10|i:6>
+<p:12|l:28|i:10>Did your sneeze do all this?
+<c:10|i:7>
+<p:12|l:36|i:11>Are you going to Morningmist Valley?
+<c:10|i:5>
+<p:12|l:17|i:12>I got the anchor!
+<c:10|i:6>
+<p:12|l:17|i:13>I got the anchor!
+<c:10|i:7>
+<p:12|l:17|i:14>I got the anchor!
+<p:22|l:46|i:15>You already said that. Why are you still here?
+<p:11|l:47|i:16>The postman burned down the ferry and the dock.
+<c:10|i:8>
+<p:12|l:22|i:17>I've found the anchor.
+<c:10|i:8>
+<p:12|l:20|i:18>Why am I still here?
+<c:10|i:8>
+<p:12|l:22|i:19>I've found the anchor.
+<c:10|i:8>
+<p:12|l:20|i:20>Why am I still here?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:33|i:21>Whoa! What happened to the ferry?
+<p:21|l:30|i:22>I accidentally burned it down.
+<p:12|l:37|i:23>Can you fly me to Morningmist Valley?
+<p:21|l:46|i:24>I will if you find the four letters I dropped.
+<c:4|i:12>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

@@ -1,0 +1,146 @@
+<p:12|l:21|i:0>Nemìl bys nìjaké zlato?
+<p:13|l:15|i:1>Proè se ptá¹?
+<p:12|l:40|i:2>Musím zaplatit Bruethovi za lodní lístek.
+<p:13|l:17|i:3>®ádné nemám.
+<p:14|l:41|i:4>Proè nezkusí¹ vykopat pirátský poklad?
+<p:15|l:30|i:5>Jo, jo, Ztracený Poklad!
+<c:4|i:2>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:18|l:29|i:6>Tak¾e, u¾ jsi vyrobila zlato?
+<p:12|l:25|i:7>Zkusím nìjaké najít.
+<c:10|i:6>
+<p:12|l:27|i:8>Nemohl bys mì pøevézt zdarma?
+<p:18|l:21|i:9>Promiò. ®ádné výjimky.
+<c:10|i:7>
+<p:12|l:37|i:10>Nemohla bych zaplatit, a¾ se vrátím?
+<p:18|l:32|i:11>Platí se pøi nástupu. To je pravidlo.
+<c:10|i:5>
+<p:12|l:19|i:12>U¾ jste nìco chytili?
+<p:16|l:8|i:13>Je¹tì ne.
+<c:10|i:6>
+<p:12|l:26|i:14>Nemáte, pánové, nìjaké zlato?
+<p:17|l:3|i:15>Ne.
+<c:10|i:7>
+<p:12|l:17|i:16>Potøebuji ZLATO!
+<p:16|l:6|i:17>Promiò.
+<c:10|i:5>
+<p:12|l:13|i:18>Vypadá hladovì.
+<c:10|i:6>
+<p:12|l:10|i:19>Ty zuby!
+<c:10|i:7>
+<p:12|l:56|i:20>Kolik much je potøeba na to, aby se taková vìc nakrmila?
+<c:10|i:5>
+<p:20|l:32|i:21>Kam si myslí¹, ¾e jde¹?
+<p:12|l:52|i:22>Ztra» se, sýro¾route. Na tohle nemám èas.
+<p:20|l:34|i:23>Kolem mì neprojde¹, ségra!
+<c:10|i:6>
+<p:12|l:34|i:24>Cítím syreèky, nebo jse¹ to ty?
+<p:20|l:38|i:25>Nev¹im jsem si, ne¾ ses tu objevila.
+<c:10|i:7>
+<p:20|l:16|i:26>Vzdej to, bloncko!
+<p:12|l:19|i:27>Co je v té jeskyni?
+<p:20|l:22|i:28>Nic co by tì mìlo zajímat!
+<c:4|i:3>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:22|l:20|i:29>Tys je¹tì ne¹la?
+<c:10|i:6>
+<p:22|l:9|i:30>Pospì¹ si!
+<c:10|i:7>
+<p:22|l:42|i:31>To se tu hodlá¹ poflakovat vìènì?
+<c:10|i:8>
+<p:12|l:31|i:32>Tady urèitì není ¾ádné zlato.
+<c:10|i:8>
+<p:12|l:35|i:33>Musím hledat nìkde jinde.
+<c:10|i:8>
+<p:12|l:16|i:34>Domove sladký domove.
+<c:10|i:8>
+<p:12|l:12|i:35>Bývalo tu útulno.
+<c:10|i:8>
+<p:12|l:14|i:36>Je tu nìjaké zlato?
+<c:10|i:8>
+<p:12|l:17|i:37>Takový pìkný malý pøístav.
+<c:10|i:8>
+<p:12|l:15|i:38>Nìjaký zlatý zub?
+<c:10|i:8>
+<p:12|l:15|i:39>Nìjaký zlatý zub?
+<c:10|i:8>
+<p:12|l:4|i:40>Uch!
+<c:10|i:8>
+<p:12|l:7|i:41>Stra¹idelné!
+<c:10|i:8>
+<p:12|l:31|i:42>Mo¾ná bych mohla tu loï unést.
+<c:10|i:8>
+<p:12|l:16|i:43>Na plavání je to moc daleko.
+<c:10|i:8>
+<p:12|l:29|i:44>®e by nìjaké zlaté vejce?
+<c:10|i:8>
+<p:12|l:4|i:45>Hmm.
+<c:10|i:8>
+<p:12|l:10|i:46>Jsem unavená.
+<c:10|i:8>
+<p:11|l:21|i:47>Chtìlo by to malé zdøímnutí.
+<c:10|i:8>
+<p:12|l:26|i:48>Proè tohle nedìlá Darm?
+<c:10|i:8>
+<p:12|l:26|i:49>Mám lep¹í vìci na práci.
+<c:10|i:8>
+<p:12|l:31|i:50>Nejspí¹ jsem to nejlep¹í, co mají.
+<c:10|i:8>
+<p:12|l:27|i:51>Brynn by nemìla ¹anci.
+<c:10|i:8>
+<p:12|l:24|i:52>Ho hó, dal¹í pøí¹era.
+<c:10|i:8>
+<p:12|l:31|i:53>Nìkoho by tøeba mohly vystra¹it.
+<c:10|i:8>
+<p:12|l:5|i:54>Pfuj!
+<c:10|i:8>
+<p:12|l:25|i:55>Pøekrásné, ale trochu smrdí!
+<c:10|i:8>
+<p:12|l:19|i:56>Mo¾ná bych pøece jen mohla plavat.
+<c:10|i:8>
+<p:12|l:13|i:57>Ne, moc daleko.
+<c:10|i:8>
+<p:12|l:13|i:58>Hudební brouci.
+<c:10|i:8>
+<p:12|l:29|i:59>Nejsou tu i zpívající slimáci?
+<c:10|i:8>
+<p:12|l:18|i:60>U¾ jsem unavená.
+<c:10|i:8>
+<p:12|l:21|i:61>Chtìlo by to ¹lofíka.
+<c:10|i:8>
+<p:12|l:19|i:62>Co to tu smrdí?
+<c:10|i:8>
+<p:12|l:28|i:63>Moje boty to nejsou!
+<c:10|i:8>
+<p:12|l:42|i:64>Tohle bude ta pirátská jeskynì.
+<c:10|i:8>
+<p:12|l:23|i:65>Tady je ale zima.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:49|i:66>To není fér! Jsem tu v oficiální zále¾itosti!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:44|i:67>Jestlipak by se Brueth nechal nachytat na zlatý valoun?
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:34|i:68>Tady nìkde musí být nìjaké zlato!
+<c:10|i:9>
+<c:10|i:0>

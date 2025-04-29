@@ -1,0 +1,143 @@
+<p:12|l:21|i:0>Na¹la jsem poklad.
+<p:15|l:18|i:1>FÍHA! Jsi bohatá?
+<p:12|l:12|i:2>Ne tak docela...
+<p:12|l:43|i:3>...ale mám starý alchymistický magnet.
+<p:14|l:10|i:4>Výteènì!
+<p:12|l:42|i:5>Smùla je, ¾e tady v okolí se nenachází moc olova.
+<p:13|l:34|i:6>Já nic olovìného nemám.
+<c:10|i:6>
+<p:12|l:45|i:7>Nevíte o nìkom, kdo by mìl nìjaké olovo?
+<p:13|l:39|i:8>Mo¾ná místní rybáøi nìkoho znají.
+<c:10|i:7>
+<p:12|l:54|i:9>Proè v té truhle nemohlo být nìjaké zlato?
+<p:14|l:51|i:10>Mo¾ná piráti zakopali zlato nìkde jinde!
+<p:12|l:5|i:11>Hmmm.
+<c:10|i:5>
+<p:12|l:42|i:12>Breuthe, nemìl bys nìco vyrobené z olova?
+<p:18|l:18|i:13>Zrovna ne.
+<c:10|i:6>
+<p:12|l:39|i:14>Ví¹ kde bych mohla najít nìco olovìného?
+<p:18|l:23|i:15>Nevím. Zkus Herba.
+<c:10|i:7>
+<p:12|l:42|i:16>Breuthe, nemìl bys nìco vyrobené z olova?
+<p:18|l:26|i:17>Neptala ses mì u¾?
+<c:10|i:5>
+<p:12|l:17|i:18>Potøebuji olovo.
+<p:16|l:32|i:19>No, na¹i kotvu ti nedáme.
+<c:10|i:6>
+<p:12|l:17|i:20>Já ji vá¾nì potøebuji.
+<p:17|l:41|i:21>Zùstaneme tady, dokud nechytíme rybu.
+<c:10|i:7>
+<p:12|l:32|i:22>Já vá¾nì, vá¾nì potøebuji nìjaké olovo!
+<p:16|l:59|i:23>Kdy¾ nás pøestane¹ vyru¹ovat, mo¾ná nìco chytíme.
+<c:10|i:5>
+<p:12|l:14|i:24>Velký o¹klivý plevel.
+<c:10|i:6>
+<p:12|l:14|i:25>Velký o¹klivý plevel.
+<c:10|i:7>
+<p:12|l:14|i:26>Velký o¹klivý plevel.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:17|i:27>Potøebuji nìjaké olovo.
+<p:12|l:43|i:28>V truhle jsem na¹la alchymistický magnet.
+<p:22|l:51|i:29>To musí být ten, co piráti pøed lety ukradli.
+<c:10|i:6>
+<p:12|l:21|i:30>Teï u¾ potøebuji jen olovo.
+<p:22|l:7|i:31>Hmmm..?
+<c:10|i:7>
+<p:12|l:10|i:32>Nìjaký nápad?
+<p:22|l:7|i:33>Hmm....
+<c:10|i:8>
+<p:12|l:17|i:34>Potøebuji nìjaké olovo.
+<c:10|i:8>
+<p:12|l:40|i:35>Kde je v¹echno olovo, kdy¾ ho potøebujete?
+<c:10|i:8>
+<p:12|l:4|i:36>Horké.
+<c:10|i:8>
+<p:12|l:6|i:37>Bahnité.
+<c:10|i:8>
+<p:12|l:9|i:38>Moc horké.
+<c:10|i:8>
+<p:12|l:11|i:39>Moc bahnité.
+<c:10|i:8>
+<p:12|l:14|i:40>O¹klivý plevel.
+<c:10|i:8>
+<p:12|l:14|i:41>O¹klivý plevel.
+<c:10|i:8>
+<p:12|l:4|i:42>Uch!
+<c:10|i:8>
+<p:12|l:7|i:43>Stra¹idelné.
+<c:10|i:8>
+<p:12|l:15|i:44>Pøiprav èlun.
+<c:10|i:8>
+<p:12|l:12|i:45>Tady mì máte.
+<c:10|i:8>
+<p:12|l:30|i:46>Ty boty u¾ se zaèínají promáèet.
+<c:10|i:8>
+<p:12|l:36|i:47>Vsadím se, ¾e Brynn si puchýøe nenadìlá.
+<c:10|i:8>
+<p:12|l:36|i:48>Tohle mi fakt leze na nervy.
+<c:10|i:8>
+<p:12|l:35|i:49>Proè jsem to jenom JÁ, kdo má zodpovìdnost?
+<c:10|i:8>
+<p:12|l:31|i:50>Ti chlapi nic nevìdí.
+<c:10|i:8>
+<p:12|l:47|i:51>Proè poøád èekám, ¾e mi pomohou?
+<c:10|i:8>
+<p:12|l:10|i:52>Divné bláto.
+<c:10|i:8>
+<p:12|l:32|i:53>Musela se do nìj zamíchat moèálová nafta.
+<c:10|i:8>
+<p:12|l:10|i:54>Jsem unavená.
+<c:10|i:8>
+<p:12|l:46|i:55>Tenhle úkol je jistým podivným, vlasteneckým zpùsobem zábavný.
+<c:10|i:8>
+<p:12|l:5|i:56>Zív!
+<c:10|i:8>
+<p:12|l:5|i:57>Zív!
+<c:10|i:8>
+<p:12|l:20|i:58>Potøebuji jejich kotvu.
+<c:10|i:8>
+<p:12|l:28|i:59>Mo¾ná bych je mohla nìjak rozptýlit.
+<c:10|i:8>
+<p:12|l:6|i:60>Divné.
+<c:10|i:8>
+<p:12|l:20|i:61>Muzikální pirát¹tí brouci.
+<c:10|i:8>
+<p:12|l:22|i:62>Tady u¾ jsem byla.
+<c:10|i:8>
+<p:12|l:45|i:63>Musím nést celou Kyrandii na svých utlých ramenou.
+<c:10|i:8>
+<p:12|l:36|i:64>Z tohohle by bylo dobré skladi¹tì.
+<c:10|i:8>
+<p:12|l:39|i:65>Pokud bych tedy mìla nìco ke skladování.
+<c:10|i:8>
+<p:12|l:25|i:66>Tohle je dobøe navr¾ené.
+<c:10|i:8>
+<p:12|l:30|i:67>Muselo trvat vìky to postavit.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

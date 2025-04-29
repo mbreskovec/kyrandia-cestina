@@ -1,0 +1,101 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:17|i:0>Na¹la jsem tu kotvu!
+<c:10|i:6>
+<p:12|l:17|i:1>Na¹la jsem tu kotvu!
+<c:10|i:7>
+<p:12|l:17|i:2>Na¹la jsem tu kotvu!
+<c:10|i:5>
+<p:12|l:14|i:3>Velký o¹klivý plevel.
+<c:10|i:6>
+<p:12|l:14|i:4>Velký o¹klivý plevel.
+<c:10|i:7>
+<p:12|l:14|i:5>Velký o¹klivý plevel.
+<c:10|i:5>
+<p:12|l:17|i:6>Na¹la jsem tu kotvu!
+<c:10|i:6>
+<p:12|l:17|i:7>Na¹la jsem tu kotvu!
+<c:10|i:7>
+<p:12|l:17|i:8>Na¹la jsem tu kotvu!
+<c:10|i:5>
+<p:12|l:32|i:9>Hej, co se stalo s lodí?
+<c:10|i:6>
+<p:12|l:28|i:10>Tohle zpùsobilo tvoje kýchnutí?
+<c:10|i:7>
+<p:12|l:36|i:11>Nemíøí¹ do Ml¾ného údolí?
+<c:10|i:5>
+<p:12|l:17|i:12>Na¹la jsem kotvu!
+<c:10|i:6>
+<p:12|l:17|i:13>Na¹la jsem tu kotvu!
+<c:10|i:7>
+<p:12|l:17|i:14>Na¹la jsem tu kotvu!
+<p:22|l:46|i:15>To u¾ jsi øíkala. Proè jsi je¹tì tady?
+<p:11|l:47|i:16>Po¹»ák spálil loï a pøívoz.
+<c:10|i:8>
+<p:12|l:22|i:17>Na¹la jsem tu kotvu.
+<c:10|i:8>
+<p:12|l:20|i:18>Proè jsi je¹tì tady?
+<c:10|i:8>
+<p:12|l:22|i:19>Na¹la jsem tu kotvu.
+<c:10|i:8>
+<p:12|l:20|i:20>Proè jsi je¹tì tady?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:33|i:21>Jejda! Co se stalo s lodí?
+<p:21|l:30|i:22>Já ji ne¹»astnou náhodou spálil.
+<p:12|l:37|i:23>Nemohl bys mì odnést do Ml¾ného údolí?
+<p:21|l:46|i:24>Mohl, pokud najde¹ ty ètyøi dopisy, co jsem upustil.
+<c:4|i:12>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

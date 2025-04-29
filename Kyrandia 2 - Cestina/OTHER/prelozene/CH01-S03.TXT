@@ -1,0 +1,136 @@
+<p:13|l:14|i:0>Ahoj Zanthio.
+<p:12|l:31|i:1>Mám problém s krysou!
+<p:13|l:39|i:2>Proè nezkusí¹ nìjaký z tìch tvých lektvarù?
+<c:4|i:4>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:18|l:22|i:3>Hele, kde je zlato?
+<p:12|l:14|i:4>Dostane¹ ho.
+<c:10|i:6>
+<p:12|l:28|i:5>Opravdu potøebuje¹ zlato?
+<p:18|l:26|i:6>Opravdu potøebuje¹ cestovat?
+<c:10|i:7>
+<p:12|l:42|i:7>Musím se dostat pøes tu krysu v jeskyni.
+<p:18|l:16|i:8>Zkus pastièku na my¹i.
+<c:10|i:5>
+<p:12|l:8|i:9>Nedaøí se?
+<c:10|i:6>
+<p:12|l:28|i:10>To nemáte nic na práci?
+<p:16|l:5|i:11>Hu¹!
+<c:10|i:7>
+<p:12|l:41|i:12>Chlapci, vy jste tady v¾dycky, kdy¾ jdu okolo.
+<c:10|i:5>
+<p:12|l:13|i:13>Vypadá hladovì.
+<c:10|i:6>
+<p:12|l:10|i:14>Poøádné zuby.
+<c:10|i:7>
+<p:12|l:12|i:15>Poøádný plevel!
+<c:10|i:5>
+<p:12|l:34|i:16>Odstupte, pane. Spìchám.
+<p:20|l:11|i:17>To sotva.
+<c:10|i:6>
+<p:12|l:7|i:18>Prosím.
+<p:20|l:51|i:19>Ví¹ ¾e jsi docela pøita¾livá, kdy¾ se zlobí¹?
+<c:10|i:7>
+<p:12|l:23|i:20>Poslední ¹ance, nebo...
+<p:20|l:12|i:21>Nebo co?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:38|i:22>Nemáme tady nìjaký jed na krysy?
+<p:22|l:26|i:23>Proè? Mám krysy rád.
+<c:10|i:6>
+<p:12|l:69|i:24>Myslím, ¾e v té jeskyni nìco je, ale krysa mì nechce pustit.
+<p:22|l:21|i:25>A zkusilas poprosit?
+<c:10|i:7>
+<p:12|l:27|i:26>Musím se dostat pøes tu krysu!
+<c:10|i:8>
+<p:12|l:23|i:27>Ty nohy mì zabijou.
+<c:10|i:8>
+<p:12|l:41|i:28>Pøála bych si mít pár Brandonových sandálù.
+<c:10|i:8>
+<p:12|l:5|i:29>Hmmm.
+<c:10|i:8>
+<p:12|l:28|i:30>Proè jsem poøád v ba¾inì?
+<c:10|i:8>
+<p:12|l:33|i:31>Chtìla bych, aby ta krysa vypadla.
+<c:10|i:8>
+<p:12|l:19|i:32>Mo¾ná bych to mohla pøeplavat.
+<c:10|i:8>
+<p:12|l:10|i:33>Jsem unavená.
+<c:10|i:8>
+<p:12|l:21|i:34>Chtìlo by to malé zdøímnutí.
+<c:10|i:8>
+<p:12|l:4|i:35>Uch!
+<c:10|i:8>
+<p:12|l:7|i:36>Stra¹idelné.
+<c:10|i:8>
+<p:12|l:27|i:37>Na plavání je to moc daleko.
+<c:10|i:8>
+<p:12|l:31|i:38>To jsou ale krásné hory.
+<c:10|i:8>
+<p:12|l:26|i:39>Mám jiné vìci na práci.
+<c:10|i:8>
+<p:12|l:33|i:40>Mìla bych si vyèistit akvárium.
+<c:10|i:8>
+<p:12|l:38|i:41>Tohle místo nepotøebuje poulièní osvìtlení.
+<c:10|i:8>
+<p:12|l:31|i:42>Tyhle ohòùvky jsou jako pochodnì.
+<c:10|i:8>
+<p:12|l:31|i:43>Tihle chlapi nic nevìdí.
+<c:10|i:8>
+<p:12|l:25|i:44>To u¾ se rovnou mù¾u zeptat Darma.
+<c:10|i:8>
+<p:12|l:29|i:45>Na tohle nemám náladu.
+<c:10|i:8>
+<p:12|l:41|i:46>Proè se o to nepostará král Brandon?
+<c:10|i:8>
+<p:12|l:22|i:47>Ho hó, dal¹í pøí¹era.
+<c:10|i:8>
+<p:12|l:9|i:48>To je toho.
+<c:10|i:8>
+<p:12|l:5|i:49>Pfuj!
+<c:10|i:8>
+<p:12|l:41|i:50>Smrdí to, jako kdy¾ tenkrát Faun vaøil snídani.
+<c:10|i:8>
+<p:12|l:22|i:51>Tihle chlapi jsou idioti.
+<c:10|i:8>
+<p:12|l:33|i:52>Mìli by pou¾ít sýrovou návnadu.
+<c:10|i:8>
+<p:12|l:11|i:53>Divní brouci.
+<c:10|i:8>
+<p:12|l:11|i:54>Divní brouci.
+<c:10|i:8>
+<p:12|l:5|i:55>Zív.
+<c:10|i:8>
+<p:12|l:40|i:56>Pøi v¹em tom zmatku jsem si nestaèila zdøímnout.
+<c:10|i:8>
+<p:12|l:33|i:57>Chtìla bych, aby ta krysa vypadla.
+<c:10|i:8>
+<p:12|l:15|i:58>Stojí mi v cestì!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:36|i:59>Ten trouba mì jenom zdr¾uje.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

@@ -1,0 +1,166 @@
+<p:12|l:26|i:0>I'm on my way to Volcania.
+<p:12|l:34|i:1>Somebody stole all my equipment...
+<p:12|l:51|i:2>...so I'll have to get there the old fashioned way.
+<p:12|l:25|i:3>I can't open any portals.
+<p:13|l:11|i:4>No portals?
+<p:13|l:31|i:5>You have to hike the whole way?
+<p:12|l:9|i:6>Fun, huh?
+<c:10|i:6>
+<p:12|l:32|i:7>Well... See you when I get back.
+<p:13|l:5|i:8>Okay.
+<c:10|i:7>
+<p:12|l:28|i:9>Can you keep an eye on Faun?
+<p:13|l:11|i:10>Sure thing.
+<c:10|i:5>
+<p:12|l:40|i:11>Howdy Brueth. When does the barge leave?
+<p:12|l:29|i:12>I have to get to Morningmist.
+<p:18|l:38|i:13>We leave as soon as you pay your fare.
+<p:12|l:60|i:14>Hey! I've been robbed, and I don't have any money right now.
+<p:18|l:37|i:15>You're the alchemist. Make some gold.
+<c:4|i:1>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:12|i:16>Excuse me...
+<p:12|l:37|i:17>That boat isn't the new ferry, is it?
+<p:16|l:20|i:18>Shhhh! I got a bite!
+<c:10|i:6>
+<p:17|l:16|i:19>Shhhh! A nibble!
+<c:10|i:7>
+<p:16|l:36|i:20>Shhhh! I think he's chewing my bait.
+<c:10|i:5>
+<p:12|l:44|i:21>Hmm, guess it doesn't like my perfume today.
+<c:10|i:6>
+<p:12|l:47|i:22>I really should clear this weed patch some day.
+<c:10|i:7>
+<p:12|l:39|i:23>It does keep the squirrels down though.
+<c:10|i:5>
+<p:20|l:32|i:24>Where do you think you're going?
+<p:12|l:52|i:25>Move over cheese breath. I don't have time for this.
+<p:20|l:34|i:26>You're not getting past me sister!
+<c:10|i:6>
+<p:12|l:34|i:27>Do I smell cheese, or is that you?
+<p:20|l:38|i:28>I didn't notice it until you got here.
+<c:10|i:7>
+<p:20|l:16|i:29>Beat it blondie!
+<p:12|l:3|i:30>Ow!
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:19|i:31>You stay here Faun.
+<p:22|l:5|i:32>Okay.
+<c:10|i:6>
+<p:12|l:40|i:33>Don't mess with my stuff while I'm gone!
+<p:22|l:8|i:34>Who, me?
+<c:10|i:7>
+<p:12|l:10|i:35>I mean it.
+<p:12|l:40|i:36>Don't mess with my stuff while I'm gone!
+<p:22|l:30|i:37>You don't have any stuff left!
+<c:10|i:8>
+<p:12|l:34|i:38>Why does this always happen to me?
+<p:12|l:57|i:39>Can't those other Mystics ever do anything by themselves?
+<c:10|i:8>
+<p:12|l:34|i:40>I suppose I should get going soon.
+<c:10|i:8>
+<p:12|l:19|i:41>Wish me luck, Faun.
+<c:10|i:8>
+<p:12|l:18|i:42>Here goes nothing.
+<c:10|i:8>
+<p:12|l:35|i:43>I hope Faun doesn't wreck my house.
+<c:10|i:8>
+<p:12|l:38|i:44>Isn't there usually a small boat here?
+<c:10|i:8>
+<p:12|l:40|i:45>Why couldn't Darm do this instead of me?
+<c:10|i:8>
+<p:12|l:49|i:46>I do enjoy the ride to Morningmist Valley though.
+<c:10|i:8>
+<p:12|l:21|i:47>THIS is a nice place.
+<c:10|i:8>
+<p:12|l:33|i:48>I'll come HERE on my next picnic.
+<c:10|i:8>
+<p:12|l:26|i:49>(Is this thing seaworthy?)
+<p:18|l:14|i:50>Hey, watch it!
+<p:12|l:22|i:51>You heard my thoughts?
+<p:18|l:32|i:52>Hey, I'm a fairy! We got powers!
+<c:10|i:8>
+<p:12|l:34|i:53>(That Breuth is such a great guy.)
+<p:18|l:9|i:54>Nice try.
+<c:10|i:8>
+<p:12|l:41|i:55>Maybe I can get Breuth to give me a ride.
+<c:10|i:8>
+<p:12|l:26|i:56>So why am I standing here?
+<c:10|i:8>
+<p:12|l:42|i:57>As long as I'm here, I guess I'll go in...
+<p:12|l:50|i:58>...but I really should get back to the ferry soon.
+<c:10|i:8>
+<p:12|l:34|i:59>Great, I think I'm getting a rash.
+<c:10|i:8>
+<p:12|l:44|i:60>(This guy is a worse housekeeper than I am.)
+<c:10|i:8>
+<p:12|l:36|i:61>At least it's warm and cozy in here.
+<c:10|i:8>
+<p:12|l:37|i:62>I really should go back to the ferry.
+<c:10|i:8>
+<p:12|l:32|i:63>...Or maybe I could picnic here.
+<c:10|i:8>
+<p:12|l:45|i:64>I really should head back to the ferry, soon.
+<c:10|i:8>
+<p:12|l:34|i:65>I have to get going to the valley!
+<c:10|i:8>
+<p:12|l:5|i:66>Peuw!
+<c:10|i:8>
+<p:12|l:28|i:67>I'll never eat an egg again.
+<c:10|i:8>
+<p:12|l:40|i:68>Could these guys take me to Morningmist?
+<c:10|i:8>
+<p:12|l:35|i:69>THAT boat makes Breuth's look good.
+<c:10|i:8>
+<p:12|l:49|i:70>Hey! There's little fireflies all over the place.
+<c:10|i:8>
+<p:12|l:36|i:71>I wonder why they're being so quiet?
+<c:10|i:8>
+<p:12|l:37|i:72>I really should go back to the ferry.
+<c:10|i:8>
+<p:12|l:34|i:73>That hole looks like a safe place.
+<c:10|i:8>
+<p:12|l:19|i:74>What is that smell?
+<c:10|i:8>
+<p:12|l:28|i:75>Why am I avoiding the ferry?
+<c:10|i:8>
+<p:12|l:42|i:76>I guess this is the legendary pirate cave.
+<c:10|i:8>
+<p:12|l:23|i:77>Brr! It's cold in here!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<p:11|l:10|i:78>Hot today.
+<c:10|i:9>
+<p:11|l:32|i:79>I wish the ferry left from here.
+<c:10|i:9>
+<p:12|l:4|i:80>Ugh!
+<c:10|i:9>
+<p:12|l:55|i:81>Where is that ferry? I thought it was right about here.
+<c:10|i:9>
+<p:12|l:38|i:82>At last! I thought I'd never get here!
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:21|i:83>There's Herb's house.
+<c:10|i:9>
+<p:12|l:11|i:84>Howdy Herb.
+<p:13|l:14|i:85>Hello Zanthia.
+<c:10|i:9>
+<c:10|i:9>
+<p:11|l:45|i:86>Grr, grr, grr. I've heard it all before, pal.
+<c:10|i:9>
+<p:12|l:39|i:87>Pehew! Something is rotten in Kyrandia!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:18|i:88>It stinks in here.
+<c:10|i:9>
+<p:12|l:19|i:89>This is impressive!
+<c:10|i:9>
+<c:10|i:0>

@@ -1,0 +1,167 @@
+<p:12|l:43|i:0>Mé jméno je Zanthia. Pøicházím z Kyrandie.
+<p:43|l:66|i:1>Ráda tì poznávám. Jsem Jessica, kouzelnice ve výcviku z Miltonie.
+<c:10|i:6>
+<p:12|l:40|i:2>Tak¾e, jaká kalamita postihla Miltonii?
+<p:43|l:56|i:3>Dé¹» ¾ab. Stává se to ka¾dé léto. Je to vá¾nì nechutné.
+<p:12|l:6|i:4>Fuuj!
+<c:10|i:7>
+<p:12|l:19|i:5>U¾ jsi na¹la cestu?
+<p:43|l:22|i:6>Byla bych je¹tì tady?
+<c:10|i:5>
+<p:12|l:34|i:7>Na co chce¹ tu hvìzdici?
+<p:44|l:58|i:8>Já pracuji pro Moøské suvenýry s. r. o. z Luxlundu.
+<c:10|i:6>
+<p:12|l:60|i:9>Neobvyklé zamìstnání. A postup sem byl pový¹ení, nebo trest?
+<p:44|l:18|i:10>Ha ha. Moc legraèní!
+<c:10|i:7>
+<p:12|l:43|i:11>Víte jistì, ¾e znáte cestu k Oltáøi?
+<p:12|l:29|i:12>Nevypadáte moc spirituálnì.
+<p:44|l:51|i:13>Hele, k¹eft je k¹eft. Já jen prodávám slu¾by.
+<c:10|i:5>
+<p:45|l:50|i:14>Je tu poplatek 4 ¹keble za na¹i bro¾uru.
+<p:45|l:29|i:15>Je v ní v¹echno o Oltáøi.
+<c:10|i:6>
+<p:12|l:28|i:16>Je tohle vládní agentura?
+<p:45|l:41|i:17>Ano, jsme oficiálnì schválení prùvodci.
+<c:10|i:7>
+<p:12|l:47|i:18>A to vy v¹ichni obchodníci ¾ijete tady na ostrovì?
+<p:45|l:29|i:19>Je vám snad nìco do toho?
+<c:10|i:5>
+<p:12|l:40|i:20>Koneènì, u¾ jsem myslela, ¾e se nevrátíte.
+<p:46|l:33|i:21>Na¹e odbory mají pøísná pravidla pro pøestávky.
+<c:10|i:6>
+<p:12|l:39|i:22>Vy máte v téhle práci i odbory?
+<p:46|l:49|i:23>Schùze jsou ka¾dé úterý, pokud se chcete pøipojit.
+<c:10|i:7>
+<p:12|l:46|i:24>Není nìjaká rychlej¹í cesta? Mám velmi naspìch.
+<p:46|l:33|i:25>Promiòte, nemáme dovoleny ohledy.
+<c:10|i:5>
+<p:47|l:59|i:26>Jo. Pøed 33 lety jsme se vzali. Pøímo tady na ostrovì.
+<p:12|l:16|i:27>Gratuluji.
+<c:10|i:6>
+<p:47|l:50|i:28>Ta»ka døív pracoval ve stánku s moøskými suvenýry....
+<p:47|l:37|i:29>A já byla úøednice v agentuøe.
+<p:12|l:13|i:30>Ú¾asné.
+<c:10|i:7>
+<p:47|l:56|i:31>Otevøeli jsme tohle místo, kdy¾ se George vrátil z války.
+<p:12|l:34|i:32>Skvìlé. Tak¾e, jak bych mìla...
+<p:47|l:24|i:33>Nikdy jsme se neohlí¾eli zpátky.
+<p:12|l:6|i:34>Super.
+<c:10|i:5>
+<p:48|l:36|i:35>Promiòte. O obchod se stará mamka.
+<c:10|i:6>
+<p:48|l:35|i:36>Promiòte. Musíte si promluvit s mamkou.
+<c:10|i:7>
+<p:48|l:28|i:37>Mamko! Máme tu zákazníka!
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:22|i:38>To je ale mizerný batoh.
+<c:10|i:8>
+<p:12|l:44|i:39>Asi bych ho mìla vymìnit, a¾ se vrátím zpátky.
+<c:10|i:8>
+<p:12|l:36|i:40>Teï bych mìla najít cestu dolù.
+<c:10|i:8>
+<p:12|l:25|i:41>Mo¾ná ukazatel shoøel.
+<c:10|i:8>
+<p:12|l:30|i:42>Zdá se, ¾e tohle místo je populární.
+<c:10|i:8>
+<p:12|l:32|i:43>Nìkde je tu urèitì ukazatel.
+<c:10|i:8>
+<p:12|l:34|i:44>Zajímalo by mì, jestli ten chlap má povolení
+<c:10|i:8>
+<p:12|l:37|i:45>Tyhle dveøe nemù¾ou být jediná cesta dolù.
+<c:10|i:8>
+<p:12|l:19|i:46>Kde je cesta?
+<c:10|i:8>
+<p:12|l:27|i:47>Nìkde tu musí být.
+<c:10|i:8>
+<p:12|l:53|i:48>Nepotøebuji se procházet po plá¾i zrovna teï.
+<c:10|i:8>
+<p:12|l:15|i:49>Mám naspìch!
+<c:10|i:8>
+<p:12|l:24|i:50>Aspoò ¾e jsem se dostala sem.
+<c:10|i:8>
+<p:12|l:61|i:51>Brandona by nikdy nenapadl ten trik s magnetem.
+<c:10|i:8>
+<p:12|l:32|i:52>Nìjak z toho nemám dobrý pocit.
+<c:10|i:8>
+<p:12|l:30|i:53>V¾dycky øíkali, ¾e to je snadné.
+<c:10|i:8>
+<p:12|l:42|i:54>Tohle je ta nejlep¹í zábava v mém ¾ivotì... To zrovna!
+<c:10|i:8>
+<p:12|l:56|i:55>Proè tady na plá¾i nemù¾e být nìjaký slu¾ební oltáø?
+<c:10|i:8>
+<p:12|l:25|i:56>To je ale depresivní kanceláø.
+<c:10|i:8>
+<p:12|l:25|i:57>I ten úøedník vypadá nezdravì.
+<c:10|i:8>
+<p:12|l:21|i:58>Kdybych to tu øídila já...
+<c:10|i:8>
+<p:12|l:26|i:59>Dìlala bych to jinak!
+<c:10|i:8>
+<p:12|l:40|i:60>V¹echno tohle úmorné putování èlovìka zmù¾e.
+<c:10|i:8>
+<p:12|l:31|i:61>Díky bohu za kukuøièný ¹krob.
+<c:10|i:8>
+<p:12|l:45|i:62>Jen co se dostanu k Oltáøi, zavolám Faunovi.
+<c:10|i:8>
+<p:12|l:32|i:63>Mo¾ná bude mít nìjaké lep¹í zprávy.
+<c:10|i:8>
+<p:12|l:26|i:64>Kdybych se líp neznala...
+<c:10|i:8>
+<p:12|l:37|i:65>Pøísahala bych, ¾e to je hon na divoké husy.
+<c:10|i:8>
+<p:12|l:53|i:66>Proè nemáme po ruce nìjaké Kotevní kameny v zásobì?
+<p:12|l:31|i:67>Pro pøípad nouze, jako je tento?
+<c:10|i:8>
+<p:12|l:40|i:68>No dobrá, v¾dycky jsem byla vytrvalá.
+<c:10|i:8>
+<p:12|l:27|i:69>Vra¾dila bych za trochu citronády.
+<c:10|i:8>
+<p:12|l:33|i:70>Kdybych tak mìla pár pletených pono¾ek.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

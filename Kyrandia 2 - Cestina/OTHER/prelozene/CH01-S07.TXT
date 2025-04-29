@@ -1,0 +1,141 @@
+<p:12|l:37|i:0>Asi jsem na¹la ztracený poklad
+<p:14|l:7|i:1>Vá¾nì?
+<p:12|l:38|i:2>Objevila jsem v jeskyni obøí lebku.
+<p:14|l:19|i:3>Velmi dobøe, Zanthio.
+<c:10|i:6>
+<p:12|l:63|i:4>Ta lebka má urèitì nìco spoleèného se ztraceným pokladem.
+<p:15|l:9|i:5>Pravdìpodobnì.
+<p:14|l:17|i:6>Musí! Musí!
+<c:10|i:7>
+<p:12|l:49|i:7>Neví¹, jak se dá odemknout tajemství obøí lebky?
+<p:15|l:46|i:8>Mo¾ná musí¹ být obleèená jako pirát.
+<p:12|l:15|i:9>To jsem, ne?
+<c:10|i:5>
+<p:12|l:56|i:10>Myslím, ¾e u¾ brzo pro tebe budu mít nìjaké zlato.
+<p:18|l:39|i:11>Myslím, ¾e tì u¾ brzy svezu.
+<c:10|i:6>
+<p:12|l:39|i:12>Vezmi mì teï, zaplatím pozdìji?
+<p:18|l:57|i:13>A co takhle kdybys zaplatila teï a já tì svezl pozdìji?
+<c:10|i:7>
+<p:12|l:56|i:14>Myslím, ¾e u¾ brzo pro tebe budu mít nìjaké zlato.
+<p:18|l:39|i:15>Myslím, ¾e tì u¾ brzy svezu.
+<c:10|i:5>
+<p:12|l:25|i:16>Potøebuji otevøít lebku.
+<p:16|l:4|i:17>Huh?
+<c:10|i:6>
+<p:12|l:25|i:18>Potøebuji otevøít lebku.
+<p:17|l:4|i:19>Huh?
+<c:10|i:7>
+<p:12|l:25|i:20>Potøebuji otevøít lebku.
+<p:16|l:11|i:21>Jakou lebku?
+<p:12|l:15|i:22>Zapomeò na to.
+<c:10|i:5>
+<p:12|l:12|i:23>O¹klivý plevel.
+<c:10|i:6>
+<p:12|l:12|i:24>O¹klivý plevel.
+<c:10|i:7>
+<p:12|l:12|i:25>O¹klivý plevel.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:25|i:26>Potøebuji otevøít lebku.
+<p:22|l:11|i:27>Jakou lebku?
+<p:12|l:12|i:28>Tu v jeskyni.
+<c:10|i:6>
+<p:12|l:29|i:29>Myslím, ¾e jsem na¹la poklad.
+<c:10|i:7>
+<p:12|l:30|i:30>Musím jen otevøít lebku.
+<p:22|l:25|i:31>A na co èeká¹?
+<c:10|i:8>
+<p:12|l:23|i:32>Tahle hra u¾ mì nebaví.
+<c:10|i:8>
+<p:12|l:36|i:33>Chtìla bych se dostat z ba¾iny.
+<c:10|i:8>
+<p:12|l:21|i:34>Potøebuji ten poklad.
+<c:10|i:8>
+<p:12|l:28|i:35>Uvnitø musí být zlato.
+<c:10|i:8>
+<p:12|l:23|i:36>Ty moje nohy mì zabijou.
+<c:10|i:8>
+<p:12|l:32|i:37>U¾ jsem nachodila dobrých osm mil!
+<c:10|i:8>
+<p:12|l:12|i:38>O¹klivý plevel.
+<c:10|i:8>
+<p:12|l:12|i:39>O¹klivý plevel.
+<c:10|i:8>
+<p:12|l:4|i:40>Uch!
+<c:10|i:8>
+<p:12|l:7|i:41>Stra¹idelné.
+<c:10|i:8>
+<p:12|l:15|i:42>Pøiprav èlun.
+<c:10|i:8>
+<p:12|l:37|i:43>Budu pøipravený za pár minut.
+<c:10|i:8>
+<p:12|l:26|i:44>Musím otevøít tu lebku.
+<c:10|i:8>
+<p:12|l:28|i:45>Uvnitø musí být zlato.
+<c:10|i:8>
+<p:12|l:21|i:46>Chtìlo by to malé zdøímnutí.
+<c:10|i:8>
+<p:12|l:47|i:47>Bez práce nejsou koláèe, s prací je zase do pláèe.
+<c:10|i:8>
+<p:12|l:31|i:48>Tihle chlapi nic neví.
+<c:10|i:8>
+<p:12|l:37|i:49>Ve skuteènosti jsou ¾áby docela inteligentní.
+<c:10|i:8>
+<p:12|l:19|i:50>Tohle je podivné.
+<c:10|i:8>
+<p:12|l:32|i:51>Chodím tu v kruzích.
+<c:10|i:8>
+<p:12|l:48|i:52>S tímhle krokodýlem u¾ nebudu marnit èas.
+<c:10|i:8>
+<p:12|l:18|i:53>Grr, grr, vrè si na sebe.
+<c:10|i:8>
+<p:12|l:5|i:54>Pfuj!
+<c:10|i:8>
+<p:12|l:5|i:55>Pfuj!
+<c:10|i:8>
+<p:12|l:46|i:56>Mo¾ná by se dala lebka otevøít tou kotvou.
+<c:10|i:8>
+<p:12|l:34|i:57>K èemu vlastnì potøebují kotvu?
+<c:10|i:8>
+<p:12|l:11|i:58>Divní brouci.
+<c:10|i:8>
+<p:12|l:16|i:59>Divní, ale roztomilí.
+<c:10|i:8>
+<p:12|l:18|i:60>Moje nohy u¾ nemù¾ou.
+<c:10|i:8>
+<p:12|l:12|i:61>A já taky ne.
+<c:10|i:8>
+<p:12|l:26|i:62>Aspoò ¾e ta krysa je pryè.
+<c:10|i:8>
+<p:12|l:31|i:63>Ten bahenní had byl super.
+<c:10|i:8>
+<p:12|l:35|i:64>Musí tu být páèka nebo tak nìco.
+<c:10|i:8>
+<p:12|l:20|i:65>Kdo tuhle jeskyni postavil?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

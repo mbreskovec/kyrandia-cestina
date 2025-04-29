@@ -1,0 +1,195 @@
+<p:11|l:9|i:0>kapitola 3
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:31|i:1>Nìjaký nápad, jak by se dal zru¹it trans?
+<p:24|l:4|i:2>Huh?
+<c:10|i:6>
+<p:12|l:33|i:3>Ví¹, jak by se dal zru¹it trans?
+<p:25|l:4|i:4>Huh?
+<c:10|i:7>
+<p:12|l:44|i:5>Jste vy dva nejvìt¹í pitomci na svìtì?
+<p:25|l:30|i:6>Tohle je ná¹ sendviè. Zmiz.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:40|i:7>Nìjaký nápad, jak by se dalo zru¹it kouzlo transu?
+<p:28|l:28|i:8>Já se obvykle prostì ¹típnu.
+<c:10|i:6>
+<p:12|l:54|i:9>Nevidìl jsi náhodou nìkoho, kdo by seslal kouzlo transu?
+<p:28|l:40|i:10>Lesterova poezie je obèas uhranèivá.
+<c:10|i:7>
+<p:12|l:61|i:11>Koukni, kámo, v tomhle mìstì jsou lidé stojící v bezvìdomí na místì.
+<p:28|l:11|i:12>Pardon, paní.
+<c:10|i:5>
+<p:12|l:41|i:13>Ví¹ nìco o kouzle transu?
+<p:29|l:21|i:14>Promiò, já jsem skeptik.
+<c:10|i:6>
+<p:12|l:17|i:15>Co je to skeptik?
+<p:29|l:26|i:16>My nevìøíme na kouzla.
+<c:10|i:7>
+<p:12|l:3|i:17>Tak¾e?
+<p:29|l:9|i:18>Tak¾e co?
+<c:10|i:5>
+<p:12|l:28|i:19>Ví¹ nìco o transu?
+<p:30|l:5|i:20>Nic.
+<c:10|i:6>
+<p:12|l:56|i:21>Potøebuji zru¹it trans, který byl na nìkoho seslán.
+<p:30|l:12|i:22>Lektvar lásky?
+<c:10|i:7>
+<p:12|l:38|i:23>Prosím! Potøebuji zru¹it kouzlo transu!
+<p:30|l:61|i:24>Nejsi ta samá ¾enská, která tu hledala èlun?
+<c:10|i:5>
+<p:12|l:35|i:25>Ví¹ nìco o transu?
+<p:31|l:3|i:26>Ne.
+<c:10|i:6>
+<p:12|l:24|i:27>Potøebuji zru¹it trans.
+<p:31|l:5|i:28>Co?
+<c:10|i:7>
+<p:12|l:51|i:29>Myslela jsem, ¾e nìkdo tady by mi mohl pomoct.
+<p:31|l:44|i:30>Zkus se obrátit na královské mystiky.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:35|i:31>Ví¹ nìco o lidech v transu?
+<p:36|l:29|i:32>Mùj oblíbený druh zákazníka.
+<c:10|i:6>
+<p:12|l:5|i:33>Co¾e?
+<p:36|l:41|i:34>Gambleøi, kteøí nedbají na zákony pravdìpodobnosti.
+<c:10|i:7>
+<p:12|l:4|i:35>He?
+<p:36|l:17|i:36>To je rada zdarma.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:35|i:37>Ví¹ nìco o lidech v transu?
+<p:40|l:35|i:38>Promiò, nechoï na mì se spiritualismem.
+<c:10|i:6>
+<p:12|l:49|i:39>No, prostì jsem myslela, ¾e kdy¾ jsi býval duch...
+<p:40|l:6|i:40>Lituji.
+<c:10|i:7>
+<p:12|l:51|i:41>Nemohl bys aspoò nìco zkusit, kvùli mì? Nìco jako slu¾ba na oplátku?
+<p:40|l:65|i:42>To mi jako bude¹ tuhle zále¾itost s vdìèností pøedhazovat vìènì?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:35|i:43>Musím najít cestu do Vulkánie.
+<c:10|i:8>
+<p:12|l:42|i:44>Musí tu být nìkde èlun, který by mì tam dovezl.
+<c:10|i:8>
+<p:12|l:47|i:45>Pochybuji, ¾e tady na louce jsou nìjaké èluny.
+<c:10|i:8>
+<p:12|l:77|i:46>Ve skuteènosti si myslím, ¾e se mù¾e stát cokoliv. To u¾ je zkrátka Kyrandie.
+<c:10|i:8>
+<p:12|l:52|i:47>Vím jistì, ¾e tady nekotví ¾ádné èluny do Vulkánie.
+<c:10|i:8>
+<p:12|l:37|i:48>Mo¾ná tenhle akvadukt míøí do Vulkánie.
+<c:10|i:8>
+<p:12|l:63|i:49>Rozhodnì bych se mìla vrátit do Hornoluní a sehnat dopravu.
+<c:10|i:8>
+<p:12|l:26|i:50>Vulkánie ke mnì sama nepøijde.
+<c:10|i:8>
+<p:12|l:29|i:51>Co dìlám tady v zahradì?
+<c:10|i:8>
+<p:12|l:58|i:52>Asi bych se mìla vrátit a najít cestu do Vulkánie.
+<c:10|i:8>
+<p:12|l:53|i:53>Pochybuji, ¾e tu nìkde je pøímý tunel do Vulkánie.
+<c:10|i:8>
+<p:12|l:106|i:54>Abych pravdu øekla, jsou urèité èásti Kyrandie, u kterých mi nebude vadit, kdy¾ zmizí.
+<c:10|i:8>
+<p:12|l:46|i:55>Nechce se mi vìøit, ¾e tihle troubové nemají èlun.
+<c:10|i:8>
+<p:12|l:19|i:56>To jsou ale zmìkèilí piráti.
+<c:10|i:8>
+<p:12|l:34|i:57>Musím nìkde najít èlun.
+<c:10|i:8>
+<p:12|l:77|i:58>Klidnì bych øídila Malcolmùv èlun z Fontány vìèné magie, kdybych ho mìla.
+<c:10|i:8>
+<p:12|l:62|i:59>Nenapadlo mì, ¾e je hoøèièný prùmysl v této oblasti tak rozvinutý.
+<c:10|i:8>
+<p:12|l:79|i:60>Podobné pøedstavení tøeba u lidí od keèupu nebo pikantní èalamády neuvidíte.
+<c:10|i:8>
+<p:12|l:52|i:61>Tohle bude vypdat dobøe v mém záznamu pro pøí¹tí odvolání.
+<c:10|i:8>
+<p:12|l:22|i:62>Zanthia: Mystik-zloèinec.
+<c:10|i:8>
+<p:12|l:49|i:63>Musím najít èlun, který by mì vzal do Vulkánie!
+<c:10|i:8>
+<p:12|l:57|i:64>Nìkde tu musí být nìjaký námoøník vlastenec.
+<c:10|i:8>
+<p:12|l:67|i:65>Tohle je rozhodnì jedna z nejdivnìj¹ích staveb, co jsem kdy vidìla.
+<c:10|i:8>
+<p:12|l:38|i:66>Je to rybí hlava, nebo ptaèí ocas?
+<c:10|i:8>
+<p:12|l:38|i:67>U¾ jsem z toho putování unavená.
+<c:10|i:8>
+<p:12|l:98|i:68>Mystik bez portálù je jako... no, já vlastnì nevím, jako co je, ale urèitì je to nìco nepatøièného!
+<c:10|i:8>
+<p:12|l:27|i:69>Nikdy jsem nemìla ráda tìlocvik.
+<c:10|i:8>
+<p:12|l:34|i:70>Jsem spí¹e intelektuální typ.
+<c:10|i:8>
+<p:12|l:36|i:71>Jestlipak je tohle to správné místo?
+<c:10|i:8>
+<p:12|l:5|i:72>Hmmm?
+<c:10|i:8>
+<p:12|l:50|i:73>Tenhle èlun musí být odpovìï na mùj problém.
+<c:10|i:8>
+<p:12|l:92|i:74>Pokud je posádka tak háklivá ohlednì Vulkánie, mo¾ná bych mohla odklonit èlun, a¾ budeme na cestì.
+<c:10|i:8>
+<p:12|l:44|i:75>Ten èlun vypadá a¾ pøíli¹ velký na to, aby vozil jen hoøèici.
+<c:10|i:8>
+<p:12|l:23|i:76>Kdo to vlastnì kormidluje?
+<c:10|i:8>
+<p:12|l:20|i:77>Tohle není Vulkánie.
+<c:10|i:8>
+<p:12|l:38|i:78>I písek tady vypadá jako hoøèice.
+<c:10|i:8>
+<p:11|l:39|i:79>Takhle jsem si svùj pohøeb nepøedstavovala.
+<c:10|i:8>
+<p:11|l:60|i:80>Ráda bych si myslela, ¾e jsem nìèím víc ne¾ jen pøedkrmem.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

@@ -1,0 +1,150 @@
+<p:12|l:34|i:0>Do you know where the treasure is?
+<p:13|l:19|i:1>I've never seen it.
+<p:14|l:16|i:2>Probably buried.
+<p:15|l:19|i:3>Yeah, yeah, buried.
+<c:10|i:6>
+<p:12|l:37|i:4>Are you sure you don't have any gold?
+<p:13|l:5|i:5>None.
+<c:10|i:7>
+<p:12|l:20|i:6>Where should I look?
+<p:13|l:30|i:7>Your guess is as good as mine.
+<p:15|l:40|i:8>Maybe it's buried in the Sulfur Springs!
+<c:10|i:5>
+<p:18|l:9|i:9>Any gold?
+<p:12|l:8|i:10>Not yet.
+<c:10|i:6>
+<p:12|l:27|i:11>Can't I just ride for free?
+<p:18|l:6|i:12>Sorry.
+<c:10|i:7>
+<p:12|l:30|i:13>I'm on official business here!
+<p:18|l:13|i:14>Yeah, me too!
+<c:10|i:5>
+<p:12|l:9|i:15>Any luck?
+<p:16|l:8|i:16>Not yet.
+<c:10|i:6>
+<p:12|l:8|i:17>Nothing?
+<p:16|l:29|i:18>You're making too much noise.
+<c:10|i:7>
+<p:12|l:24|i:19>What bait are you using?
+<p:17|l:5|i:20>Bait?
+<c:10|i:5>
+<p:12|l:13|i:21>Looks hungry.
+<c:10|i:6>
+<p:12|l:10|i:22>Big teeth.
+<c:10|i:7>
+<p:12|l:12|i:23>What a pest!
+<c:10|i:5>
+<p:12|l:25|i:24>Okay pal, out of the way.
+<p:20|l:29|i:25>I'm comfortable where I am...
+<p:12|l:33|i:26>Is there any treasure back there?
+<p:20|l:22|i:27>Why should I tell you?
+<c:4|i:3>
+<c:10|i:6>
+<p:12|l:26|i:28>I need that lost treasure.
+<p:20|l:8|i:29>So what?
+<c:10|i:7>
+<p:12|l:24|i:30>I mean I really need it!
+<p:20|l:15|i:31>Beat it sister.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:46|i:32>Have you heard anything about a lost treasure?
+<p:22|l:77|i:33>Pirates stole all the valuables from the alchemist who lived here before you.
+<c:10|i:6>
+<p:12|l:31|i:34>Well, where's the treasure now?
+<p:22|l:35|i:35>I don't know, maybe they buried it.
+<c:10|i:7>
+<p:22|l:35|i:36>You already asked me. I don't know!
+<c:10|i:8>
+<p:12|l:23|i:37>I'm tired of this game.
+<c:10|i:8>
+<p:12|l:32|i:38>Crisis, crisis, always a crisis.
+<c:10|i:8>
+<p:12|l:21|i:39>I need that treasure.
+<c:10|i:8>
+<p:12|l:18|i:40>Where could it be?
+<c:10|i:8>
+<p:12|l:20|i:41>This is no treasure.
+<c:10|i:8>
+<p:12|l:18|i:42>It is nice though.
+<c:10|i:8>
+<p:12|l:10|i:43>I'm tired.
+<c:10|i:8>
+<p:12|l:21|i:44>I'm ready for my nap.
+<c:10|i:8>
+<p:12|l:4|i:45>Ugh!
+<c:10|i:8>
+<p:12|l:7|i:46>Creepy!
+<c:10|i:8>
+<p:12|l:19|i:47>This is ridiculous.
+<c:10|i:8>
+<p:12|l:19|i:48>This is ridiculous.
+<c:10|i:8>
+<p:12|l:47|i:49>I don't really want to dig around in this muck.
+<c:10|i:8>
+<p:12|l:6|i:50>Yeech!
+<c:10|i:8>
+<p:12|l:26|i:51>I have other things to do!
+<c:10|i:8>
+<p:12|l:34|i:52>I should be home doing my laundry!
+<c:10|i:8>
+<p:12|l:31|i:53>These guys don't know anything.
+<c:10|i:8>
+<p:12|l:25|i:54>I might as well ask Darm!
+<c:10|i:8>
+<p:12|l:33|i:55>I'm not in the mood for all this.
+<c:10|i:8>
+<p:12|l:22|i:56>Next time, Brynn goes.
+<c:10|i:8>
+<p:12|l:24|i:57>Ho hum. Another monster.
+<c:10|i:8>
+<p:12|l:24|i:58>Ho hum. Another monster.
+<c:10|i:8>
+<p:12|l:5|i:59>Peuw!
+<c:10|i:8>
+<p:12|l:41|i:60>Smells like the time Faun made breakfast.
+<c:10|i:8>
+<p:12|l:22|i:61>These guys are idiots.
+<c:10|i:8>
+<p:12|l:28|i:62>They should use cheese bait.
+<c:10|i:8>
+<p:12|l:11|i:63>Wierd bugs.
+<c:10|i:8>
+<p:12|l:11|i:64>Wierd bugs.
+<c:10|i:8>
+<p:12|l:26|i:65>Ow. I'm getting a blister!
+<c:10|i:8>
+<p:12|l:29|i:66>I'm not in the mood to dance.
+<c:10|i:8>
+<p:12|l:39|i:67>I know there's something back in there.
+<c:10|i:8>
+<p:12|l:18|i:68>I wish he'd leave.
+<c:10|i:8>
+<p:12|l:31|i:69>The treasure has to be in here.
+<c:10|i:8>
+<p:12|l:31|i:70>The treasure has to be in here.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<p:12|l:28|i:71>There's no treasure in here.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:39|i:72>There has to be something in that cave.
+<c:10|i:9>
+<p:11|l:45|i:73>Why else would he be guarding that back area?
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

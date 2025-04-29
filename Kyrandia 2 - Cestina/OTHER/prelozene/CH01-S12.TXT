@@ -1,0 +1,116 @@
+<p:12|l:46|i:0>Nevidìli jste tu, chlapi, nìjakou ztracenou po¹tu?
+<p:13|l:30|i:1>Ne. Celý den jsme tady.
+<c:10|i:6>
+<p:12|l:41|i:2>Urèitì jsi nena¹el ¾ádný dopis?
+<p:13|l:3|i:3>Ne.
+<c:10|i:7>
+<p:12|l:37|i:4>Vùbec ¾ádná ztracená po¹ta tu není?
+<p:13|l:5|i:5>Ne.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:48|i:6>Kdy¾ najdu tvoje dopisy, tak mì sveze¹?
+<p:21|l:5|i:7>Jasnì.
+<p:21|l:55|i:8>Kdy¾ ty dopisy nezískám zpátky, mù¾u pøijít o práci.
+<c:10|i:6>
+<p:12|l:24|i:9>Kde jsi je ztratil?
+<p:21|l:35|i:10>Díval jsem se, jak kolem letí vá¾ka...
+<p:21|l:35|i:11>...a asi mi vypadly.
+<c:10|i:7>
+<p:12|l:88|i:12>Kdy¾ najdu ty ètyøi chybìjící dopisy, zanese¹ mì do Ml¾ného údolí?
+<p:21|l:12|i:13>A¾ do cíle.
+<c:10|i:5>
+<p:12|l:52|i:14>Musím pro po¹»áka najít ztracené dopisy.
+<p:22|l:39|i:15>Hmm, myslím, ¾e jeden byl na støe¹e.
+<c:10|i:6>
+<p:12|l:29|i:16>Musím najít ty dopisy.
+<c:10|i:7>
+<p:12|l:25|i:17>Nevidìls nìjaké dal¹í?
+<p:22|l:37|i:18>Lituji. Dneska jsem venku moc nebyl.
+<c:10|i:8>
+<p:12|l:21|i:19>Potøebuji ty dopisy.
+<c:10|i:8>
+<p:12|l:21|i:20>Potøebuji ty dopisy.
+<c:10|i:8>
+<p:12|l:20|i:21>Kde by mohly být?
+<c:10|i:8>
+<p:12|l:21|i:22>Potøebuji ty dopisy.
+<c:10|i:8>
+<p:12|l:21|i:23>Potøebuji ty dopisy.
+<c:10|i:8>
+<p:12|l:20|i:24>Kde by mohly být?
+<c:10|i:8>
+<p:12|l:21|i:25>Potøebuji ty dopisy.
+<c:10|i:8>
+<p:12|l:32|i:26>Lep¹í ne¾ vùbec ¾ádná cesta.
+<c:10|i:8>
+<p:12|l:4|i:27>Uch!
+<c:10|i:8>
+<p:12|l:7|i:28>Stra¹idelné.
+<c:10|i:8>
+<p:12|l:21|i:29>Potøebuji ty dopisy.
+<c:10|i:8>
+<p:12|l:20|i:30>Kde by mohly být?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:47|i:31>Nejspí¹ bych mohla nìkterý dopis otevøít nad párou.
+<c:10|i:8>
+<p:12|l:18|i:32>Kdo by mì zastavil?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:21|i:33>Potøebuji ty dopisy.
+<c:10|i:8>
+<p:12|l:20|i:34>Kde by mohly být?
+<c:10|i:8>
+<p:12|l:21|i:35>Potøebuji ty dopisy.
+<c:10|i:8>
+<p:12|l:20|i:36>Kde by mohly být?
+<c:10|i:8>
+<p:12|l:32|i:37>Tady ty dopisy nebudou.
+<c:10|i:8>
+<p:12|l:20|i:38>Kde by mohly být?
+<c:10|i:8>
+<p:12|l:45|i:39>Nemohly doletìt a¾ sem.
+<c:10|i:8>
+<p:12|l:20|i:40>Kde by mohly být?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

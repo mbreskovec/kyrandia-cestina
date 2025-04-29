@@ -1,0 +1,278 @@
+﻿====================
+Westwood Font Editor
+==================== Created by Nyerguds
+
+This editor can read and write paletted fonts of pretty much every Westwood
+game ever released, plus Dune 2000, which is technically not made by Westwood.
+
+It does not have support for RA2 fonts because paletted editing is very
+different in nature than high colour editing, and all internal data in the
+editor uses 8-bit images. And there's already an editor for that, anyway ;)
+
+Have fun with it!
+
+
+=================
+Table of Contents
+=================
+> Features list
+> Adding palettes
+> Full list of supported types / games
+> Note on Dune 2000 support
+> Special thanks to
+> Source code licenses
+> Version history
+
+
+--------------
+Features list
+-------------
+
+* Can edit fonts from pretty much all pre-RA2 Westwood games (see full list).
+* Fonts can be converted to other font types.
+* Symbol sizes can be adjusted (if the font type supports it).
+* New symbols can be added (if the font type supports it).
+* Symbol images can be shifted up/down/left/right.
+* Ctrl + arrow keys act as as shortcuts for symbol shifting.
+* Holding Shift while doing a symbol shift will shift all symbols in the font.
+* Data can be copied to other WWFontEditor windows, or even to image editors.
+* Data can be pasted from other WWFontEditor windows, or from images.
+* Has a text encoding dropdown to view character mappings for other encodings.
+* Contains a Dune 2000 encoding for the game's reordered special characters.
+* Can preview text as image, in the chosen text encoding.
+* Has a multitude of inbuilt palettes to show the font symbols.
+* Color palettes can be edited on-the-fly by double-clicking the colours.
+* Has support for adding and editing custom added palettes (see next section).
+* The editor's colors and defaults can be customized in the settings.
+* Color Replace simplifies adapting fonts to the colors used on other fonts.
+
+
+---------------
+Adding palettes
+---------------
+
+The editor has a bunch of automatically-generated color palettes that allow
+quick visualisation of the fonts. However, if you would wish to add custom
+palettes this is entirely possible too. The two types of palettes that can be
+added are 16-color palettes and 32-color palettes.
+
+For both of these, the editor uses the classic 256-color palette format used
+by all Westwood C&C games.
+
+To add a 256-color palette to the editor, simply copy the palette file into
+the editor folder and restart the application.
+
+To add a 16-color palette, the process is slightly more complex; the editor
+uses a C&C 256-color palette for that too, but divides it up into 16 entries.
+To add such a palette, add the file itself, then create a .ini file with the
+same name and a [Palette] header inside it. The editor will read the entries
+below that header from 0 to 15 and add them to the editor. Palettes used as
+16-colour palettes will not show up in the 256-colour palette listing.
+
+See the included 16col.ini / 16col.pal for an example. To use more entries of
+16col.pal, simply edit the ini file and add names on the empty entries you
+want to use.
+
+
+Note that while all palettes in the editor can be edited by double-clicking
+the colours on the palette, only externally loaded palettes can be saved. The
+generated palettes can be modified to customize viewing of your fonts, but they
+can't be saved. To edit and save fonts, add a new palette as described above.
+
+
+------------------------------------
+Full list of supported types / games
+------------------------------------
+
+WWFont v1
+-Wargame Construction Set
+-A Nightmare On Elm Street
+-DragonStrike
+-Circuit's Edge
+
+WWFont v2
+-BattleTech: The Crescent Hawk's Revenge
+-Eye of the Beholder
+-Eye of the Beholder 2: The Legend of Darkmoon
+
+WWFont v3
+-The Legend of Kyrandia
+-Dune II
+-Lands of Lore: The Throne of Chaos
+-The Legend of Kyrandia 2: Hand of Fate
+-The Legend of Kyrandia 3: Malcolm's Revenge
+-The Legend of Kyrandia 3: Malcolm's Revenge Installer
+-Command & Conquer
+-Command & Conquer Installer
+-Command & Conquer Red Alert
+-Command & Conquer Red Alert Installer
+-Lands of Lore 2: Guardians of Destiny
+-Lands of Lore 2: Guardians of Destiny Installer
+-Command & Conquer Sole Survivor
+-Lands of Lore III
+
+WWFont v4
+-Tiberian Sun
+-Tiberian Sun Installer
+-Tiberian Sun Firestorm
+-Tiberian Sun Firestorm Installer
+-Lands of Lore III Installer
+
+IGFont (Dune 2000 was made by Intelligent Games, not by Westwood)
+-Dune 2000
+
+
+-------------------------
+Note on Dune 2000 support
+-------------------------
+
+The text encoding dropdown list has an extra "Dune 2000 text encoding" item
+at the bottom. The reason for this is that the font is strangely reordered.
+
+Dune 2000 has a text encoding translation table called "FONT.BIN", apparently
+meant to line up the used special characters in the font without leaving gaps.
+(Though, strangely, this isn't used to optimize the font in any way.)
+
+
+For example, if you need the character "ä", that's byte 0xE4 in the text
+encoding used by the game (Windows-1252; standard US / Western European).
+If you look on address 0xE4 in FONT.BIN, you'll see the value there is 0x80.
+This means that character "ä" is at index 0x80 (128) in the fonts.
+
+So, in short: ä = 0xE4 ==> table index 0xE4 ==> value 0x80 => font index 0x80
+
+(The editor actually does the reverse; going from font table index to character
+by looking up in which spot in the table each index value is, but you don't
+need to do that, since Dune 2000 text files are just in Windows-1252 encoding)
+
+
+If you want to add fonts for a different text encoding to the game, I advise
+you to get rid of this whole nonsense by replacing FONT.BIN with a 256-byte
+file containing a simple sequence of bytes from 00 to FF, so each character
+simply gets mapped onto itself.
+
+
+-----------------
+Special thanks to
+-----------------
+
+-tomsons26, Omniblade and CCHyper for their research assistance.
+-tomsons26 for the creation of the program icon, for digging through ancient
+ Westwood games, and for his tireless nagging.
+
+
+--------------------
+Source code licenses
+--------------------
+
+Most of the code is licensed as WTFPL. Meaning, go nuts, do whatever the F you
+want to do with it.
+
+The PixelBox control is licensed under the Code Project Open License 1.02
+(CPOL 1.02), which apparently doesn't allow its use for immoral activities.
+
+The IniHandler is licensed under a license I made ages ago which boils down to
+more or less the same as the WTFPL, but with code-only author attribution, and
+endorsement of use in supervillain activities. Unlike the CPOL 1.02 :P
+
+In essence, none of these licenses are restrictive in any way. Want to use this
+code in something, go ahead. I just made this font editor so it would exist.
+
+Just, do please adhere to Wheaton's Law: don't be a dick :)
+
+---------------
+Version history
+---------------
+
+v1.5.4:
+-Fixed the (MS) bug where editing palette colour #0 messed up the clipboard.
+ (Double clicking a label copies its text to the clipboard. Pretty dumb.)
+-Optimized some of the internals.
+
+v1.5.3:
+-Added code page numbers to encodings dropdown, and put 437 with DOS encodings.
+-WWFont v3 and v4 will now do automatic height and Y-offset optimization.
+-Fixed Dune 2000 text encoding handling so it can accept custom FONT.BIN files.
+
+v1.5.2:
+-Improved "save as" logic with font type selection.
+-Added a right-click menu to the grid to copy a symbol as text.
+-Added confirmation dialogs when closing and when opening on a modified font.
+-Added command line argument support for opening a file.
+
+v1.5.1:
+-Fixed bug where image pasting always took precedence over font symbol pasting.
+
+v1.5:
+-Implemented font type conversion.
+-Added global color replace function.
+-Ctrl + arrow keys serve as shortcuts for image shifting.
+-Ctrl + Shift + arrow keys will shift all images in the font.
+-The preview image can now be copied to the clipboard with a right-click menu.
+-Images can now be pasted from the clipboard. They'll adapt to the palette.
+
+v1.4:
+-Clipboard copy can now also be pasted as image in other applications.
+-The correct symbol will be opened even when the grid columns are reordered.
+-Added preview pane at the bottom.
+-Opening a file by double-clicking in the dialog can no longer paint a pixel.
+-The symbol image now refreshes correctly after a palette revert.
+-Symbols in the grid are no longer centered but drawn at the correct position.
+
+v1.3:
+-True clipboard implemented: symbols can now be copied across different
+ instances of the program.
+-Palette support implemented: the program will now read any C&C type palettes
+ in the program folder. If an ini file of the same name is added, the palette
+ is divided into 16-colour palettes according to keys 0 to 15 under [Palette].
+-Application settings added: all UI colors and defaults can now be customized.
+
+v1.2.2:
+-Implemented correct conversion of symbols pasted in from a different font type.
+-Added support for Dune 2000's "pixels between symbols" info; the symbols are
+ now padded with that amount of pixels, and width-optimized again on save.
+-Added support for Dune 2000's character order, with a "Dune 2000" encoding.
+
+v1.2.1:
+-Added experimental Dune 2000 support. Strange format, so I have no idea if the
+ game manages to read the files saved with this.
+
+v1.2:
+-Implemented support for older versions of the font format.
+-Split internal font versions off into separate classes.
+-Made unified reading and writing methods for 1, 4 and 8 bit data.
+
+v1.1:
+-Implemented TS font support.
+-Fixed bug that sometimes occurred when larger fonts were loaded after smaller ones.
+-Fixed bug that prevented disabling the grids.
+
+v1.0:
+-Added list of editable symbols, with hex ID, decimal id, character, and symbol preview.
+-Added text encoding dropdown, to change the comparison characters in the list.
+-Amount of symbols is editable.
+-Overall font width and height are editable.
+-Width, height and Y-offset are editable.
+-Added buttons to shift the image data up / left / right / down.
+-Added Revert option for reloading a symbol to the original loaded state.
+-Added Copy & Paste options for copying whole symbols.
+-Modified palette control to support both 16 and 256 colour for later TS/D2k support.
+-Added edit mode buttons for normal drawing and color picker.
+
+v0.4:
+-Added 16-color palette to select left and right mouse button colors.
+
+v0.3:
+-Saving implemented.
+
+v0.2:
+-Basic 2-button pixel editing implemented, but no palette selector yet, limiting to the set colors.
+-Split grid and editable area into two options
+-Shows current edit foreground color (but it can't be changed)
+
+v0.1:
+-Basic viewing implemented, including Y-offset. No editing.
+-Shows amount of symbols, font width/height, symbol width / height / Y-offset
+-Can open Lands of Lore / Kegend of Kyrandia / Dune II / C&C1 / Red Alert font format.
+-Basic zoomable viewer with grid
+-Numeric up/down control for changing indices

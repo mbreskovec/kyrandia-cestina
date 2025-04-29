@@ -1,0 +1,116 @@
+<p:12|l:46|i:0>Have you guys seen any loose mail around here?
+<p:13|l:30|i:1>Nope. We've been here all day.
+<c:10|i:6>
+<p:12|l:41|i:2>Are you sure you didn't find any letters?
+<p:13|l:3|i:3>No.
+<c:10|i:7>
+<p:12|l:37|i:4>Absolutely no loose mail around here?
+<p:13|l:5|i:5>Nope.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:48|i:6>If I find your letters, will you give me a ride?
+<p:21|l:5|i:7>Sure.
+<p:21|l:55|i:8>If I don't get those letters back, I could lose my job.
+<c:10|i:6>
+<p:12|l:24|i:9>Where did you lose them?
+<p:21|l:35|i:10>I was watching a damselfly go by...
+<p:21|l:35|i:11>...and I guess I just dropped them.
+<c:10|i:7>
+<p:12|l:88|i:12>If I find all four of your missing letters, you'll give me a ride to Morningmist Valley?
+<p:21|l:12|i:13>All the way.
+<c:10|i:5>
+<p:12|l:52|i:14>I need to find some missing letters for the postman.
+<p:22|l:39|i:15>Hmm, I think there was one on the roof.
+<c:10|i:6>
+<p:12|l:29|i:16>I need to find those letters.
+<c:10|i:7>
+<p:12|l:25|i:17>Have you seen any others?
+<p:22|l:37|i:18>Sorry. I haven't been out much today.
+<c:10|i:8>
+<p:12|l:21|i:19>I need those letters.
+<c:10|i:8>
+<p:12|l:21|i:20>I need those letters.
+<c:10|i:8>
+<p:12|l:20|i:21>Where could they be?
+<c:10|i:8>
+<p:12|l:21|i:22>I need those letters.
+<c:10|i:8>
+<p:12|l:21|i:23>I need those letters.
+<c:10|i:8>
+<p:12|l:20|i:24>Where could they be?
+<c:10|i:8>
+<p:12|l:21|i:25>I need those letters.
+<c:10|i:8>
+<p:12|l:32|i:26>It's better than no ride at all.
+<c:10|i:8>
+<p:12|l:4|i:27>Ugh!
+<c:10|i:8>
+<p:12|l:7|i:28>Creepy.
+<c:10|i:8>
+<p:12|l:21|i:29>I need those letters.
+<c:10|i:8>
+<p:12|l:20|i:30>Where could they be?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:47|i:31>I'll bet I could steam open one of the letters.
+<c:10|i:8>
+<p:12|l:18|i:32>Who would stop me?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:21|i:33>I need those letters.
+<c:10|i:8>
+<p:12|l:20|i:34>Where could they be?
+<c:10|i:8>
+<p:12|l:21|i:35>I need those letters.
+<c:10|i:8>
+<p:12|l:20|i:36>Where could they be?
+<c:10|i:8>
+<p:12|l:32|i:37>I doubt the letters are in here.
+<c:10|i:8>
+<p:12|l:20|i:38>Where could they be?
+<c:10|i:8>
+<p:12|l:45|i:39>They couldn't have blown all the way in here.
+<c:10|i:8>
+<p:12|l:20|i:40>Where could they be?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

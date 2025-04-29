@@ -1,0 +1,124 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:32|i:0>What a beautiful child you have.
+<p:57|l:48|i:1>Neither one of us talks to strangers, thank you.
+<c:10|i:6>
+<p:12|l:24|i:2>Could I buy that sucker?
+<p:57|l:13|i:3>How dare you!
+<c:10|i:7>
+<p:12|l:31|i:4>I need the candy, not the baby.
+<p:57|l:27|i:5>Well you can't have either!
+<c:10|i:5>
+<p:12|l:43|i:6>Can I buy some climbing equipment from you?
+<p:58|l:66|i:7>Heh heh, what would a little lady like you want with such a thing?
+<c:10|i:6>
+<p:12|l:41|i:8>I need to climb up to the Wheels of Fate.
+<p:58|l:42|i:9>Sorry. We're going hunting ourselves soon.
+<c:10|i:7>
+<p:12|l:46|i:10>Please! I really need some climbing equipment!
+<p:58|l:52|i:11>Tough. We're after the Abominable Snowman ourselves.
+<c:10|i:5>
+<p:12|l:25|i:12>Could I borrow that rope?
+<p:59|l:39|i:13>He,he,he. Them's Men's supplies darlin!
+<c:10|i:6>
+<p:12|l:43|i:14>Surely you wouldn't refuse a traveller aid?
+<p:59|l:64|i:15>We'll need that rope ourselves to tie up the Abominable Snowman.
+<p:59|l:44|i:16>He's a mighty dangerous critter I hear tell.
+<c:10|i:7>
+<p:12|l:29|i:17>Please. This is an emergency!
+<p:12|l:31|i:18>I NEED some climbing equipment!
+<p:59|l:48|i:19>As soon as we work up our courage a mite more...
+<p:59|l:42|i:20>We'll go out and get the vicious varmit...
+<p:59|l:41|i:21>And mebbe then you could borrow our rope.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:49|i:22>I've got to climb up to the Rainbow, or whatever.
+<c:10|i:8>
+<p:12|l:32|i:23>All I need is some climbing gear
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:46|i:24>I wish I had one of Brandon's Pegasus potions.
+<c:10|i:8>
+<p:12|l:44|i:25>Actually that was MY Pegasus potion he used.
+<c:10|i:8>
+<p:12|l:39|i:26>Everybody on this trip has been grumpy.
+<c:10|i:8>
+<p:12|l:24|i:27>Could it be MY attitude?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

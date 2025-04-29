@@ -1,0 +1,148 @@
+<p:11|l:9|i:0>chapter 3
+<p:12|l:30|i:1>I'd love to help you, but how?
+<p:23|l:43|i:2>I'm like a genie. Get a bottle to carry me.
+<c:10|i:6>
+<p:12|l:44|i:3>Why can't you get inside a body by yourself?
+<p:23|l:29|i:4>Somebody has to do it for me.
+<c:10|i:7>
+<p:12|l:35|i:5>If I do help you, will you help me?
+<p:23|l:76|i:6>Well, I know you'll feel better about yourself, and that's a start at least.
+<c:10|i:5>
+<p:12|l:27|i:7>Hey! The forest is on fire!
+<p:25|l:32|i:8>Sorry. No fires after breakfast.
+<c:10|i:6>
+<p:12|l:36|i:9>Look out! A huge monster behind you!
+<p:24|l:37|i:10>Not allowed. Monsters are on Mondays.
+<c:10|i:7>
+<p:12|l:44|i:11>Has anyone ever told you what jerks you are?
+<p:24|l:48|i:12>Sorry. Interpersonal Counseling is on Thursdays.
+<c:10|i:5>
+<p:12|l:37|i:13>Is that your scarecrow in the garden?
+<p:26|l:16|i:14>He works for me.
+<c:10|i:6>
+<p:12|l:24|i:15>Not very friendly is he?
+<p:26|l:18|i:16>He's only a dummy.
+<c:10|i:7>
+<p:12|l:63|i:17>I don't see why dummies can't be as friendly as the rest of us.
+<c:10|i:5>
+<p:12|l:10|i:18>Hey dummy!
+<p:12|l:16|i:19>Can you hear me?
+<c:10|i:6>
+<p:12|l:39|i:20>I've got a brain I can sell you, cheap.
+<c:10|i:7>
+<p:12|l:35|i:21>Are you keeping all the crows away?
+<p:12|l:51|i:22>I Guess not, judging by the looks of your shoulder.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:31|i:23>I know this ghost could help me
+<c:10|i:8>
+<p:12|l:35|i:24>There just aren't any extra bodies.
+<c:10|i:8>
+<p:12|l:41|i:25>Maybe these idiots are related to Herman.
+<c:10|i:8>
+<p:12|l:51|i:26>Why do they always put such ding-a-lings in charge?
+<c:10|i:8>
+<p:12|l:29|i:27>I wish I had my magic mirror.
+<c:10|i:8>
+<p:12|l:34|i:28>Maybe Faun has found my equipment.
+<c:10|i:8>
+<p:12|l:38|i:29>If I can find a body for that ghost...
+<p:12|l:39|i:30>...Maybe he'll get me through the gate.
+<c:10|i:8>
+<p:12|l:69|i:31>Actually, I'm glad there are not a bunch of bodies just laying about.
+<c:10|i:8>
+<p:12|l:41|i:32>If Kyrandia disappears, where will it go?
+<c:10|i:8>
+<p:12|l:36|i:33>This must be one of Malcom's pranks.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

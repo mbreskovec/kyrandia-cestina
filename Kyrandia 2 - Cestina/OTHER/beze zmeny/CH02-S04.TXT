@@ -1,0 +1,147 @@
+<p:11|l:9|i:0>chapter 3
+<p:12|l:70|i:1>I'd like to help you out but everybody seems to be using their bodies.
+<p:23|l:54|i:2>Please! Don't you a jar or something I could get into?
+<c:10|i:6>
+<p:12|l:40|i:3>Why can't you just look around yourself?
+<p:23|l:30|i:4>I have to haunt this haystack.
+<c:10|i:7>
+<p:12|l:38|i:5>What's so special about this haystack?
+<p:23|l:65|i:6>Years ago I was involved in a horrible scythe accident near here.
+<c:10|i:5>
+<p:12|l:42|i:7>Okay, enough of this foolishness. Open up!
+<p:25|l:38|i:8>Sorry, no irate applicants on Mondays.
+<p:24|l:12|i:9>None at all.
+<c:10|i:6>
+<p:12|l:7|i:10>Morons!
+<c:10|i:7>
+<p:12|l:7|i:11>Idiots!
+<c:10|i:5>
+<p:12|l:70|i:12>Do you by chance know where I could find a body that isn't being used?
+<p:26|l:64|i:13>This is a respectable community. We don't do that sort of thing!
+<c:10|i:6>
+<p:12|l:83|i:14>I'm not asking you to do anything disgusting. I just need an extra body for awhile.
+<p:26|l:60|i:15>Well, okay. I've got three bodies I'm not using around back.
+<p:12|l:14|i:16>You do? Great!
+<p:26|l:44|i:17>I'm kidding. What are you, weird AND stupid?
+<c:10|i:7>
+<p:12|l:25|i:18>Please. It's very urgent.
+<p:26|l:52|i:19>Sorry. If I come across anything, I'll let you know.
+<c:10|i:5>
+<p:12|l:8|i:20>Hey you!
+<c:10|i:6>
+<p:12|l:43|i:21>Hey, these are just a bunch of old clothes!
+<c:10|i:7>
+<p:12|l:43|i:22>Aren't there any normal people around here?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:27|i:23>I wonder how Faun is doing?
+<c:10|i:8>
+<p:12|l:45|i:24>Maybe I shouldn't have been so hard on Marko.
+<c:10|i:8>
+<p:12|l:45|i:25>I hope Faun hasn't burned the place down yet.
+<c:10|i:8>
+<p:12|l:29|i:26>I wish I had my magic mirror.
+<c:10|i:8>
+<p:12|l:97|i:27>If Marko wants to help, maybe I should let him and his stupid Hand go to the center of the world.
+<c:10|i:8>
+<p:12|l:51|i:28>If that Hand is so smart why doesn't he go himself?
+<c:10|i:8>
+<p:12|l:82|i:29>If I had my magic mirror I could tell Faun to go find Marko and send him out here.
+<c:10|i:8>
+<p:12|l:66|i:30>Marko used to be so cute. I wish he'd never found that Hand thing.
+<c:10|i:8>
+<p:12|l:90|i:31>There is usually so little crime in Kyrandia. Why did my equipment have to get stolen now?
+<c:10|i:8>
+<p:12|l:65|i:32>Too bad this little cauldron is too small to make portal potions.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

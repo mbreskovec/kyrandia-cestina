@@ -1,0 +1,138 @@
+<p:12|l:8|i:0>Èau chlapi.
+<p:12|l:38|i:1>Na¹la jsem poklad v lebce.
+<p:14|l:21|i:2>Fíha! Co tam bylo?
+<p:12|l:12|i:3>Je zamèený.
+<p:14|l:8|i:4>To je zlý.
+<c:10|i:6>
+<p:12|l:51|i:5>Asi bych mìla jít otevøít tu truhlu s pokladem.
+<p:15|l:20|i:6>Mù¾u jít s tebou?
+<p:12|l:14|i:7>Rad¹i ne.
+<c:10|i:7>
+<p:12|l:49|i:8>Asi nemá¹ paklíè, co?
+<p:13|l:6|i:9>Je mi líto.
+<p:12|l:32|i:10>Mo¾ná by se dal ten zámek rozbít.
+<c:10|i:5>
+<p:12|l:34|i:11>Nemá¹ náhodou paklíè?
+<p:18|l:25|i:12>Co tì to napadá?
+<c:10|i:6>
+<p:12|l:22|i:13>Jak se ti opaluje?
+<p:18|l:11|i:14>Moc legraèní.
+<c:10|i:7>
+<p:12|l:34|i:15>Nemá¹ náhodou paklíè?
+<p:18|l:22|i:16>Stejnì bych ti ho nedal.
+<c:10|i:5>
+<p:12|l:23|i:17>Musím otevøít truhlu.
+<c:10|i:6>
+<p:12|l:23|i:18>Musím otevøít truhlu.
+<c:10|i:7>
+<p:12|l:26|i:19>Musím otevøít truhlu.
+<p:16|l:23|i:20>Pøestaò otravovat!
+<c:10|i:5>
+<p:12|l:14|i:21>Velký o¹klivý plevel.
+<c:10|i:6>
+<p:12|l:14|i:22>Velký o¹klivý plevel.
+<c:10|i:7>
+<p:12|l:14|i:23>Velký o¹klivý plevel.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:23|i:24>Musím otevøít truhlu.
+<p:22|l:16|i:25>No tak najdi klíè.
+<c:10|i:6>
+<p:12|l:9|i:26>Jaký klíè?
+<p:22|l:34|i:27>Pøece ten slavný kostìný klíè, moulo!
+<c:10|i:7>
+<p:12|l:42|i:28>Ty se má¹ hodnì rád, co?
+<c:10|i:8>
+<p:12|l:36|i:29>Chci se jen dostat z téhle ba¾iny.
+<c:10|i:8>
+<p:12|l:27|i:30>Mìla bych co nejdøív vyrazit!
+<c:10|i:8>
+<p:12|l:28|i:31>Tahle hra u¾ mì nebaví.
+<c:10|i:8>
+<p:12|l:31|i:32>To je muèení a ne adventura!
+<c:10|i:8>
+<p:12|l:5|i:33>Zív.
+<c:10|i:8>
+<p:12|l:20|i:34>Jsem utahaná a nudím se.
+<c:10|i:8>
+<p:12|l:14|i:35>Velký o¹klivý plevel.
+<c:10|i:8>
+<p:12|l:14|i:36>Velký o¹klivý plevel.
+<c:10|i:8>
+<p:12|l:47|i:37>Ú¾asné! Aspoò k nìèemu to bylo dobré!
+<c:10|i:8>
+<p:12|l:7|i:38>Stra¹idelné.
+<c:10|i:8>
+<p:12|l:31|i:39>Mo¾ná bych mohla tu loï unést.
+<c:10|i:8>
+<p:12|l:19|i:40>Kdo by mi to vyèítal?
+<c:10|i:8>
+<p:12|l:20|i:41>Tohle u¾ je staré.
+<c:10|i:8>
+<p:12|l:10|i:42>Jsem unavená.
+<c:10|i:8>
+<p:12|l:26|i:43>Herb ten klíè nemá.
+<c:10|i:8>
+<p:12|l:27|i:44>Urèitì by se o tom zmínil.
+<c:10|i:8>
+<p:12|l:31|i:45>Tihle chlapi nic neví.
+<c:10|i:8>
+<p:12|l:33|i:46>Proè by mìli øe¹it mùj problém?
+<c:10|i:8>
+<p:12|l:21|i:47>To bahno vypadá hnusnì.
+<c:10|i:8>
+<p:12|l:21|i:48>Vsadím se, ¾e je hnusné.
+<c:10|i:8>
+<p:12|l:24|i:49>Grr, grr, grr. To je toho.
+<c:10|i:8>
+<p:12|l:22|i:50>Na tohle nemám èas.
+<c:10|i:8>
+<p:12|l:5|i:51>Zív!
+<c:10|i:8>
+<p:12|l:5|i:52>Zív!
+<c:10|i:8>
+<p:12|l:40|i:53>Tihle chlapi urèitì ten klíè nemají.
+<c:10|i:8>
+<p:12|l:36|i:54>Vùbec nevypadají jako piráti.
+<c:10|i:8>
+<p:12|l:11|i:55>Divní brouci.
+<c:10|i:8>
+<p:12|l:26|i:56>Kdopak je asi vycvièil?
+<c:10|i:8>
+<p:12|l:23|i:57>Ty moje nohy mì zabijou.
+<c:10|i:8>
+<p:12|l:42|i:58>Pøála bych si pár Brandonových sandálù.
+<c:10|i:8>
+<p:12|l:50|i:59>Nìkdo musel tuhle místnost vyhrabat z bláta.
+<c:10|i:8>
+<p:12|l:16|i:60>U¾ hodnì dávno.
+<c:10|i:8>
+<p:12|l:28|i:61>Potøebuji jen správný klíè.
+<c:10|i:8>
+<p:12|l:32|i:62>Ml¾né údolí, u¾ jdu!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

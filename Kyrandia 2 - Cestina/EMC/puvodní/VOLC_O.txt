@@ -1,0 +1,57 @@
+Z_POP.WSA
+Mom handles all the business.
+Is that an elevator?
+I don't want to do that.
+Wow, that's hot!
+Clear water.
+I'm not giving them THAT!
+Do you know how I can get down to the center of the world?
+You have come to the right place my dear.
+Take this promotional pen.
+No thanks.
+It's all about vents and rocks, my dear.
+For only six sand dollars you may buy a copy of...
+...our map to The Altar at the Center of the World.
+I'll need six sand dollars for the pamphlet.
+Thank you.
+You only lack five more sand dollars.
+You only lack four more sand dollars.
+You only lack three more sand dollars.
+You only lack two more sand dollars.
+You only lack one more sand dollar.
+Congratulations!
+A fine first step!
+Now, in order to actually register you for an Anchor Stone...
+...there is a small fee of six starfish.
+No, thank you.
+I'll require payment in sand dollars.
+I'll need six starfish for the pamphlet.
+You only lack five more starfish.
+You only lack four more starfish.
+You only lack three more starfish.
+You only lack two more starfish.
+You only lack one more starfish.
+Excellent!
+You are almost ready!
+All that remains is for you to pay the six seashells for the required insurance forms.
+I'll require payment in starfish.
+I'll need six seashells for the pamphlet.
+You only lack five more seashells.
+You only lack four more seashells.
+You only lack three more seashells.
+You only lack two more seashells.
+You only lack one more seashell.
+You know, you've been a good sport, and an excellent customer!
+That's just great.
+Now tell me, how do I get down and get one of those anchor stones?
+For the actual trip down to the center of the world...
+...Most people just jump down one of the hot air vents.
+I'll require payment in seashells.
+Have a nice day.
+Strange island.
+VO_LAV.WSA
+VO_SMK.WSA
+VO_WTR1.WSA
+VO_WTR2.WSA
+POP.WSA
+MOM.WSA

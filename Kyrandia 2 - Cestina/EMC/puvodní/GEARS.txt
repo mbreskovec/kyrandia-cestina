@@ -1,0 +1,51 @@
+MAR1
+DEATH1.WSA
+DEATH2.WSA
+DEATH3.WSA
+DEATH4.WSA
+DEATH5.WSA
+DEATH6.WSA
+DEATH7.WSA
+HIT.WSA
+HANDDEAD.WSA
+Ugh! How disgusting!
+At least Kyrandia is safe now.
+Sure, but I shouldn't have had to do all this in the first place!
+Did I hear you say 'Thanks Marko, for all your help?'
+Thanks, Marko, for all your help.
+Please stop. You're making me blush.
+Okay! Okay!
+I couldn't have done it without you.
+Happy now?
+Come on sweetheart, let's go home...
+I've got two magic parachutes hidden outside.
+Sweetheart?!?
+DODGE1.WSA
+DODGE2.WSA
+GEAR_ON.WSA
+ARROW.WSA
+Kyrandia is saved!
+My poor stick!
+MARCGEAR.WSA
+PUSH.WSA
+I'll need something with more leverage to push it all the way on.
+Hmm. An empty spindle?
+The gear isn't on all the way...
+I know that Hand must have done this!
+Now I need something to wedge the gear back on.
+I know that won't work on the spindle.
+I can't risk my Alchemy Magnet.
+That stick won't work on the spindle.
+That won't help!
+That doesn't look good.
+Aha! This is the poor little fellow that's caused all the trouble.
+The gear doesn't look on all the way...
+This one's running okay.
+This one seems to be running right.
+No trouble here.
+I'd like to see the blueprints for this place!
+What a strange factory!
+I'd better not leave anything up in here.
+GEARS.WSA
+FIXED.WSA
+WARNING.WSA

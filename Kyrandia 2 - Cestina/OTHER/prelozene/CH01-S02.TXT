@@ -1,0 +1,150 @@
+<p:12|l:34|i:0>Neví¹, kde je ten poklad?
+<p:13|l:19|i:1>Nikdy jsem ho nevidìl.
+<p:14|l:16|i:2>Nejspí¹ zakopaný.
+<p:15|l:19|i:3>Jo, urèitì zakopaný.
+<c:10|i:6>
+<p:12|l:37|i:4>Urèitì nemáte ¾ádné zlato?
+<p:13|l:5|i:5>Ne.
+<c:10|i:7>
+<p:12|l:20|i:6>Kde bych mìla hledat?
+<p:13|l:30|i:7>Nevím víc ne¾ ty.
+<p:15|l:40|i:8>Mo¾ná je zakopaný u Sírových pramenù!
+<c:10|i:5>
+<p:18|l:9|i:9>Nìjaké zlato?
+<p:12|l:8|i:10>Zatím ne.
+<c:10|i:6>
+<p:12|l:27|i:11>Nemohla bych se svézt zadarmo?
+<p:18|l:6|i:12>Promiò.
+<c:10|i:7>
+<p:12|l:30|i:13>Já jsem tu slu¾ebnì!
+<p:18|l:13|i:14>Jo, to já taky!
+<c:10|i:5>
+<p:12|l:9|i:15>Úspìch?
+<p:16|l:8|i:16>Zatím ne.
+<c:10|i:6>
+<p:12|l:8|i:17>Nic?
+<p:16|l:29|i:18>Dìlá¹ moc rámusu.
+<c:10|i:7>
+<p:12|l:24|i:19>Jakou pou¾íváte návnadu?
+<p:17|l:5|i:20>Návnadu?
+<c:10|i:5>
+<p:12|l:13|i:21>Vypadá hladovì.
+<c:10|i:6>
+<p:12|l:10|i:22>Ty zuby!
+<c:10|i:7>
+<p:12|l:12|i:23>Ti ¹kùdci!
+<c:10|i:5>
+<p:12|l:25|i:24>Dobøe, kámo, zmiz odtud.
+<p:20|l:29|i:25>Mnì se tady líbí...
+<p:12|l:33|i:26>Je tam vzadu nìjaký poklad?
+<p:20|l:22|i:27>Proè bych ti to øíkal?
+<c:4|i:3>
+<c:10|i:6>
+<p:12|l:26|i:28>Musím ten poklad najít.
+<p:20|l:8|i:29>Tak¾e?
+<c:10|i:7>
+<p:12|l:24|i:30>Chci øíct, fakt ho potøebuji!
+<p:20|l:15|i:31>Zapomeò, ségra.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:46|i:32>Nesly¹el jsi nìco o ztraceném pokladu?
+<p:22|l:77|i:33>Piráti ukradli v¹echny cennosti alchymistovi, který tu ¾il pøed tebou.
+<c:10|i:6>
+<p:12|l:31|i:34>Dobøe, a kde je poklad teï?
+<p:22|l:35|i:35>Nevím, mo¾ná nìkde zakopaný.
+<c:10|i:7>
+<p:22|l:35|i:36>U¾ ses mì ptala. Nevím!
+<c:10|i:8>
+<p:12|l:23|i:37>Tahle hra u¾ mì nebaví.
+<c:10|i:8>
+<p:12|l:32|i:38>Krize, krize, poøád jen krize.
+<c:10|i:8>
+<p:12|l:21|i:39>Potøebuji ten poklad.
+<c:10|i:8>
+<p:12|l:18|i:40>Kde by mohl být?
+<c:10|i:8>
+<p:12|l:20|i:41>Tohle není poklad.
+<c:10|i:8>
+<p:12|l:18|i:42>I tak je to hezké.
+<c:10|i:8>
+<p:12|l:10|i:43>Jsem unavená.
+<c:10|i:8>
+<p:12|l:21|i:44>Chtìlo by to malé zdøímnutí.
+<c:10|i:8>
+<p:12|l:4|i:45>Uch!
+<c:10|i:8>
+<p:12|l:7|i:46>Stra¹idelné!
+<c:10|i:8>
+<p:12|l:19|i:47>Tohle je divné.
+<c:10|i:8>
+<p:12|l:19|i:48>Tohle je divné.
+<c:10|i:8>
+<p:12|l:47|i:49>Vlastnì se mi ani moc nechce hrabat v tomhle bahnì.
+<c:10|i:8>
+<p:12|l:6|i:50>Zív!
+<c:10|i:8>
+<p:12|l:26|i:51>Mám lep¹í vìci na práci!
+<c:10|i:8>
+<p:12|l:34|i:52>Mìla bych se doma pustit do praní!
+<c:10|i:8>
+<p:12|l:31|i:53>Tihle chlapi nic nevìdí.
+<c:10|i:8>
+<p:12|l:25|i:54>Mù¾u se stejnì dobøe zeptat Darma!
+<c:10|i:8>
+<p:12|l:33|i:55>Na tohle nemám náladu
+<c:10|i:8>
+<p:12|l:22|i:56>Pøí¹tì pùjde Brynn.
+<c:10|i:8>
+<p:12|l:24|i:57>Ho hó, dal¹í pøí¹era.
+<c:10|i:8>
+<p:12|l:24|i:58>Ho hó, dal¹í pøí¹era.
+<c:10|i:8>
+<p:12|l:5|i:59>Pfuj!
+<c:10|i:8>
+<p:12|l:41|i:60>Smrdí to, jako kdy¾ tenkrát Faun vaøil snídani.
+<c:10|i:8>
+<p:12|l:22|i:61>Tihle chlapi jsou idioti.
+<c:10|i:8>
+<p:12|l:28|i:62>Mìli by zkusit sýrovou návnadu.
+<c:10|i:8>
+<p:12|l:11|i:63>Divní brouci.
+<c:10|i:8>
+<p:12|l:11|i:64>Divní brouci.
+<c:10|i:8>
+<p:12|l:26|i:65>Uf. Mám z toho puchýøe!
+<c:10|i:8>
+<p:12|l:29|i:66>Nemám náladu na tancování.
+<c:10|i:8>
+<p:12|l:39|i:67>Vím jistì, ¾e tam vzadu nìco je.
+<c:10|i:8>
+<p:12|l:18|i:68>Chtìla bych, aby vypadnul.
+<c:10|i:8>
+<p:12|l:31|i:69>Tady musí být ten poklad.
+<c:10|i:8>
+<p:12|l:31|i:70>Tady musí být ten poklad.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<p:12|l:28|i:71>Poklad tady není.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:39|i:72>V té jeskyni urèitì nìco je.
+<c:10|i:9>
+<p:11|l:45|i:73>Proè by jinak tak hlídal tu cestu dozadu?
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

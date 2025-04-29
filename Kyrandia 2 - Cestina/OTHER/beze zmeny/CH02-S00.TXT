@@ -1,0 +1,166 @@
+<p:11|l:9|i:0>chapter 3
+<p:12|l:46|i:1>Say, do you know how to get down to the ocean?
+<p:23|l:20|i:2>Go through the gate.
+<c:10|i:6>
+<p:12|l:16|i:3>Can you show me?
+<p:23|l:52|i:4>Sure. Get me a body and I'll let you ride piggyback.
+<c:10|i:7>
+<p:12|l:47|i:5>Can't you just point me in the right direction?
+<p:23|l:28|i:6>What do you think I'm doing?
+<c:10|i:5>
+<p:12|l:31|i:7>Could you please open the gate?
+<p:24|l:18|i:8>You can't come in.
+<p:25|l:27|i:9>No pedestrians on Tuesdays.
+<p:12|l:31|i:10>I don't think today is Tuesday.
+<p:24|l:21|i:11>You'll have to leave.
+<p:25|l:23|i:12>No women without goats.
+<c:10|i:6>
+<p:24|l:24|i:13>So long. See you around.
+<p:25|l:36|i:14>Nobody's going in today. We're full.
+<p:12|l:29|i:15>Full of beans maybe. Open up!
+<p:24|l:26|i:16>Sorry. It's in the manual.
+<p:25|l:39|i:17>No strangers in groups of one or three.
+<c:10|i:7>
+<p:12|l:27|i:18>I'm with the Royal Mystics!
+<p:12|l:27|i:19>I'm on an urgent mission...
+<p:12|l:83|i:20>...and if you morons don't let me through, the whole country is going to disappear!
+<p:25|l:49|i:21>Sorry, no magicians without a note from a donkey.
+<p:24|l:39|i:22>Bye bye. Best of luck. Have a nice day.
+<p:12|l:42|i:23>I can't exchange pleasantries with idiots.
+<c:10|i:5>
+<p:12|l:40|i:24>Can you direct me to the Darkmoon wharf?
+<p:26|l:53|i:25>Sure. That's where they send most of my mustard crop.
+<c:10|i:6>
+<p:12|l:54|i:26>So, do I just follow the yellow-stained road, or what?
+<p:26|l:35|i:27>Don't get smart with me young lady.
+<p:12|l:125|i:28>Sorry. I'm having a really bad day. See, I'm on this journey to the center of the world to place an Anchor Stone that will...
+<p:26|l:83|i:29>Alright, alright. Just go through the gate and down to the dock. You can't miss it.
+<p:12|l:14|i:30>Thank you sir.
+<c:10|i:7>
+<p:12|l:34|i:31>I really need to get to the wharf.
+<p:26|l:43|i:32>Have you considered walking up to the gate?
+<c:10|i:5>
+<p:12|l:27|i:33>Hey you. Where's the wharf?
+<c:10|i:6>
+<p:12|l:22|i:34>Yoo hoo. Anybody home?
+<c:10|i:7>
+<p:12|l:38|i:35>C'mon pal. I could use some help here!
+<p:12|l:39|i:36>Hmm. These people aren't very sociable.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:69|i:37>Oh great. I'm going to have this hay sticking out of my hair forever.
+<c:10|i:8>
+<p:12|l:55|i:38>The gate into the city has to be around here somewhere.
+<c:10|i:8>
+<p:12|l:27|i:39>Hmm. This must be the gate.
+<c:10|i:8>
+<p:12|l:39|i:40>Perhaps I should befriend those guards.
+<c:10|i:8>
+<p:12|l:45|i:41>This looks like the headache I had last week.
+<c:10|i:8>
+<p:12|l:38|i:42>Maybe this hand could become MY valet.
+<c:10|i:8>
+<p:12|l:4|i:43>Hmm.
+<c:10|i:8>
+<p:12|l:5|i:44>Sigh.
+<c:10|i:8>
+<p:12|l:10|i:45>Nice dirt.
+<c:10|i:8>
+<p:12|l:52|i:46>No birds at all. That thing must scare sparrows too.
+<c:10|i:8>
+<p:12|l:13|i:47>Big basement.
+<c:10|i:8>
+<p:12|l:13|i:48>Mouse heaven.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:26|i:49>Aha! Civilization at last!
+<c:10|i:9>
+<p:12|l:37|i:50>Hmm. This doesn't look like the gate.
+<c:10|i:9>
+<p:12|l:39|i:51>Cute house, but this can't be the city.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

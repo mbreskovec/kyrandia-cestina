@@ -1,0 +1,45 @@
+INJAIL2.WSA
+No skvìlé!
+INJAIL1.WSA
+Hm. Tahle strategie moc nevyšla.
+Co teï budeme dìlat?
+Ty víš, že jsem tì vždycky miloval.
+Teï se potøebuji jenom dostat ven.
+Tenhle zámek už znovu netoužím vidìt.
+Musí být nìjaký zpùsob, jak to otevøít.
+Díky.
+Pomohl jsem ti?
+Asi tak jako obvykle.
+Musím jít najít svou Ruku.
+Vrátíme se a pomùžeme ti.
+Hm. Klíè.
+Nedosáhnu na nìj ani s klackem.
+Vsadím se, že ten klíè dostanu...
+Tím tenhle nápad hasne.
+INJAIL3.WSA
+Tady, použij tenhle hák.
+JAILBRK.WSA
+To je lepší.
+INJAIL4.WSA
+Pøíjemné ubytování...
+To je fušeøina...
+Lezou z toho nitì...
+Jen tak uvažuji...
+To je krásný výhled.
+To je krásný výhled...
+Škoda že trèím tady.
+Nìjak se teï necítím na rybaøení.
+Zkusím tu rybu chytit...
+Nemám náladu na rybaøení.
+Tenhle zámek moc nevydrží.
+Nikdy víc.
+Hezký zámek.
+Slyším moøe.
+"Vyhlašujeme výroèní soutìž krásy Miss Kyrandie"
+Dávám pøednost výroèní soutìži pøitažlivosti Mr. Kyrandie.
+Hm. ochoèená hvìzdice.
+Cosi.
+Neobvyklé stavební materiály.
+Pìkná výzdoba.
+MARCJAIL.WSA
+MARCOUT.WSA

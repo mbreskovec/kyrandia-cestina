@@ -1,0 +1,61 @@
+Trouba.
+Z_SMARMY.WSA
+Nemáte zájem o rozparcelování té bainy, ve které ijete?
+Pùsobivé dveøe.
+Lávové lampy.
+Èistá voda.
+Pøicházíte na správné místo, má drahá.
+SMAR
+Dovolte mi vìnovat vám tuto brouru s detaily mıch poradenskıch slueb.
+Mohu vás provést všemi záhadami "Oltáøe ve støedu svìta."
+Je tu samozøejmì malı poplatek dvou hvìzdic.
+Tato neocenitelná kniha podrobnì popisuje, jak získat poradenské sluby.
+Nevíte, jak se mohu dostat do støedu zemì?
+V tomhle svìtì se nikam nedostanete bez kamení a prùduchù.
+Potøebuji poplatek dvou hvìzdic.
+Dìkuji.
+U jen jedna hvìzdice.
+Ne, dìkuji.
+Poaduji platbu ve hvìzdicích.
+Pro plné prùvodcovské sluby potøebujete poplatek šesti hvìzdic.
+U jenom pìt hvìzdic.
+U jenom ètyøi hvìzdice.
+U jenom tøi hvìzdice.
+U jenom dvì hvìzdice.
+Grazuluji!
+Skvìlı první krok!
+Nyní, abyste se skuteènì zaregistrovala pro Kotevní kámen...
+...je tu drobnı pøíspìvek osmi škeblí.
+Pro registraci musíte sloit poplatek osmi škeblí.
+U jen sedm škeblí.
+U jen šest škeblí.
+U jen pìt škeblí.
+U jen ètyøi škeble.
+U jen tøi škeble.
+U jen dvì škeble.
+U jen jedna škeble.
+Znamenitì!
+Jste témìø pøipravena!
+Teï u jen zbıvá zaplatit osm píseènıch dolarù za nezbytné formuláøe k pojišìní.
+Byaduji platbu ve škeblích.
+Musíte zaplatit èástku osmi píseènıch dolarù za pojištìní.
+U jen sedm píseènıch dolarù.
+U jen šest píseènıch dolarù.
+U jen pìt píseènıch dolarù.
+U jen ètyøi píseèné dolary.
+U jen tøi píseèné dolary.
+U jen dva píseèné dolary.
+U jen jeden píseènı dolar.
+Jste skvìlá sportovkynì a vıborná zákaznice!
+To je skvìlé.
+Teï mi øeknìte, jak se dostanu dolù a získám kotevní kámen?
+Chcete-li skuteènì vyrazit do støedu zemì...
+...vìtšina lidí prostì jen skoèí do nìkterého z tìch prùduchù s horkım vzduchem.
+Vyaduji platbu v píseènıch dolarech.
+Podivnı ostrov.
+VD_LAV1.WSA
+VD_LAV2.WSA
+VD_SMK.WSA
+VD_WTR.WSA
+SMARMY.WSA
+SMARMY1.WSA

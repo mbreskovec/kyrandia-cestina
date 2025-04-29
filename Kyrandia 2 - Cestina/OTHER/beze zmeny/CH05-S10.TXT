@@ -1,0 +1,118 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:38|i:0>Why didn't I take any icicles with me?
+<c:10|i:8>
+<p:12|l:19|i:1>What an idiot I am!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:38|i:2>I've got to find the Kyrandian wheels.
+<c:10|i:8>
+<p:12|l:67|i:3>I wonder if I'll have to spin them backwards to restore everything?
+<c:10|i:8>
+<p:12|l:49|i:4>Wouldn't it be neat if this was all just a dream?
+<c:10|i:8>
+<p:12|l:57|i:5>I'd swear off blueberries in an instant if it would help.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:47|i:6>The Kyrandian Wheels have to be here somewhere.
+<c:10|i:8>
+<p:12|l:37|i:7>They're probably right under my nose.
+<c:10|i:8>
+<p:12|l:62|i:8>Why can't they just put the repair parts on a shelf somewhere?
+<c:10|i:8>
+<p:12|l:56|i:9>All these wonderful safety puzzles didn't stop the Hand.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:39|i:10>I can't take anything out of this room.
+<c:10|i:8>
+<p:12|l:20|i:11>So why am I in here?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:57|i:12>I'd like to give that Hand a hangnail he'll never forget!
+<c:10|i:8>
+<p:12|l:19|i:13>Oooh boy, am I mad!
+<c:10|i:8>
+<p:12|l:67|i:14>The Kyrandian area of Wheels Of Fate must be around here somewhere.
+<c:10|i:8>
+<p:12|l:24|i:15>I hope I'm not too late!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:16|i:16>This must be it!
+<c:10|i:9>
+<p:12|l:50|i:17>Kyrandia Wheels...Kyrandia Wheels...Where are you?
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:54|i:18>At last! My feminine intuition, my Mystic's vision,...
+<p:12|l:26|i:19>And the sign on the door..
+<p:12|l:59|i:20>All tell me that the Kyrandian wheels must be in this room!
+<c:10|i:9>
+<p:12|l:28|i:21>This is the Mechanic's room?
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

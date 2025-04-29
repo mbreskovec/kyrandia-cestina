@@ -1,0 +1,13 @@
+That smoke stinks.
+Hot air.
+Weird fruit.
+Volcanic bonsai.
+Sturdy crystals.
+I don't want to do that.
+Wow, that's hot!
+Clear water.
+Strange island.
+VE_SMK1.WSA
+VE_SMK2.WSA
+VE_WTRA.WSA
+VE_WTRB.WSA

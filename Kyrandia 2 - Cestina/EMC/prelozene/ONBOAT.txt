@@ -1,0 +1,32 @@
+Ten hrnec je prázdný.
+Vida, co tu je!
+Naviják na lano je prázdný.
+Rozhodnì tu nenechám alchymistický magnet!
+Bezpeènì schovaný.
+Nehrajte si s naším kompasem, sleèinko!
+Už tam nìco je.
+Díky prozøetelnosti za autopilota.
+Žádný problém. Jsme stále na míle daleko od toho prokletého ostrova.
+VCIR1.WSA
+VCIR.COL
+BOAT.COL
+ONWATER.WSA
+Zase špatnì, kapitáne.
+VCIR.WSA
+Hej! Tak moment!
+Vulkánie!
+Jak se to mohlo stát?!
+Zdá se, že jsme mimo kurz.
+Ta uniforma je ponižující.
+Ne, díky.
+Kde je náš Grog?
+Ne, dìkuji, paní.
+Ne, dìkuji, jsem zamìstnán hlídkou.
+Divná loï.
+Nenechám tu na palubì svùj alchymistický magnet!
+Nechci tu nechat svùj lístek.
+SALRDANZ.WSA
+SHPWHEEL.WSA
+SALRKNOT.WSA
+CAPTAIN.WSA
+SHIPCMPA.WSA

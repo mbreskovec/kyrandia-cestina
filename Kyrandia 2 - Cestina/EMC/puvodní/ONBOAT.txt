@@ -1,0 +1,32 @@
+The pot is empty.
+Look what I found!
+The coil of rope is empty.
+I'm not leaving my Alchemist's Magnet in there!
+Hidden safely away.
+Don't be interfering with our compass, Missie!
+There's already something in there.
+Thank goodness for the autopilot.
+No problem. We're still miles from that cursed island.
+VCIR1.WSA
+VCIR.COL
+BOAT.COL
+ONWATER.WSA
+Wrong end again, Cap'n.
+VCIR.WSA
+Hey! Wait a minute!
+Volcania!
+How could this have happened?!
+We appear to be off course.
+This uniform is humiliating.
+No thank you.
+Where's our Grog?
+No thank you, Ma'am.
+No thank you, I'm busy on watch.
+Strange boat.
+I'm not leaving my Alchemist's Magnet on this tub!
+I'm not leaving my voucher here.
+SALRDANZ.WSA
+SHPWHEEL.WSA
+SALRKNOT.WSA
+CAPTAIN.WSA
+SHIPCMPA.WSA

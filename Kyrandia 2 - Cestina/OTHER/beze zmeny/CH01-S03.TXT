@@ -1,0 +1,136 @@
+<p:13|l:14|i:0>Hello Zanthia.
+<p:12|l:31|i:1>I'm having problems with a rat!
+<p:13|l:39|i:2>Why don't you make one of your potions?
+<c:4|i:4>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:18|l:22|i:3>Hey, where's the gold?
+<p:12|l:14|i:4>You'll get it.
+<c:10|i:6>
+<p:12|l:28|i:5>Do you really need the gold?
+<p:18|l:26|i:6>Do you really need a ride?
+<c:10|i:7>
+<p:12|l:42|i:7>I've got to get past that rat in the cave.
+<p:18|l:16|i:8>Try a mousetrap.
+<c:10|i:5>
+<p:12|l:8|i:9>No luck?
+<c:10|i:6>
+<p:12|l:28|i:10>Don't you fellows have jobs?
+<p:16|l:5|i:11>Hush!
+<c:10|i:7>
+<p:12|l:41|i:12>You boys are here every time I walk past.
+<c:10|i:5>
+<p:12|l:13|i:13>Looks hungry.
+<c:10|i:6>
+<p:12|l:10|i:14>Big teeth.
+<c:10|i:7>
+<p:12|l:12|i:15>What a weed!
+<c:10|i:5>
+<p:12|l:34|i:16>Move aside mister. I'm in a hurry.
+<p:20|l:11|i:17>Not likely.
+<c:10|i:6>
+<p:12|l:7|i:18>Please.
+<p:20|l:51|i:19>You know you're quite attractive when you're angry.
+<c:10|i:7>
+<p:12|l:23|i:20>Last chance, or I'll...
+<p:20|l:12|i:21>You'll what?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:38|i:22>Do we have any rat poison around here?
+<p:22|l:26|i:23>Why would we? I like rats.
+<c:10|i:6>
+<p:12|l:69|i:24>I think there's something in the cave, but the rat won't let me past.
+<p:22|l:21|i:25>Did you ask politely?
+<c:10|i:7>
+<p:12|l:27|i:26>I got to get past that rat!
+<c:10|i:8>
+<p:12|l:23|i:27>My feet are killing me.
+<c:10|i:8>
+<p:12|l:41|i:28>I wish I had a pair of Brandon's Sandals.
+<c:10|i:8>
+<p:12|l:5|i:29>Hmmm.
+<c:10|i:8>
+<p:12|l:28|i:30>Why am I still in the swamp?
+<c:10|i:8>
+<p:12|l:33|i:31>I wish that rat would just leave.
+<c:10|i:8>
+<p:12|l:19|i:32>Maybe I could swim.
+<c:10|i:8>
+<p:12|l:10|i:33>I'm tired.
+<c:10|i:8>
+<p:12|l:21|i:34>I'm ready for my nap.
+<c:10|i:8>
+<p:12|l:4|i:35>Ugh!
+<c:10|i:8>
+<p:12|l:7|i:36>Creepy.
+<c:10|i:8>
+<p:12|l:27|i:37>That is a long way to swim.
+<c:10|i:8>
+<p:12|l:31|i:38>Beautiful mountains over there.
+<c:10|i:8>
+<p:12|l:26|i:39>I have other things to do.
+<c:10|i:8>
+<p:12|l:33|i:40>I should be cleaning my aquarium.
+<c:10|i:8>
+<p:12|l:38|i:41>This place doesn't need street lights.
+<c:10|i:8>
+<p:12|l:31|i:42>These berries are like torches.
+<c:10|i:8>
+<p:12|l:31|i:43>These guys don't know anything.
+<c:10|i:8>
+<p:12|l:25|i:44>I might as well ask Darm.
+<c:10|i:8>
+<p:12|l:29|i:45>I'm not in the mood for this.
+<c:10|i:8>
+<p:12|l:41|i:46>Why can't King Brandon take care of this?
+<c:10|i:8>
+<p:12|l:22|i:47>Ho hum, another beast.
+<c:10|i:8>
+<p:12|l:9|i:48>Big deal.
+<c:10|i:8>
+<p:12|l:5|i:49>Peuw!
+<c:10|i:8>
+<p:12|l:41|i:50>Smells like the time Faun made breakfast.
+<c:10|i:8>
+<p:12|l:22|i:51>These guys are idiots.
+<c:10|i:8>
+<p:12|l:33|i:52>They should be using cheese bait.
+<c:10|i:8>
+<p:12|l:11|i:53>Wierd bugs.
+<c:10|i:8>
+<p:12|l:11|i:54>Wierd bugs.
+<c:10|i:8>
+<p:12|l:5|i:55>Yawn.
+<c:10|i:8>
+<p:12|l:40|i:56>I've missed my nap in all the commotion.
+<c:10|i:8>
+<p:12|l:33|i:57>I wish this rat would just leave.
+<c:10|i:8>
+<p:12|l:15|i:58>He's in my way!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:36|i:59>This jerk is really slowing me down.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

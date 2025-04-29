@@ -1,0 +1,13 @@
+Tohle by se mohlo hodit.
+Aspoò budu mít suvenýr.
+Píseèný dolar.
+Divné ovoce.
+Sopeèná bonsai.
+Tohle dìlat nebudu.
+Fíha, to je horké!
+Èistá voda.
+Divný ostrov.
+VP_LAV.WSA
+VP_SMK1.WSA
+VP_SMK2.WSA
+VP_WTR.WSA

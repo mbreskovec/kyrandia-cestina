@@ -1,0 +1,138 @@
+<p:12|l:8|i:0>Hi guys.
+<p:12|l:38|i:1>I found a treasure chest in the skull.
+<p:14|l:21|i:2>Wow! What was inside?
+<p:12|l:12|i:3>It's locked.
+<p:14|l:8|i:4>Too bad.
+<c:10|i:6>
+<p:12|l:51|i:5>I'd better go try and get that treasure chest open.
+<p:15|l:20|i:6>Can I come with you?
+<p:12|l:14|i:7>Not this time.
+<c:10|i:7>
+<p:12|l:49|i:8>You wouldn't happen to have a lockpick would you?
+<p:13|l:6|i:9>Sorry.
+<p:12|l:32|i:10>Maybe I can break the lock open.
+<c:10|i:5>
+<p:12|l:34|i:11>Do you happen to have a lock pick?
+<p:18|l:25|i:12>What do you have in mind?
+<c:10|i:6>
+<p:12|l:22|i:13>Are you getting a tan?
+<p:18|l:11|i:14>Very funny.
+<c:10|i:7>
+<p:12|l:34|i:15>Do you happen to have a lock pick?
+<p:18|l:22|i:16>Not that I'd give you.
+<c:10|i:5>
+<p:12|l:23|i:17>I need to open a chest.
+<c:10|i:6>
+<p:12|l:23|i:18>I need to open a chest.
+<c:10|i:7>
+<p:12|l:26|i:19>I need to open that chest.
+<p:16|l:23|i:20>Hey! Quit bothering us!
+<c:10|i:5>
+<p:12|l:14|i:21>Big ugly weed.
+<c:10|i:6>
+<p:12|l:14|i:22>Big ugly weed.
+<c:10|i:7>
+<p:12|l:14|i:23>Big ugly weed.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:23|i:24>I need to open a chest.
+<p:22|l:16|i:25>So, get the key.
+<c:10|i:6>
+<p:12|l:9|i:26>What key?
+<p:22|l:34|i:27>The famous skeleton key, you dope!
+<c:10|i:7>
+<p:12|l:42|i:28>You're pretty full of yourself aren't you?
+<c:10|i:8>
+<p:12|l:36|i:29>I just want to get out of the swamp.
+<c:10|i:8>
+<p:12|l:27|i:30>I've got to get going soon!
+<c:10|i:8>
+<p:12|l:28|i:31>This game isn't fun anymore.
+<c:10|i:8>
+<p:12|l:31|i:32>This is torture, not adventure!
+<c:10|i:8>
+<p:12|l:5|i:33>Yawn.
+<c:10|i:8>
+<p:12|l:20|i:34>I'm bored and tired.
+<c:10|i:8>
+<p:12|l:14|i:35>Big ugly weed.
+<c:10|i:8>
+<p:12|l:14|i:36>Big ugly weed.
+<c:10|i:8>
+<p:12|l:47|i:37>Amazing! This was good for something after all!
+<c:10|i:8>
+<p:12|l:7|i:38>Creepy.
+<c:10|i:8>
+<p:12|l:31|i:39>Maybe I could hijack the ferry.
+<c:10|i:8>
+<p:12|l:19|i:40>Who could blame me?
+<c:10|i:8>
+<p:12|l:20|i:41>This is getting old.
+<c:10|i:8>
+<p:12|l:10|i:42>I'm tired.
+<c:10|i:8>
+<p:12|l:26|i:43>Herb doesn't have the key.
+<c:10|i:8>
+<p:12|l:27|i:44>He would have mentioned it.
+<c:10|i:8>
+<p:12|l:31|i:45>These guys don't know anything.
+<c:10|i:8>
+<p:12|l:33|i:46>Why should they solve my problem?
+<c:10|i:8>
+<p:12|l:21|i:47>That mud looks yucky.
+<c:10|i:8>
+<p:12|l:21|i:48>I'll bet it is yucky.
+<c:10|i:8>
+<p:12|l:24|i:49>Grr, grr, grr. Big deal.
+<c:10|i:8>
+<p:12|l:22|i:50>I'm too busy for this.
+<c:10|i:8>
+<p:12|l:5|i:51>Peuw!
+<c:10|i:8>
+<p:12|l:5|i:52>Peuw!
+<c:10|i:8>
+<p:12|l:40|i:53>These guys wouldn't have the key I need.
+<c:10|i:8>
+<p:12|l:36|i:54>They don't look at all like pirates.
+<c:10|i:8>
+<p:12|l:11|i:55>Wierd bugs.
+<c:10|i:8>
+<p:12|l:26|i:56>I wonder who trained them.
+<c:10|i:8>
+<p:12|l:23|i:57>My feet are killing me.
+<c:10|i:8>
+<p:12|l:42|i:58>I wiush I had a pair of Brandon's Sandals.
+<c:10|i:8>
+<p:12|l:50|i:59>Someone must have carved this room out of the mud.
+<c:10|i:8>
+<p:12|l:16|i:60>A long time ago.
+<c:10|i:8>
+<p:12|l:28|i:61>All I need is the right key.
+<c:10|i:8>
+<p:12|l:32|i:62>Morningmist Valley, here I come!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

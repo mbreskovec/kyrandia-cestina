@@ -1,0 +1,44 @@
+_ZFIT.EMC
+I'd better change before I leave.
+_ZSNAPUP.EMC
+_ZSNAPDN.EMC
+Yuck! This won't do!
+Much better!
+Yum! That was good!
+As soon as you're gone, I'm going to have a party here.
+No thanks.
+I've got plenty of those.
+Those embers are still hot!
+Now the water's good and hot!
+I don't want to burn that!
+The embers have cooled down.
+At least this wasn't stolen.
+Mosquito repellent.
+Too bad this isn't a magic carpet.
+Senseless!
+Why would someone do this?
+All my glassware!
+Who could be mad at me?
+_ZBPICK.EMC
+Aha. I can still use this!
+Nothing else under there.
+Who would do this?
+Now who would break my Christmas ornaments?
+Looks like my seven years bad luck has already started.
+At least they left my things alone!
+The thief didn't mess with YOUR things!
+I need a maid.
+Why would some thief steal my equipment?
+At least I found my cauldron and my spellbook.
+At least I found my cauldron.
+At least I found my spellbook.
+I can't even make potions...
+...without a cauldron and spellbook!
+Aren't you gone yet?
+INHOME
+FAUN.WSA
+FAUNMOCK.WSA
+FAUNGLSS.WSA
+FAUNSWNG.WSA
+FAUNPEEK.WSA
+COALS.WSA

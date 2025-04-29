@@ -1,0 +1,44 @@
+_ZFIT.EMC
+Než pùjdu, mìla bych se pøevléknout.
+_ZSNAPUP.EMC
+_ZSNAPDN.EMC
+Ble! Tohle není ono!
+Mnohem lepší!
+Mòam! Dobré!
+Jen co budeš pryè, hodlám tu uspoøádat veèírek.
+Ne, díky.
+Tohohle už mám spoustu.
+Ty uhlíky jsou poøád horké!
+Teï je ta voda dobrá a teplá!
+Tohle nechci spálit!
+Uhlíky už vychladly.
+Aspoò tohle neukradli.
+Odpuzovaè komárù.
+Škoda že tohle není kouzelný koberec.
+Šílené!
+Proè by tohle nìkdo dìlal?
+Všechno moje nádobí!
+Kdo na mì mohl mít vztek?
+_ZBPICK.EMC
+Aha. Tohle se dá použít!
+Nic dalšího tam není.
+Kdo tohle udìlal?
+Kdo mi rozbil moje vánoèní ozdoby?
+Mých sedm let neštìstí zøejmì právì zaèalo.
+Aspoò že nechali na pokoji moje vìci!
+TVOJE vìci ten zlodìj nerozházel!
+Potøebuji uklízeèku.
+Proè by nìjaký zlodìj kradl moje vìci?
+Aspoò že jsem našla svùj kotlík a kouzelnou knihu.
+Aspoò že jsem našla svùj kotlík.
+Aspoò že jsem našla svou kouzelnou knihu.
+Nemùžu ani dìlat lektvary...
+...bez kotlíku a kouzelné knihy!
+Tys ještì nešla?
+INHOME
+FAUN.WSA
+FAUNMOCK.WSA
+FAUNGLSS.WSA
+FAUNSWNG.WSA
+FAUNPEEK.WSA
+COALS.WSA

@@ -1,0 +1,147 @@
+<p:12|l:35|i:0>Vidìl jsi v poslední dobì rybáøe?
+<p:13|l:34|i:1>Obvykle chytají pod mostem.
+<p:12|l:22|i:2>Teï tam nejsou.
+<p:12|l:34|i:3>Chytili rybu a odpluli pryè.
+<c:10|i:6>
+<p:12|l:34|i:4>Kam asi rybáøi odjeli?
+<p:13|l:50|i:5>Mo¾ná loví nìkdì dál v ba¾inì.
+<p:15|l:34|i:6>Anebo nìkde zakotvili.
+<c:10|i:7>
+<p:12|l:35|i:7>Vidìl jsi v poslední dobì rybáøe?
+<p:13|l:34|i:8>Obvykle chytají pod mostem.
+<p:12|l:22|i:9>Teï tam nejsou.
+<p:12|l:34|i:10>Chytili rybu a odpluli pryè.
+<c:10|i:5>
+<p:12|l:28|i:11>Nevidìl jsi rybáøe?
+<p:18|l:23|i:12>Od rána ne.
+<p:18|l:30|i:13>Vím, co si myslí¹...
+<p:18|l:66|i:14>...a ten jejich dìravý èlun by sotva zvládl cestu pøes jezero.
+<c:10|i:6>
+<p:12|l:35|i:15>Potøebuji olovìnou kotvu, co mìli rybáøi.
+<p:18|l:48|i:16>Chce¹ ji promìnit ve zlato, nebo tak nìco?
+<p:12|l:63|i:17>Neøíkají mi mistr lektvarù a alchymie pro nic za nic.
+<p:18|l:19|i:18>Kdo ti tak øíká?
+<c:10|i:7>
+<p:12|l:28|i:19>Nevidìl jsi rybáøe?
+<p:18|l:23|i:20>Od rána ne.
+<p:18|l:30|i:21>Vím, co si myslí¹...
+<p:18|l:66|i:22>...a ten jejich dìravý èlun by sotva zvládl cestu pøes jezero.
+<c:10|i:5>
+<p:12|l:19|i:23>Potøebuji tu kotvu.
+<c:10|i:6>
+<p:12|l:19|i:24>Potøebuji tu kotvu.
+<c:10|i:7>
+<p:12|l:19|i:25>Potøebuji tu kotvu.
+<c:10|i:5>
+<p:12|l:14|i:26>Velký o¹klivý plevel.
+<c:10|i:6>
+<p:12|l:14|i:27>Velký o¹klivý plevel.
+<c:10|i:7>
+<p:12|l:14|i:28>Velký o¹klivý plevel.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:30|i:29>Potøebuji kotvu, co mìli rybáøi.
+<p:22|l:12|i:30>A co já s tím?
+<p:12|l:40|i:31>Myslela jsem, ¾e ví¹, kde jsou.
+<p:22|l:23|i:32>Zkou¹elas pøístav?
+<c:10|i:6>
+<p:12|l:19|i:33>Potøebuji tu kotvu.
+<p:22|l:16|i:34>Tu nedostane¹!
+<c:10|i:7>
+<p:22|l:19|i:35>Ty jsi je¹tì tady?
+<c:10|i:8>
+<p:12|l:19|i:36>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:20|i:37>Kde mù¾ou být?
+<c:10|i:8>
+<p:12|l:34|i:38>Vsadím se, ¾e ji mám pøímo pod nosem.
+<c:10|i:8>
+<p:12|l:18|i:39>Kde mù¾e být?
+<c:10|i:8>
+<p:12|l:19|i:40>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:41>Promìním ji ve zlato.
+<c:10|i:8>
+<p:12|l:14|i:42>Velký o¹klivý plevel.
+<c:10|i:8>
+<p:12|l:14|i:43>Velký o¹klivý plevel.
+<c:10|i:8>
+<p:12|l:4|i:44>Uch!
+<c:10|i:8>
+<p:12|l:7|i:45>Stra¹idelné.
+<c:10|i:8>
+<p:12|l:19|i:46>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:47>Promìním ji ve zlato.
+<c:10|i:8>
+<p:12|l:19|i:48>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:49>Promìním ji ve zlato.
+<c:10|i:8>
+<p:12|l:20|i:50> Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:51>Promìním ji ve zlato.
+<c:10|i:8>
+<p:12|l:19|i:52>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:53>Promìním ji ve zlato.
+<c:10|i:8>
+<p:12|l:19|i:54>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:55>Promìním ji ve zlato.
+<c:10|i:8>
+<p:12|l:19|i:56>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:57>Promìním ji ve zlato.
+<c:10|i:8>
+<p:12|l:5|i:58>Zív!
+<c:10|i:8>
+<p:12|l:5|i:59>Zív!
+<c:10|i:8>
+<p:12|l:18|i:60>Kam mohli jít?
+<c:10|i:8>
+<p:12|l:20|i:61>Potøebuji jejich kotvu.
+<c:10|i:8>
+<p:12|l:11|i:62>Divní brouci.
+<c:10|i:8>
+<p:12|l:35|i:63>Tihle asi tu kotvu nemají.
+<c:10|i:8>
+<p:12|l:19|i:64>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:65>Promìním ji ve zlato.
+<c:10|i:8>
+<p:12|l:19|i:66>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:67>Promìním ji ve zlato.
+<c:10|i:8>
+<p:12|l:19|i:68>Potøebuji tu kotvu.
+<c:10|i:8>
+<p:12|l:21|i:69>Promìním ji ve zlato.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:42|i:70>Tvùj èlun asi nemá kotvu, ¾e?
+<p:18|l:33|i:71>®ádnou nepotøebuje, má magické kormidlo.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

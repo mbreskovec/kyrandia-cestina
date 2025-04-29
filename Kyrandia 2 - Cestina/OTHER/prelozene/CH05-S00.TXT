@@ -1,0 +1,127 @@
+<p:12|l:43|i:0>Promiòte, nemohli byste mì trochu nasmìrovat?
+<p:50|l:34|i:1>Jujky! Ty jsi nový døevorubec?
+<p:12|l:5|i:2>Co?
+<c:10|i:6>
+<p:12|l:51|i:3>Nevíte náhodou, jak se dostanu ke Kolùm osudu?
+<p:50|l:17|i:4>Kde má¹ sekeru?
+<p:12|l:28|i:5>Já NEJSEM nový døevorubec!
+<c:10|i:7>
+<p:12|l:93|i:6>Povìzte, kdyby se nový døevorubec tou¾il dostat ke Kolùm osudu, kudy byste ho poslali?
+<p:50|l:34|i:7>Oh, ty jsi ale úskoèný døevorubec!
+<p:12|l:56|i:8>(Vzdych, a to jsem myslela, ¾e hornlun¹tí strá¾ci brány byli pitomí!)
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:47|i:9>Ahoj. Nemù¾e¹ mì nasmìrovat ke Kolùm osudu?
+<p:53|l:15|i:10>Bude mi potì¹ením.
+<c:10|i:6>
+<p:12|l:21|i:11>Tak¾e? Kde tedy jsou?
+<p:53|l:79|i:12>Vypadalo to, ¾e jde¹ správným smìrem, tak¾e jsem tì nechtìl opravovat.
+<c:10|i:7>
+<p:12|l:64|i:13>Tím chce¹ øíct, ¾e a¾ pùjdu ¹patným smìrem, ¾e mì opraví¹?
+<p:53|l:27|i:14>Ú¾asný systém, ¾e jo?
+<c:10|i:5>
+<p:12|l:32|i:15>Nemohli byste mi ukázat cestu?
+<p:54|l:35|i:16>Promiò, máme tu stav nouze.
+<c:10|i:6>
+<p:12|l:43|i:17>Prosím. Sna¾ím se dostat ke Kolùm osudu.
+<p:54|l:14|i:18>Zkus to lanovkou.
+<c:10|i:7>
+<p:12|l:44|i:19>Nevíte nìco o Duhovém mostì?
+<p:54|l:24|i:20>Prosím, sleèno, máme tu práci!
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:29|i:21>Já vìdìla, ¾e ta Ruka je podrazák!
+<c:10|i:8>
+<p:12|l:38|i:22>Chudák Marko. Musí se tak stydìt!
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:72|i:23>V¾dycky jsem slýchala, ¾e je tam nahoøe kouzelný Duhový most, nebo tak nìco.
+<c:10|i:8>
+<p:12|l:73|i:24>Mo¾ná bych mìla hledat hrnec zlata, nebo velký drahokam v orlím hnízdì.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:26|i:25>Tohle musí být cesta nahoru.
+<c:10|i:8>
+<p:12|l:32|i:26>Mo¾ná bych mohla vy¹plhat po provaze?
+<c:10|i:8>
+<p:12|l:33|i:27>Musím se dostat ke Kolùm!
+<c:10|i:8>
+<p:12|l:49|i:28>V¹echna tahle roztomilá malá zdr¾ení mi lezou na nervy!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:42|i:29>Výbornì! Ta lanovka se mi hodí!
+<c:10|i:9>
+<p:11|l:47|i:30>Vìdìla jsem to! Tenhle ruksak je úplnì na nic!
+<c:10|i:0>

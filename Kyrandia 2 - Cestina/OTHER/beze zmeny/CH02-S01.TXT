@@ -1,0 +1,154 @@
+<p:11|l:9|i:0>kapitola 3
+<p:12|l:54|i:1>How am I supposed to convince the guards to let me in?
+<p:23|l:40|i:2>Get me a big body and I'll beat them up.
+<c:10|i:6>
+<p:12|l:54|i:3>Maybe you could slip through and open the gate for me.
+<p:23|l:36|i:4>Scratch my back, I'll scratch yours.
+<c:10|i:7>
+<p:12|l:32|i:5>Why do you want a body so badly?
+<p:23|l:24|i:6>If you hadn't noticed...
+<p:23|l:50|i:7>...People generally don't mingle well with vapors.
+<p:23|l:30|i:8>I haven't had a date in years.
+<c:10|i:5>
+<p:12|l:29|i:9>Hey you! I'm in a hurry here!
+<p:25|l:39|i:10>Sorry. No emergencies without a permit.
+<c:10|i:6>
+<p:12|l:35|i:11>I demand to speak to your superior!
+<p:24|l:27|i:12>Sorry. We're self employed.
+<c:10|i:7>
+<p:12|l:35|i:13>Is there something I can offer you?
+<p:24|l:27|i:14>Sorry. We're uncorruptable.
+<p:25|l:18|i:15>Completely honest.
+<c:10|i:5>
+<p:12|l:36|i:16>What do you know about those guards?
+<p:26|l:31|i:17>Never go on a picnic with them.
+<p:12|l:4|i:18>Huh?
+<p:26|l:64|i:19>They love sandwiches, but won't admit it. They'll eat all yours.
+<p:12|l:62|i:20>Boy, there's more crime in the country than one would suspect!
+<c:10|i:6>
+<p:12|l:51|i:21>Surely you could get them to open the gates for me.
+<p:26|l:36|i:22>I don't know. They're pretty strict.
+<c:10|i:7>
+<p:12|l:64|i:23>Oh, come on! Doesn't anybody care that Kyrandia is disappearing?
+<p:26|l:43|i:24>You mystics need to learn how to calm down.
+<c:10|i:5>
+<p:12|l:6|i:25>Hello?
+<c:10|i:6>
+<p:12|l:27|i:26>Boy, this one's really shy.
+<c:10|i:7>
+<p:12|l:59|i:27>You'd think they'd pick someone more outgoing for this job.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:41|i:28>I think I have hay stuck in my underwear.
+<c:10|i:8>
+<p:12|l:77|i:29>How does that farmer get his work done when he justs sits on the front porch?
+<c:10|i:8>
+<p:12|l:27|i:30>Hmm. Too high to jump over.
+<c:10|i:8>
+<p:12|l:36|i:31>Maybe I could find a goat somewhere.
+<c:10|i:8>
+<p:12|l:32|i:32>I need to get through that gate!
+<c:10|i:8>
+<p:12|l:74|i:33>All Kyrandia, with the exception of these local idiots, is counting on me.
+<c:10|i:8>
+<p:12|l:37|i:34>I'll bet the farmer would help Brynn.
+<c:10|i:8>
+<p:12|l:38|i:35>Everybody loves a helpless nincompoop.
+<c:10|i:8>
+<p:12|l:4|i:36>Hmm.
+<c:10|i:8>
+<p:12|l:87|i:37>Lets see.. Mares eat oats, and Does eat oats...Wonder what that aardvark-elephant eats?
+<c:10|i:8>
+<p:12|l:37|i:38>This cellar is bigger than the house!
+<c:10|i:8>
+<p:12|l:40|i:39>I know there's SOMETHING useful in here.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

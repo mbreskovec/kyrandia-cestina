@@ -1,0 +1,20 @@
+This should do the trick...
+That light beam is too hot to get past.
+That doesn't look positioned correctly...
+I'll bet the Hand bent it on purpose.
+I'm not going to turn it back to gold.
+That looks like a copper reflector.
+I love blue collar sculpture.
+Yow! That's hot.
+You'll not bother me further.
+Is that supposed to be Father Time?
+Is Gyro Gearloose around here somewhere?
+Is that an atom or a planet?
+CLIMB.WSA
+ATOM1.WSA
+ATOM2.WSA
+DORGEAR1.WSA
+DORGEAR2.WSA
+BEAM.WSA
+SMOKE.WSA
+DOOROPEN.WSA

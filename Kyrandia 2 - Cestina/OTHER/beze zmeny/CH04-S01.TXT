@@ -1,0 +1,110 @@
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:45|i:0>I can't believe the path is so poorly marked.
+<c:10|i:8>
+<p:12|l:33|i:1>Why don't they put up some signs?
+<c:10|i:8>
+<p:12|l:28|i:2>I should tame that dinosaur.
+<c:10|i:8>
+<p:12|l:37|i:3>I could ride him the rest of the way.
+<c:10|i:8>
+<p:12|l:30|i:4>That dinosaur acts like a dog.
+<c:10|i:8>
+<p:12|l:33|i:5>I'll bet he'd like to play fetch.
+<c:10|i:8>
+<p:12|l:24|i:6>Look at that lava river!
+<c:10|i:8>
+<p:12|l:54|i:7>Shouldn't there be blacksmiths or something down here?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<p:11|l:44|i:8>This trip has been very hard on my wardrobe!
+<c:10|i:9>
+<p:12|l:31|i:9>Wow! This place is spectacular!
+<c:10|i:9>
+<p:12|l:34|i:10>Hmm. Black pebbles on the ceiling.
+<p:12|l:66|i:11>Why do I get the feeling I'm going to have to make a Teddy Bear...
+<p:12|l:29|i:12>...to use for bait down here.
+<c:10|i:9>
+<p:12|l:40|i:13>Hey! That must be the door to the Altar.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

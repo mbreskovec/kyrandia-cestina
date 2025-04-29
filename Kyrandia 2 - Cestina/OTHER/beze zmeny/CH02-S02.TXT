@@ -1,0 +1,162 @@
+<p:11|l:9|i:0>chapter 3
+<p:12|l:47|i:1>Do you know how to get in that Farmer's cellar?
+<p:23|l:23|i:2>He's pretty protective.
+<c:10|i:6>
+<p:12|l:39|i:3>Is there anything in there I could use?
+<p:23|l:50|i:4>There's always good stuff in a cellar isn't there?
+<c:10|i:7>
+<p:12|l:48|i:5>Could you get in there and get a crowbar for me?
+<p:23|l:30|i:6>How am I supposed to carry it?
+<c:10|i:5>
+<p:12|l:37|i:7>You fellows are starting to annoy me.
+<p:25|l:54|i:8>Sorry. We're not allowed to annoy people without hats.
+<p:24|l:33|i:9>Would you really like to come in?
+<p:12|l:16|i:10>It's about time.
+<p:24|l:20|i:11>Sorry. Just kidding.
+<c:10|i:6>
+<p:24|l:29|i:12>Why do you keep bothering us?
+<p:25|l:26|i:13>Yeah, what are you, a nut?
+<c:10|i:7>
+<p:12|l:35|i:14>Please. I don't have time for this.
+<p:25|l:22|i:15>Sorry. No substitutes.
+<p:12|l:5|i:16>What?
+<p:24|l:21|i:17>No time outs allowed.
+<p:12|l:6|i:18>Arrgh!
+<p:25|l:43|i:19>Sorry. You can't compare apples to oranges.
+<p:12|l:47|i:20>You can't count the nuts in a fruitcake either.
+<p:24|l:52|i:21>Oooh! Excellent rule. We'll have to use it sometime.
+<p:25|l:10|i:22>Thank you.
+<c:10|i:5>
+<p:12|l:36|i:23>Please, may I look in your cellar...
+<p:12|l:80|i:24>...To see if there's something in there that would help me get through the gate?
+<p:26|l:50|i:25>If I had wanted to have people borrow my things...
+<p:26|l:53|i:26>...I would have moved to the city in the first place.
+<c:10|i:6>
+<p:12|l:43|i:27>Please! It's a matter of national security!
+<p:26|l:67|i:28>Looks like my little cellar is more secure than your whole country!
+<p:12|l:29|i:29>Kyrandia is your country too!
+<p:26|l:33|i:30>Actually, I was born in Miltonia.
+<c:10|i:7>
+<p:12|l:16|i:31>Small town jerk!
+<p:26|l:6|i:32>Hyuck.
+<c:10|i:5>
+<p:12|l:6|i:33>Hello?
+<c:10|i:6>
+<p:12|l:13|i:34>Anybody home?
+<c:10|i:7>
+<p:12|l:59|i:35>Quiet, but he does have the best personality in the valley.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:46|i:36>Why couldn't Marko's hand go if he's so smart?
+<c:10|i:8>
+<p:12|l:57|i:37>This stupid Anchor Stone was his idea in the first place!
+<c:10|i:8>
+<p:12|l:51|i:38>Maybe I could just drop down the Chasm of Everfall.
+<c:10|i:8>
+<p:12|l:4|i:39>Hmm.
+<c:10|i:8>
+<p:12|l:4|i:40>Hmm.
+<c:10|i:8>
+<p:12|l:4|i:41>Hmm.
+<c:10|i:8>
+<p:12|l:4|i:42>Hmm.
+<c:10|i:8>
+<p:12|l:21|i:43>Think Zanthia, Think!
+<c:10|i:8>
+<p:12|l:22|i:44>There has to be a way.
+<c:10|i:8>
+<p:12|l:45|i:45>Maybe Marko's hand could break open the gate.
+<c:10|i:8>
+<p:12|l:46|i:46>Maybe I shouldn't have been so rough on Marko.
+<c:10|i:8>
+<p:12|l:37|i:47>I'll bet that hand could help me now.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

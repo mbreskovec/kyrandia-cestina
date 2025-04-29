@@ -1,0 +1,154 @@
+<p:11|l:9|i:0>kapitola 3
+<p:12|l:54|i:1>Jak bych asi mohla pøesvìdèit strá¾e, aby mì pustily dovnitø?
+<p:23|l:40|i:2>Se¾eò mi velké tìlo a já je zmlátím.
+<c:10|i:6>
+<p:12|l:54|i:3>Mo¾ná bys mohl proklouznout a otevøít mi bhránu.
+<p:23|l:36|i:4>Kdy¾ pomù¾e¹ ty mnì, já pomù¾u tobì.
+<c:10|i:7>
+<p:12|l:32|i:5>Proè tak stra¹nì tou¾í¹ po tìle?
+<p:23|l:24|i:6>Mo¾ná sis toho nev¹imla...
+<p:23|l:50|i:7>...lidé se prostì s párou obvykle nebaví.
+<p:23|l:30|i:8>Nemìl jsem rande u¾ roky.
+<c:10|i:5>
+<p:12|l:29|i:9>Hej vy! Mám tu dost naspìch!
+<p:25|l:39|i:10>Lituju. Stav nouze se neuznává bez pøedchozí ¾ádosti.
+<c:10|i:6>
+<p:12|l:35|i:11>Chci mluvit s va¹ím nadøízeným!
+<p:24|l:27|i:12>Lituju. Jsme na volné noze.
+<c:10|i:7>
+<p:12|l:35|i:13>Je nìco, co bych vám mohla nabídnout?
+<p:24|l:27|i:14>Lituju. Jsme nepodplatitelní.
+<p:25|l:18|i:15>Naprosto bezúhonní.
+<c:10|i:5>
+<p:12|l:36|i:16>Co víte o tìch strá¾ích?
+<p:26|l:31|i:17>Nikdy s nimi nechoï na piknik.
+<p:12|l:4|i:18>He?
+<p:26|l:64|i:19>Milují sendvièe a nedoká¾ou pøestat. V¹echny by ti snìdli.
+<p:12|l:62|i:20>Páni, v téhle zemi je víc zloèinnosti, ne¾ by jeden èekal!
+<c:10|i:6>
+<p:12|l:51|i:21>Jistì byste je dokázal pøesvìdèit, aby mi otevøeli bránu.
+<p:26|l:36|i:22>Nevím. Jsou docela pøísní.
+<c:10|i:7>
+<p:12|l:64|i:23>Ale no tak! To nikoho nezajímá, ¾e Kyrandie se rozpadá?
+<p:26|l:43|i:24>Vy mystikové byste se potøebovali nauèit relaxovat.
+<c:10|i:5>
+<p:12|l:6|i:25>Haló?
+<c:10|i:6>
+<p:12|l:27|i:26>Páni, ten je dost nesmìlý.
+<c:10|i:7>
+<p:12|l:59|i:27>Jeden by myslel, ¾e pro tuhle práci si najdou nìkoho komunikativnìj¹ího.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:41|i:28>Mám pocit, ¾e mám seno v kalhotkách.
+<c:10|i:8>
+<p:12|l:77|i:29>Jak mù¾e farmáø odvést nìjakou práci, kdy¾ poøád jen sedí na verandì?
+<c:10|i:8>
+<p:12|l:27|i:30>Hmm. Moc vysoké na to pøeskoèit.
+<c:10|i:8>
+<p:12|l:36|i:31>Mo¾ná bych nìkde na¹la kozla.
+<c:10|i:8>
+<p:12|l:32|i:32>Potøebuji se dostat za tu bránu!
+<c:10|i:8>
+<p:12|l:74|i:33>Celá Kyrandie, s výjimkou místních pablbù, na mì spoléhá.
+<c:10|i:8>
+<p:12|l:37|i:34>Vsadím se, ¾e Brynnì by farmáø pomohl.
+<c:10|i:8>
+<p:12|l:38|i:35>Ka¾dý má rád bezmocné dutohlavky.
+<c:10|i:8>
+<p:12|l:4|i:36>Hmm.
+<c:10|i:8>
+<p:12|l:87|i:37>Tak se podíváme... Kobyly jedí oves a lanì jedí oves... Co asi jí tenhle hrbatý slon?
+<c:10|i:8>
+<p:12|l:37|i:38>Tenhle sklep je vìt¹í ne¾ celý dùm!
+<c:10|i:8>
+<p:12|l:40|i:39>Vím jistì, ¾e NÌCO u¾iteèného tu musí být.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

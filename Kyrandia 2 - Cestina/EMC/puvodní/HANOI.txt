@@ -1,0 +1,15 @@
+What? That stick AGAIN?
+I've never heard of a walking stick walking around by itself.
+I hope this is the right part.
+Hmm. Locked.
+That looks like my friend Larry.
+That looks like my friend Moe.
+That looks like my friend Curly.
+This doesn't LOOK like the mechanic's room.
+HANOI_1.WSA
+HANOI_2.WSA
+HANOI_3.WSA
+H_GEARS1.WSA
+H_GEARS2.WSA
+EYEOPEN.WSA
+MOUTH.WSA

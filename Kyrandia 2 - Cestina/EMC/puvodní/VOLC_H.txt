@@ -1,0 +1,9 @@
+That smoke stinks.
+Hot air.
+Unusual landscaping.
+Clear water.
+Strange island.
+VH_SMK1.WSA
+VH_WTR1.WSA
+VH_WTR2.WSA
+VH_WTR3.WSA

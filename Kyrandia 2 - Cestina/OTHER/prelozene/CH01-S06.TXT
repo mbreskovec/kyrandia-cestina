@@ -1,0 +1,140 @@
+<p:13|l:30|i:0>Nìjaká stopa po ztraceném pokladu?
+<p:12|l:9|i:1>Je¹tì ne.
+<p:12|l:38|i:2>Nejdøív se musím vypoøádat s tou krysou.
+<c:10|i:6>
+<p:12|l:47|i:3>Chtìla bych namíchat lektvar, který by to napravil!
+<p:13|l:5|i:4>Jasnì.
+<c:10|i:7>
+<p:13|l:35|i:5>Jaké druhy lektvarù mù¾e¹ dìlat?
+<p:12|l:17|i:6>Nejsem si úplnì jistá.
+<p:12|l:47|i:7>V¹echno, co mám, jsou moje staré recepty z kouzelnické ¹koly.
+<c:10|i:5>
+<p:12|l:30|i:8>Proè si ten køáp nenatøe¹?
+<p:18|l:42|i:9>Proè nejde¹ otravovat nìkoho jiného?
+<c:10|i:6>
+<p:12|l:32|i:10>U¾ jsi trochu uvolnil ta pravidla?
+<p:18|l:28|i:11>Bude¹ první, kdo se to dozví.
+<c:10|i:7>
+<p:12|l:46|i:12>U¾ se nìkdo zmínil o tom, co jsi za pacholka?
+<p:18|l:32|i:13>Ne, ale v¹ichni se zmiòují o tobì.
+<c:10|i:5>
+<p:12|l:9|i:14>Nìjaký úspìch?
+<c:10|i:6>
+<p:12|l:8|i:15>Nic?
+<c:10|i:7>
+<p:12|l:16|i:16>Nic nezabralo?
+<p:16|l:35|i:17>Proè tì to sakra poøád tak zajímá?
+<p:12|l:29|i:18>Jen se sna¾ím být zdvoøilá.
+<c:10|i:5>
+<p:12|l:12|i:19>O¹klivý plevel.
+<c:10|i:6>
+<p:12|l:12|i:20>O¹klivý plevel.
+<c:10|i:7>
+<p:12|l:12|i:21>O¹klivý plevel.
+<c:10|i:5>
+<p:12|l:21|i:22>Øíká¹ si o to!
+<c:10|i:6>
+<p:12|l:10|i:23>Myslím to vá¾nì!
+<c:10|i:7>
+<p:12|l:16|i:24>Já ne¾ertuji!
+<p:20|l:22|i:25>To mluví¹ se mnou?
+<c:10|i:5>
+<p:12|l:42|i:26>Musím vyrobit hada a vystra¹it tu krysu.
+<c:10|i:6>
+<p:12|l:42|i:27>Musím vyrobit hada a vystra¹it tu krysu.
+<c:10|i:7>
+<p:12|l:42|i:28>Musím vyrobit hada a vystra¹it tu krysu.
+<c:10|i:5>
+<p:12|l:38|i:29>Nemáme tady nìjaký jed na kdysy?
+<p:22|l:47|i:30>Proè? Pár mých nejlep¹ích pøátel jsou krysy.
+<c:10|i:6>
+<p:12|l:30|i:31>Musím se dostat pøes tu krysu!
+<c:10|i:7>
+<p:12|l:20|i:32>Nechce mi uhnout!
+<c:10|i:8>
+<p:12|l:23|i:33>Ty moje nohy mì zabijou.
+<c:10|i:8>
+<p:12|l:41|i:34>Chtìla bych mít pár Brandonových sandálù.
+<c:10|i:8>
+<p:12|l:10|i:35>Dneska je horko.
+<c:10|i:8>
+<p:12|l:10|i:36>A taky vlhko.
+<c:10|i:8>
+<p:12|l:26|i:37>Mo¾ná bych to mohla pøeplavat.
+<c:10|i:8>
+<p:12|l:22|i:38>Ale ne v téhle vodì!
+<c:10|i:8>
+<p:12|l:12|i:39>O¹klivý plevel.
+<c:10|i:8>
+<p:12|l:12|i:40>O¹klivý plevel.
+<c:10|i:8>
+<p:12|l:4|i:41>Uch!
+<c:10|i:8>
+<p:12|l:7|i:42>Stra¹idelné.
+<c:10|i:8>
+<p:12|l:27|i:43>Na plavání je to moc daleko.
+<c:10|i:8>
+<p:12|l:5|i:44>Hmmm.
+<c:10|i:8>
+<p:12|l:44|i:45>Proè musím poøád nìkam spìchat?
+<c:10|i:8>
+<p:12|l:32|i:46>Krize, krize, v¾dycky jen krize.
+<c:10|i:8>
+<p:12|l:16|i:47>Musím si odfrknout.
+<c:10|i:8>
+<p:12|l:42|i:48>Stres není dobrý na ple».
+<c:10|i:8>
+<p:12|l:31|i:49>Tihle chlapi nic neví.
+<c:10|i:8>
+<p:12|l:27|i:50>Mu¾u se stejnì dobøe ptát sama sebe.
+<c:10|i:8>
+<p:12|l:39|i:51>V moèálu bude víc tekutého písku.
+<c:10|i:8>
+<p:12|l:50|i:52>Mo¾ná ten zlodìj hodil moje vìci do bahna.
+<c:10|i:8>
+<p:12|l:30|i:53>Ten kdokodýl by potøeboval TikTak.
+<c:10|i:8>
+<p:12|l:32|i:54>Urèitì si neèistí pravidelnì zuby.
+<c:10|i:8>
+<p:12|l:5|i:55>Pfuj!
+<c:10|i:8>
+<p:12|l:5|i:56>Pfuj!
+<c:10|i:8>
+<p:12|l:33|i:57>Pøinejmen¹ím jsou vytrvalí.
+<c:10|i:8>
+<p:12|l:30|i:58>Nejspí¹ jsou tu poprvé.
+<c:10|i:8>
+<p:12|l:11|i:59>Divní brouci.
+<c:10|i:8>
+<p:12|l:11|i:60>Divní brouci.
+<c:10|i:8>
+<p:12|l:29|i:61>Na tohle nemám náladu.
+<c:10|i:8>
+<p:12|l:27|i:62>Proè tohle v¹echno neudìlá Darm?
+<c:10|i:8>
+<p:12|l:23|i:63>Proè se na to nevyka¹le?
+<c:10|i:8>
+<p:12|l:20|i:64>Co asi hlídá?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

@@ -1,0 +1,54 @@
+Trubka je otevøená.
+Trubka je zavøená.
+Hele! Ten klacek blokuje kola.
+Zvláštní, tohle vypadá jako kus rybáøského èlunu.
+Fíha! Ta elektøina vypadá nebezpeènì!
+Jeden magnet bude staèit.
+Magnetické!
+Nic se nestalo.
+Je v tom nìjaké drcené obilí...
+Kdybych je tak mohla nìjak dostat ven.
+Jsou tam nìjaké drcené øedkvièky...
+Drtiè pracuje.
+Drtiè nepracuje.
+Rozdrtilo to øedkvièky...
+Jak to vyberu ven?
+Rozdrtilo to obilí...
+Takže mám drcené zrní.
+Takže mám drcené øedkvièky.
+Není tam nic k vybrání.
+V té misce už nìco je.
+Nemùžu nabrat žádné obilí...
+Hrdlo lahvièky je moc úzké.
+Nemùžu nabrat žádné drcené øedkvièky...
+Tohle rozhodnì nechci rozdrtit.
+Nemyslím, že bych to mìla rozdrtit.
+Nechci rozdrtit svùj klacek.
+Nechci rozdrtit chudáka pana Ducha.
+Nechci znièit své nùžky.
+Tohle znièit mì ani nenapadne!
+Nechci riskovat svùj lektvar.
+Tohle nestojí za to nièit.
+Když to znièím, jak budu pít další koøenové pivo?
+Pochybuji, že by ho teï pirát mohl použít.
+Ten zub byl každopádnì bezcenný.
+A je po nìm!
+Krásná venkovská krajina.
+Ta voda vypadá velmi osvìžující.
+Když se potopí, tak už to nikdy neuvidím.
+Jak povznášející kaskáda.
+Ta voda sotva teèe.
+Teï už pìknì zurèí.
+Nìco je tady špatnì.
+Ta kola jsou jistì zaseklá.
+Vypadá nabruèenì.
+Ale jestli ho má nìkdo rozveselit, já to nebudu.
+Typická Kyrandijská technika.
+Proè nemùže být nìco prostì normální?
+Odtud asi pøichází všechna voda.
+WHEELSTP.WSA
+WHEEL.WSA
+SHOCK.WSA
+AXLE.WSA
+TURNWHEL.WSA
+ZANSHOCK.WSA

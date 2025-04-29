@@ -1,0 +1,148 @@
+<p:11|l:9|i:0>kapitola 3
+<p:12|l:30|i:1>Ráda bych ti pomohla, ale jak?
+<p:23|l:43|i:2>Jsem nìco jako džin. Mùžeš mì pøenést v lahvi.
+<c:10|i:6>
+<p:12|l:44|i:3>Proè se nemùžeš dostat do tìla sám?
+<p:23|l:29|i:4>Nìkdo mi s tím musí pomoct.
+<c:10|i:7>
+<p:12|l:35|i:5>Když ti pomùžu, pomùžeš ty mnì?
+<p:23|l:76|i:6>Takový dobrý skutek je sám o sobì odmìnou, nemyslíš?
+<c:10|i:5>
+<p:12|l:27|i:7>Hej! V lese hoøí!
+<p:25|l:32|i:8>Lituju. Po snídani je oheò zakázaný.
+<c:10|i:6>
+<p:12|l:36|i:9>Koukejte! Za vámi je pøíšera!
+<p:24|l:37|i:10>To nemùže. Pøíšery mají vyhrazené pondìlí.
+<c:10|i:7>
+<p:12|l:44|i:11>Už vám nìkdo øekl, co jste za pitomce?
+<p:24|l:48|i:12>Lituji. Psychologické poradenství je ve ètvrtek.
+<c:10|i:5>
+<p:12|l:37|i:13>Ten strašák v zahradì je váš?
+<p:26|l:16|i:14>Pracuje pro mì.
+<c:10|i:6>
+<p:12|l:24|i:15>Není zrovna pøátelský, co?
+<p:26|l:18|i:16>Je to jenom panák.
+<c:10|i:7>
+<p:12|l:63|i:17>To nevím, proè by panáci nemohli být stejnì pøátelští jako my ostatní.
+<c:10|i:5>
+<p:12|l:10|i:18>Hej, panáku!
+<p:12|l:16|i:19>Slyšíš mì?
+<c:10|i:6>
+<p:12|l:39|i:20>Mám na prodej jeden mozek. Levnì.
+<c:10|i:7>
+<p:12|l:35|i:21>Dokážeš odehnat všechny vrány?
+<p:12|l:51|i:22>Øekla bych, že ne, když ti tak koukám na ramena.
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:31|i:23>Myslím, že tenhle duch mi mùže pomoct.
+<c:10|i:8>
+<p:12|l:35|i:24>Není tu zrovna moc volných tìl.
+<c:10|i:8>
+<p:12|l:41|i:25>Možná mají ti hlupáci nìco spoleèného s Hermanem.
+<c:10|i:8>
+<p:12|l:51|i:26>Proè vždycky postaví do služby taková trdla?
+<c:10|i:8>
+<p:12|l:29|i:27>Kdybych tak mìla své kouzelné zrcadlo.
+<c:10|i:8>
+<p:12|l:34|i:28>Možná už Faun našel moje vybavení.
+<c:10|i:8>
+<p:12|l:38|i:29>Když tomu dochovi najdu tìlo...
+<p:12|l:39|i:30>...mohl by mì dostat pøes bránu.
+<c:10|i:8>
+<p:12|l:69|i:31>Upøímnì, vlastnì jsem docela ráda, že se kolem nepovalují hromady tìl.
+<c:10|i:8>
+<p:12|l:41|i:32>Kam pùjde, když Kyrandie zmizí?
+<c:10|i:8>
+<p:12|l:36|i:33>To musí být jeden z Malcolmových žertíkù.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:0>

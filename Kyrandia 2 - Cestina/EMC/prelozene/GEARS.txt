@@ -1,0 +1,51 @@
+MAR1
+DEATH1.WSA
+DEATH2.WSA
+DEATH3.WSA
+DEATH4.WSA
+DEATH5.WSA
+DEATH6.WSA
+DEATH7.WSA
+HIT.WSA
+HANDDEAD.WSA
+Uch! Nechutné!
+Aspoò e Kyrandie u je v bezpeèí.
+Jistì, ale v první øadì se nic z tohohle nemìlo stát!
+Øíkal tu nìkdo 'Díky, Marko, za tvou pomoc?'
+Díky, Marko, za tvou pomoc.
+Prosím pøestaò. A se nemusím èervenat.
+Dobøe, dobøe!
+Bez tebe bych to nezvládla.
+Spokojenı?
+Dobrá, srdíèko, co takhle vrátit se domù?
+Mám venku schované dva kouzelné padáky.
+Srdíèko?!?
+DODGE1.WSA
+DODGE2.WSA
+GEAR_ON.WSA
+ARROW.WSA
+Kyrandie je zachránìna!
+Chudák klacek!
+MARCGEAR.WSA
+PUSH.WSA
+Budu potøebovat vìtší páku, jestli s tím chci pohnout.
+Hm. Prázdná høídel?
+To kolo není správnì usazené...
+Tohle urèitì provedla Ruka!
+Teï potøebuji nìco, èím to kolo poøádnì upevním.
+Tohle na høídel nepatøí.
+Nemùu riskovat, e ztratím svùj magnet.
+Tenhle klacek na høídel nepatøí.
+Tohle mi nepomùe!
+To nevypadá dobøe.
+Vida! Tak tenhle mròous zpùsobil všechny ty potíe.
+To kolo není správnì usazené...
+Tohle pracuje bezchybnì.
+Tohle zøejmì funguje správnì.
+Tady je to v poøádku.
+Docela by mì zajímaly stavební plány tohohle místa!
+Podivná továrna!
+Radši tady nebudu nic nechávat.
+GEARS.WSA
+FIXED.WSA
+WARNING.WSA

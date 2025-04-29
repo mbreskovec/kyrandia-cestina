@@ -1,0 +1,136 @@
+<p:12|l:45|i:0>I saw a road over there. Is it the right one?
+<p:50|l:34|i:1>Did you say SAW?! Is it a big one?
+<c:10|i:6>
+<p:12|l:86|i:2>Hey, calm down. I've never been here before, and I'm just looking for some directions.
+<p:50|l:53|i:3>Did you say BEAVER?! Is it a whole family of beavers?
+<c:10|i:7>
+<p:12|l:54|i:4>Hey! I'm not the lumberjack, and there are no beavers!
+<p:12|l:52|i:5>You're getting all fired up over a misunderstanding!
+<p:50|l:28|i:6>FIRE?!! Is it a forest fire?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<p:12|l:66|i:7>Do you know how I can get past those trees in the road back there?
+<p:53|l:48|i:8>Oh, they're famous. That's the Petrified Forest.
+<c:10|i:6>
+<p:12|l:23|i:9>How do I get past them?
+<p:53|l:30|i:10>They weren't always petrified.
+<c:10|i:7>
+<p:12|l:22|i:11>So, how do I get past?
+<p:53|l:52|i:12>They used to be a dance team. The Swinging Saplings.
+<p:53|l:29|i:13>Perhaps you've heard of them?
+<c:10|i:5>
+<p:12|l:46|i:14>Do you know how to get past those goofy trees?
+<p:54|l:52|i:15>Sorry, they've been there as long as I can remember.
+<c:10|i:6>
+<p:12|l:40|i:16>What are you going to do with that foot?
+<p:54|l:43|i:17>I don't know. Maybe we'll keep it as a pet.
+<c:10|i:7>
+<p:12|l:43|i:18>Please! Don't you have a spell I could use?
+<p:12|l:31|i:19>I have to get past those trees!
+<p:54|l:29|i:20>Sorry. Have you tried an axe?
+<c:10|i:5>
+<p:12|l:46|i:21>Do you know how to get past those goofy trees?
+<p:54|l:52|i:22>Sorry, they've been there as long as I can remember.
+<c:10|i:6>
+<p:12|l:40|i:23>What are you going to do with that foot?
+<p:54|l:43|i:24>I don't know. Maybe we'll keep it as a pet.
+<c:10|i:7>
+<p:12|l:43|i:25>Please! Don't you have a spell I could use?
+<p:12|l:31|i:26>I have to get past those trees!
+<p:54|l:29|i:27>Sorry. Have you tried an axe?
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:5>
+<c:10|i:6>
+<c:10|i:7>
+<c:10|i:8>
+<p:12|l:55|i:28>You'd think that knight would have an axe or something.
+<c:10|i:8>
+<p:12|l:47|i:29>Maybe I could scare those trees out of the way.
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:27|i:30>First a hand, now a foot...
+<p:12|l:30|i:31>I wonder if they're connected?
+<c:10|i:8>
+<p:12|l:27|i:32>First a hand, now a foot...
+<p:12|l:30|i:33>I wonder if they're connected?
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<c:10|i:8>
+<p:12|l:64|i:34>This is the worst case of Horticultural neurosis I've ever seen!
+<c:10|i:8>
+<p:12|l:48|i:35>I've got to think of some way to loosen them up!
+<c:10|i:9>
+<p:12|l:21|i:36>At last! A real road!
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:36|i:37>Is that foot some sort of livestock?
+<p:12|l:59|i:38>I don't believe I'll eat any milk products here, thank you.
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<c:10|i:9>
+<p:12|l:44|i:39>I'd like to be able to get past these trees!
+<c:10|i:0>
